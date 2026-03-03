@@ -1,0 +1,246 @@
+)
+🟢 EASY (1–20)
+
+Which current exists in vacuum?
+A) Conduction
+B) Drift
+C) Displacement
+D) Eddy
+
+Ans: C
+
+Displacement current is proportional to:
+A) dB/dt
+B) dE/dt
+C) dΦE/dt
+D) dΦB/dt
+
+Ans: C
+
+EM waves are:
+A) Longitudinal
+B) Transverse
+C) Both
+D) Neither
+
+Ans: B
+
+Speed of EM waves in vacuum is:
+A) 3×10⁶
+B) 3×10⁸
+C) 3×10¹⁰
+D) Variable
+
+Ans: B
+
+EM waves need which medium?
+A) Solid
+B) Liquid
+C) Gas
+D) None
+
+Ans: D
+
+Which law predicts EM waves?
+A) Faraday
+B) Coulomb
+C) Maxwell
+D) Gauss
+
+Ans: C
+
+Direction of propagation is given by:
+A) E×B
+B) B×E
+C) E+B
+D) E−B
+
+Ans: A
+
+Which EM wave has highest frequency?
+A) X-ray
+B) UV
+C) Gamma
+D) Microwave
+
+Ans: C
+
+Visible light wavelength lies between:
+A) 100–200 nm
+B) 200–400 nm
+C) 400–700 nm
+D) 700–1000 nm
+
+Ans: C
+
+Microwaves are used in:
+A) Sterilization
+B) Cooking
+C) Vision
+D) Cancer therapy
+
+Ans: B
+
+🟡 MEDIUM (21–40)
+
+Which EM wave is used in radar?
+A) IR
+B) Radio
+C) Microwave
+D) UV
+
+Ans: C
+
+Ratio E₀/B₀ equals:
+A) v
+B) c
+C) 1/c
+D) λ
+
+Ans: B
+
+Energy density of EM wave depends on:
+A) Only E
+B) Only B
+C) Both
+D) Frequency only
+
+Ans: C
+
+EM waves are produced by:
+A) Stationary charges
+B) Uniform motion
+C) Accelerated charges
+D) Neutral particles
+
+Ans: C
+
+UV rays are harmful because they cause:
+A) Heating
+B) Ionization
+C) Reflection
+D) Refraction
+
+Ans: B
+
+Intensity of EM wave ∝
+A) E₀
+B) B₀
+C) E₀²
+D) f
+
+Ans: C
+
+Which is ionizing radiation?
+A) IR
+B) Microwave
+C) X-ray
+D) Radio
+
+Ans: C
+
+Which wave has max wavelength?
+A) Gamma
+B) X-ray
+C) Radio
+D) UV
+
+Ans: C
+
+EM wave momentum is:
+A) Zero
+B) E/c
+C) mc
+D) Infinite
+
+Ans: B
+
+Radiation pressure on reflecting surface is:
+A) I/c
+B) 2I/c
+C) c/I
+D) Zero
+
+Ans: B
+
+🔴 HARD / JEE ADV (41–60)
+
+Displacement current was introduced to maintain:
+A) Charge conservation
+B) Energy conservation
+C) Magnetic flux
+D) Ohm’s law
+
+Ans: A
+
+If E doubles, intensity becomes:
+A) Same
+B) 2 times
+C) 4 times
+D) 8 times
+
+Ans: C
+
+Direction of B if E is along +x and wave moves along +z?
+A) +y
+B) −y
+C) +z
+D) −z
+
+Ans: B
+
+EM wave carries:
+A) Energy only
+B) Momentum only
+C) Both
+D) Neither
+
+Ans: C
+
+In a medium, speed of EM wave decreases because:
+A) Frequency changes
+B) Wavelength changes
+C) μ and ε change
+D) Energy decreases
+
+Ans: C
+
+Poynting vector gives:
+A) Energy density
+B) Energy flux
+C) Momentum
+D) Pressure
+
+Ans: B
+
+EM wave cannot be polarized if:
+A) Mechanical
+B) Longitudinal
+C) Transverse
+D) EM
+
+Ans: B
+
+Which has highest penetrating power?
+A) X-ray
+B) UV
+C) Gamma
+D) IR
+
+Ans: C
+
+EM wave in vacuum has phase difference between E and B:
+A) 0
+B) π/2
+C) π
+D) Variable
+
+Ans: A
+
+Which EM wave is least energetic?
+A) Gamma
+B) UV
+C) IR
+D) Radio
+
+Ans: D

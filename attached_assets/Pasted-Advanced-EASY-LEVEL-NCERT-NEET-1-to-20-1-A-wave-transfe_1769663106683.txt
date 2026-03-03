@@ -1,0 +1,544 @@
+Advanced
+
+🟢 EASY LEVEL (NCERT / NEET) – 1 to 20
+1. A wave transfers:
+
+A) Matter only
+B) Energy only
+C) Both matter and energy
+D) Neither
+
+Ans: B
+
+2. Which of the following is a transverse wave?
+
+A) Sound wave
+B) Water wave
+C) Compression wave
+D) Shock wave
+
+Ans: B
+
+3. In longitudinal waves, particles vibrate:
+
+A) Perpendicular to wave direction
+B) Parallel to wave direction
+C) In circular paths
+D) Randomly
+
+Ans: B
+
+4. Sound waves cannot travel through:
+
+A) Solids
+B) Liquids
+C) Gases
+D) Vacuum
+
+Ans: D
+
+5. Unit of wave number (k) is:
+
+A) m
+B) m⁻¹
+C) s⁻¹
+D) rad/s
+
+Ans: B
+
+6. Wave speed is given by:
+
+A) v = f/λ
+B) v = λ/f
+C) v = fλ
+D) v = ωf
+
+Ans: C
+
+7. Crest and trough are characteristics of:
+
+A) Longitudinal waves
+B) Transverse waves
+C) Sound waves
+D) Pressure waves
+
+Ans: B
+
+8. In a wave y = A sin(kx − ωt), the term ω represents:
+
+A) Frequency
+B) Wave number
+C) Angular frequency
+D) Phase constant
+
+Ans: C
+
+9. Which wave can be polarized?
+
+A) Sound wave
+B) Water wave
+C) Light wave
+D) Compression wave
+
+Ans: C
+
+10. Speed of transverse wave on a stretched string depends on:
+
+A) Length only
+B) Tension and mass density
+C) Frequency only
+D) Amplitude only
+
+Ans: B
+
+11. Unit of frequency is:
+
+A) Hz
+B) rad/s
+C) m/s
+D) N
+
+Ans: A
+
+12. Reflection at fixed end causes:
+
+A) No phase change
+B) Phase change of π
+C) Increase in amplitude
+D) Increase in wavelength
+
+Ans: B
+
+13. At a node in standing wave:
+
+A) Displacement is maximum
+B) Velocity is maximum
+C) Displacement is zero
+D) Energy is maximum
+
+Ans: C
+
+14. Distance between two consecutive nodes is:
+
+A) λ
+B) λ/4
+C) λ/2
+D) 2λ
+
+Ans: C
+
+15. Fundamental frequency of a stretched string of length L is:
+
+A) v/L
+B) v/2L
+C) 2v/L
+D) v/4L
+
+Ans: B
+
+16. In an open organ pipe, harmonics present are:
+
+A) Only even
+B) Only odd
+C) All harmonics
+D) None
+
+Ans: C
+
+17. Beat frequency is given by:
+
+A) f₁ + f₂
+B) |f₁ − f₂|
+C) f₁f₂
+D) f₁/f₂
+
+Ans: B
+
+18. Doppler effect occurs due to:
+
+A) Change in wavelength
+B) Relative motion between source and observer
+C) Reflection
+D) Refraction
+
+Ans: B
+
+19. SI unit of intensity is:
+
+A) W
+B) W/m²
+C) J
+D) J/m²
+
+Ans: B
+
+20. In progressive wave, energy:
+
+A) Remains localized
+B) Is not transferred
+C) Is transferred forward
+D) Is destroyed
+
+Ans: C
+
+🟡 MEDIUM LEVEL (JEE MAIN) – 21 to 40
+21. Which quantity remains constant for all particles in a standing wave?
+
+A) Amplitude
+B) Velocity
+C) Frequency
+D) Phase
+
+Ans: C
+
+22. Wave equation y = A sin(kx − ωt) represents wave moving:
+
+A) Along −x
+B) Along +x
+C) Along y
+D) Stationary
+
+Ans: B
+
+23. Particle velocity in wave is maximum at:
+
+A) Crest
+B) Trough
+C) Mean position
+D) Node
+
+Ans: C
+
+24. In sound wave, pressure antinode corresponds to:
+
+A) Displacement antinode
+B) Displacement node
+C) Maximum velocity
+D) Minimum pressure
+
+Ans: B
+
+25. If frequency doubles, wavelength becomes:
+
+A) Doubled
+B) Halved
+C) Same
+D) Four times
+
+Ans: B
+
+26. For a stretched string, wave speed ∝:
+
+A) √μ
+B) √T
+C) 1/√T
+D) μ/T
+
+Ans: B
+
+27. Intensity of a wave is proportional to:
+
+A) A
+B) A²
+C) A³
+D) 1/A
+
+Ans: B
+
+28. Closed organ pipe of length L has fundamental wavelength:
+
+A) 2L
+B) L
+C) 4L
+D) L/2
+
+Ans: C
+
+29. In standing wave, net energy transfer is:
+
+A) Zero
+B) Maximum
+C) Minimum
+D) Infinite
+
+Ans: A
+
+30. In Doppler effect, if source approaches observer:
+
+A) Frequency decreases
+B) Frequency increases
+C) Wavelength increases
+D) Speed changes
+
+Ans: B
+
+31. Sound travels fastest in:
+
+A) Air
+B) Water
+C) Steel
+D) Vacuum
+
+Ans: C
+
+32. Speed of sound in gas increases with:
+
+A) Density
+B) Temperature
+C) Pressure only
+D) Humidity decreases
+
+Ans: B
+
+33. Superposition principle leads to:
+
+A) Reflection
+B) Refraction
+C) Interference
+D) Diffraction only
+
+Ans: C
+
+34. Maximum displacement in SHM equals:
+
+A) Velocity
+B) Frequency
+C) Amplitude
+D) Wavelength
+
+Ans: C
+
+35. In beats, loudness variation is due to:
+
+A) Frequency change
+B) Phase change
+C) Amplitude change
+D) Velocity change
+
+Ans: C
+
+36. Reflection from free end causes:
+
+A) Phase reversal
+B) No phase change
+C) Frequency change
+D) Velocity change
+
+Ans: B
+
+37. The quantity independent of medium is:
+
+A) Wavelength
+B) Speed
+C) Frequency
+D) Amplitude
+
+Ans: C
+
+38. Mach number greater than 1 indicates:
+
+A) Subsonic motion
+B) Supersonic motion
+C) Sonic motion
+D) Hypersonic
+
+Ans: B
+
+39. Standing waves are formed due to:
+
+A) Reflection only
+B) Refraction only
+C) Two opposite progressive waves
+D) Beats
+
+Ans: C
+
+40. Speed of sound in air increases with humidity because:
+
+A) Density increases
+B) Density decreases
+C) Pressure increases
+D) Temperature decreases
+
+Ans: B
+
+🔴 ADVANCED LEVEL (JEE ADVANCED) – 41 to 60
+41. Phase difference between two points λ/4 apart is:
+
+A) π
+B) π/2
+C) 2π
+D) π/4
+
+Ans: B
+
+42. In standing wave, particles at nodes:
+
+A) Oscillate with max amplitude
+B) Remain at rest
+C) Have max velocity
+D) Transfer energy
+
+Ans: B
+
+43. Ratio of fundamental frequencies of open and closed pipes of same length:
+
+A) 1:1
+B) 1:2
+C) 2:1
+D) 4:1
+
+Ans: C
+
+44. Particle velocity maximum equals:
+
+A) ω/k
+B) Aω
+C) A/k
+D) kA
+
+Ans: B
+
+45. Which wave does NOT obey superposition?
+
+A) Light
+B) Sound
+C) Water
+D) Shock wave
+
+Ans: D
+
+46. Pressure variation in sound wave is maximum at:
+
+A) Displacement antinode
+B) Displacement node
+C) Mean position
+D) Everywhere same
+
+Ans: B
+
+47. Energy of wave depends on:
+
+A) Frequency only
+B) Amplitude only
+C) Both amplitude & frequency
+D) Wavelength only
+
+Ans: C
+
+48. If tension of string is quadrupled, wave speed becomes:
+
+A) Double
+B) Half
+C) Four times
+D) √2 times
+
+Ans: A
+
+49. Effective length of organ pipe increases due to:
+
+A) Temperature
+B) End correction
+C) Pressure
+D) Density
+
+Ans: B
+
+50. End correction equals:
+
+A) 0.3r
+B) 0.6r
+C) r
+D) 1.2r
+
+Ans: B
+
+51. In Doppler effect with wind, effective speed of sound:
+
+A) Remains same
+B) Increases
+C) Decreases
+D) Depends on wind direction
+
+Ans: D
+
+52. Sonic boom is produced due to:
+
+A) Beats
+B) Interference
+C) Shock waves
+D) Reflection
+
+Ans: C
+
+53. Intensity of sound becomes four times when amplitude becomes:
+
+A) Doubled
+B) Halved
+C) Quadrupled
+D) Same
+
+Ans: A
+
+54. Which quantity differs at different points in standing wave?
+
+A) Frequency
+B) Time period
+C) Amplitude
+D) Angular frequency
+
+Ans: C
+
+55. Wave energy flows in standing wave:
+
+A) From node to antinode
+B) From antinode to node
+C) From left to right
+D) Does not flow
+
+Ans: D
+
+56. For same tension and length, heavier string has:
+
+A) Higher frequency
+B) Same frequency
+C) Lower frequency
+D) Infinite frequency
+
+Ans: C
+
+57. Maximum Doppler shift occurs when:
+
+A) Source stationary
+B) Observer stationary
+C) Both move away
+D) Source & observer approach each other
+
+Ans: D
+
+58. Wave speed depends on:
+
+A) Amplitude
+B) Frequency
+C) Medium property
+D) Phase
+
+Ans: C
+
+59. Which statement is false?
+
+A) All oscillatory motion is periodic
+B) All periodic motion is oscillatory
+C) Standing waves transfer no energy
+D) Progressive waves transfer energy
+
+Ans: B
+
+60. Which remains unchanged during reflection?
+
+A) Phase
+B) Amplitude
+C) Frequency
+D) Direction
+
+Ans: C

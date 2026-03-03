@@ -1,0 +1,734 @@
+1️⃣ Introduction to Motion in a Plane
+Definition
+
+When an object moves in two directions at the same time, its motion is called motion in a plane (2-D motion).
+
+In this type of motion, we need two coordinates (x and y) to describe the position.
+
+Example
+
+A ball thrown at an angle
+
+A car taking a turn
+
+An airplane flying diagonally
+
+All these move in two directions simultaneously.
+
+2️⃣ Scalars and Vectors
+Scalar Quantity
+
+A scalar has only magnitude, no direction.
+
+Examples:
+
+Distance (5 m)
+
+Speed (10 m/s)
+
+Time (2 s)
+
+Mass (50 kg)
+
+👉 Scalars tell “how much” only.
+
+Vector Quantity
+
+A vector has both magnitude and direction.
+
+Examples:
+
+Displacement (5 m east)
+
+Velocity (20 m/s north)
+
+Acceleration (9.8 m/s² downward)
+
+👉 Vectors tell “how much” and “which direction”.
+
+3️⃣ Position Vector
+Definition
+
+The position vector tells the position of an object with respect to the origin.
+
+It is written as:
+
+𝑟
+⃗
+=
+𝑥
+𝑖
+^
++
+𝑦
+𝑗
+^
+r
+=x
+i
+^
++y
+j
+^
+	​
+
+Example
+
+If a particle is at point (3, 4),
+
+𝑟
+⃗
+=
+3
+𝑖
+^
++
+4
+𝑗
+^
+r
+=3
+i
+^
++4
+j
+^
+	​
+
+
+This means:
+
+3 units along x-axis
+
+4 units along y-axis
+
+4️⃣ Displacement Vector
+Definition
+
+Displacement vector is the change in position vector.
+
+Δ
+𝑟
+⃗
+=
+𝑟
+⃗
+2
+−
+𝑟
+⃗
+1
+Δ
+r
+=
+r
+2
+	​
+
+−
+r
+1
+	​
+
+
+It depends only on initial and final positions, not the path.
+
+Example
+
+Initial position = (1,2)
+Final position = (4,6)
+
+Δ
+𝑟
+⃗
+=
+(
+3
+𝑖
+^
++
+4
+𝑗
+^
+)
+Δ
+r
+=(3
+i
+^
++4
+j
+^
+	​
+
+)
+5️⃣ Equality of Vectors
+Definition
+
+Two vectors are equal if:
+
+Their magnitudes are equal
+
+Their directions are same
+
+Example
+
+Two arrows of length 5 cm pointing east are equal vectors, even if drawn at different places.
+
+6️⃣ Multiplication of a Vector by a Scalar
+Concept
+
+When a vector is multiplied by a number:
+
+Magnitude changes
+
+Direction may reverse (if number is negative)
+
+Example
+
+If 
+𝐴
+⃗
+=
+2
+𝑖
+^
+A
+=2
+i
+^
+:
+
+2
+𝐴
+⃗
+=
+4
+𝑖
+^
+2
+A
+=4
+i
+^
+ (same direction)
+
+−
+𝐴
+⃗
+=
+−
+2
+𝑖
+^
+−
+A
+=−2
+i
+^
+ (opposite direction)
+
+7️⃣ Unit Vector
+Definition
+
+A unit vector has magnitude 1 and shows direction only.
+
+Common unit vectors:
+
+𝑖
+^
+i
+^
+ → x-direction
+
+𝑗
+^
+j
+^
+	​
+
+ → y-direction
+
+𝑘
+^
+k
+^
+ → z-direction
+
+Example
+
+Velocity of 10 m/s east can be written as:
+
+𝑣
+⃗
+=
+10
+𝑖
+^
+v
+=10
+i
+^
+8️⃣ Resolution of a Vector
+Definition
+
+Breaking a vector into horizontal and vertical components is called resolution of vector.
+
+If vector A makes angle θ with x-axis:
+
+𝐴
+𝑥
+=
+𝐴
+cos
+⁡
+𝜃
+A
+x
+	​
+
+=Acosθ
+𝐴
+𝑦
+=
+𝐴
+sin
+⁡
+𝜃
+A
+y
+	​
+
+=Asinθ
+Example
+
+Force = 10 N at 30°
+
+𝐴
+𝑥
+=
+10
+cos
+⁡
+30
+∘
+=
+8.66
+A
+x
+	​
+
+=10cos30
+∘
+=8.66
+𝐴
+𝑦
+=
+10
+sin
+⁡
+30
+∘
+=
+5
+A
+y
+	​
+
+=10sin30
+∘
+=5
+9️⃣ Vector Addition
+Methods
+
+Triangle law
+
+Parallelogram law
+
+Component method
+
+Example (Component Method)
+𝐴
+⃗
+=
+3
+𝑖
+^
++
+4
+𝑗
+^
+A
+=3
+i
+^
++4
+j
+^
+	​
+
+𝐵
+⃗
+=
+1
+𝑖
+^
++
+2
+𝑗
+^
+B
+=1
+i
+^
++2
+j
+^
+	​
+
+
+Resultant:
+
+𝑅
+⃗
+=
+4
+𝑖
+^
++
+6
+𝑗
+^
+R
+=4
+i
+^
++6
+j
+^
+	​
+
+🔟 Velocity in a Plane
+Average Velocity
+𝑣
+⃗
+𝑎
+𝑣
+𝑔
+=
+Δ
+𝑟
+⃗
+Δ
+𝑡
+v
+avg
+	​
+
+=
+Δt
+Δ
+r
+	​
+
+Instantaneous Velocity
+𝑣
+⃗
+=
+𝑑
+𝑟
+⃗
+𝑑
+𝑡
+v
+=
+dt
+d
+r
+	​
+
+
+Components:
+
+𝑣
+𝑥
+=
+𝑑
+𝑥
+𝑑
+𝑡
+,
+𝑣
+𝑦
+=
+𝑑
+𝑦
+𝑑
+𝑡
+v
+x
+	​
+
+=
+dt
+dx
+	​
+
+,v
+y
+	​
+
+=
+dt
+dy
+	​
+
+Example
+
+If:
+
+𝑥
+=
+2
+𝑡
+,
+𝑦
+=
+3
+𝑡
+x=2t,y=3t
+
+Then:
+
+𝑣
+𝑥
+=
+2
+,
+𝑣
+𝑦
+=
+3
+v
+x
+	​
+
+=2,v
+y
+	​
+
+=3
+1️⃣1️⃣ Acceleration in a Plane
+Definition
+
+Acceleration is the rate of change of velocity.
+
+𝑎
+⃗
+=
+𝑑
+𝑣
+⃗
+𝑑
+𝑡
+a
+=
+dt
+d
+v
+	​
+
+
+Components:
+
+𝑎
+𝑥
+=
+𝑑
+𝑣
+𝑥
+𝑑
+𝑡
+,
+𝑎
+𝑦
+=
+𝑑
+𝑣
+𝑦
+𝑑
+𝑡
+a
+x
+	​
+
+=
+dt
+dv
+x
+	​
+
+	​
+
+,a
+y
+	​
+
+=
+dt
+dv
+y
+	​
+
+	​
+
+Example
+
+If velocity changes from 2 m/s to 6 m/s in 2 s:
+
+𝑎
+=
+6
+−
+2
+2
+=
+2
+ m/s
+2
+a=
+2
+6−2
+	​
+
+=2 m/s
+2
+1️⃣2️⃣ Projectile Motion
+Definition
+
+Motion of a body thrown into air under gravity is called projectile motion.
+
+Acceleration:
+
+Horizontal: 
+𝑎
+𝑥
+=
+0
+a
+x
+	​
+
+=0
+
+Vertical: 
+𝑎
+𝑦
+=
+−
+𝑔
+a
+y
+	​
+
+=−g
+
+Example
+
+A ball thrown at an angle moves forward and downward forming a parabolic path.
+
+Important Formulae (Projectile)
+
+Time of flight:
+
+𝑇
+=
+2
+𝑢
+sin
+⁡
+𝜃
+𝑔
+T=
+g
+2usinθ
+	​
+
+
+Maximum height:
+
+𝐻
+=
+𝑢
+2
+sin
+⁡
+2
+𝜃
+2
+𝑔
+H=
+2g
+u
+2
+sin
+2
+θ
+	​
+
+
+Range:
+
+𝑅
+=
+𝑢
+2
+sin
+⁡
+2
+𝜃
+𝑔
+R=
+g
+u
+2
+sin2θ
+	​
+
+
+📌 Maximum range at 45°
+
+1️⃣3️⃣ Uniform Circular Motion
+Definition
+
+When an object moves in a circle with constant speed, it is in uniform circular motion.
+
+Even though speed is constant, velocity changes.
+
+Example
+
+A stone tied to a string and rotated in a circle.
+
+Centripetal Acceleration
+𝑎
+𝑐
+=
+𝑣
+2
+𝑅
+a
+c
+	​
+
+=
+R
+v
+2
+	​
+
+
+Direction → towards centre
+
+Example
+
+If speed increases, centripetal acceleration increases.

@@ -1,0 +1,378 @@
+60 MCQs — Ray Optics & Optical Instruments
+(Level: Easy → JEE Advanced)
+Answers are given at the end (no explanations, exam style).
+
+🟢 EASY (1–20)
+
+Q1. Magnification of a plane mirror is
+A) −1
+B) +1
+C) 0
+D) Depends on distance
+
+Q2. Unit of refractive index is
+A) m
+B) rad
+C) no unit
+D) diopter
+
+Q3. Speed of light is maximum in
+A) Glass
+B) Water
+C) Air
+D) Vacuum
+
+Q4. Focal length of a plane mirror is
+A) Zero
+B) Infinite
+C) Positive
+D) Negative
+
+Q5. Which mirror always forms a virtual image?
+A) Concave
+B) Convex
+C) Plane only
+D) Concave & plane
+
+Q6. Unit of power of lens is
+A) meter
+B) cm
+C) diopter
+D) watt
+
+Q7. Snell’s law is
+A) n = c/v
+B) sin i / sin r = constant
+C) i = r
+D) v = fλ
+
+Q8. A convex lens is also called
+A) Diverging lens
+B) Converging lens
+C) Cylindrical lens
+D) Plano lens
+
+Q9. Near point of normal human eye is
+A) 10 cm
+B) 20 cm
+C) 25 cm
+D) ∞
+
+Q10. Far point of normal eye is
+A) 25 cm
+B) 50 cm
+C) 1 m
+D) ∞
+
+Q11. Refractive index increases as wavelength
+A) increases
+B) decreases
+C) remains same
+D) becomes zero
+
+Q12. Power of concave lens is
+A) positive
+B) zero
+C) negative
+D) infinite
+
+Q13. Image formed by convex mirror is always
+A) real
+B) inverted
+C) virtual and erect
+D) same size
+
+Q14. Which color deviates most in a prism?
+A) Red
+B) Yellow
+C) Green
+D) Violet
+
+Q15. Least distance of distinct vision is denoted by
+A) f
+B) D
+C) v
+D) u
+
+Q16. Which defect is corrected by concave lens?
+A) Hypermetropia
+B) Myopia
+C) Presbyopia
+D) Astigmatism
+
+Q17. Lens used in simple microscope is
+A) Concave
+B) Convex
+C) Cylindrical
+D) Plano mirror
+
+Q18. Power of a lens depends on
+A) aperture
+B) focal length
+C) thickness
+D) color
+
+Q19. Reflection from rough surface is
+A) specular
+B) diffuse
+C) total
+D) regular
+
+Q20. Image formed by plane mirror is
+A) real
+B) inverted
+C) laterally inverted
+D) magnified
+
+🟡 MEDIUM (21–40)
+
+Q21. Mirror formula is
+A) 1/f = 1/u + 1/v
+B) 1/f = 1/v − 1/u
+C) f = u + v
+D) f = uv
+
+Q22. Lens formula is
+A) 1/f = 1/u + 1/v
+B) 1/f = 1/v − 1/u
+C) f = u − v
+D) f = uv
+
+Q23. Real image is formed when object is placed beyond focus of
+A) concave mirror
+B) convex mirror
+C) convex lens
+D) plane mirror
+
+Q24. Critical angle depends on
+A) wavelength only
+B) angle of incidence
+C) refractive indices
+D) thickness
+
+Q25. Total internal reflection occurs when light goes from
+A) rarer to denser
+B) denser to rarer
+C) same medium
+D) vacuum to glass
+
+Q26. Condition for TIR is
+A) i < θc
+B) i = θc
+C) i > θc
+D) i = 0
+
+Q27. Real depth / apparent depth equals
+A) n
+B) 1/n
+C) n²
+D) √n
+
+Q28. For thin prism, deviation is
+A) nA
+B) (n−1)A
+C) A/n
+D) A²
+
+Q29. Power of two lenses in contact is
+A) P₁P₂
+B) P₁ − P₂
+C) P₁ + P₂
+D) P₁ / P₂
+
+Q30. Angular magnification of telescope is
+A) fe/fo
+B) fo/fe
+C) fo + fe
+D) fo − fe
+
+Q31. Resolving power of telescope depends on
+A) focal length
+B) aperture
+C) magnification
+D) length
+
+Q32. Which image can be obtained on a screen?
+A) virtual
+B) erect
+C) real
+D) magnified
+
+Q33. A ray passing through optical center of lens
+A) bends
+B) deviates
+C) passes undeviated
+D) reflects
+
+Q34. Magnification of concave lens is
+A) always >1
+B) always <1
+C) =1
+D) infinite
+
+Q35. Dispersive power depends on
+A) prism angle
+B) wavelength
+C) material
+D) thickness
+
+Q36. Which has maximum refractive index?
+A) Red
+B) Yellow
+C) Violet
+D) Green
+
+Q37. Image at focus of convex lens is
+A) real and inverted
+B) virtual
+C) at infinity
+D) erect
+
+Q38. Focal length of convex lens is
+A) positive
+B) negative
+C) zero
+D) infinite
+
+Q39. Simple microscope maximum magnification occurs when image is at
+A) infinity
+B) focal plane
+C) near point
+D) far point
+
+Q40. Prism produces dispersion because
+A) different speeds
+B) reflection
+C) absorption
+D) diffraction
+
+🔴 HARD / JEE ADV (41–60)
+
+Q41. If refractive index varies as 1/λ², dispersion is due to
+A) prism angle
+B) material
+C) wavelength dependence
+D) thickness
+
+Q42. A lens of power +4 D is combined with −2 D. Net power is
+A) +6 D
+B) +2 D
+C) −2 D
+D) −6 D
+
+Q43. If object distance = 2f for convex lens, image distance is
+A) f
+B) 2f
+C) infinity
+D) f/2
+
+Q44. Image shift on introducing glass slab is due to
+A) reflection
+B) refraction
+C) absorption
+D) diffraction
+
+Q45. Chromatic aberration is absent in
+A) prism
+B) lens
+C) mirror
+D) glass slab
+
+Q46. Limiting resolution of telescope is proportional to
+A) λ/D
+B) D/λ
+C) λf
+D) f/D
+
+Q47. Combination of two lenses separated by distance d has focal length
+A) 1/f = 1/f₁ + 1/f₂
+B) 1/f = 1/f₁ + 1/f₂ − d/(f₁f₂)
+C) f = f₁ + f₂
+D) f = f₁f₂
+
+Q48. A ray entering prism at minimum deviation condition implies
+A) i₁ ≠ i₂
+B) r₁ ≠ r₂
+C) i₁ = i₂
+D) r₁ = 0
+
+Q49. Which optical instrument uses objective of small focal length?
+A) Telescope
+B) Microscope
+C) Magnifier
+D) Periscope
+
+Q50. A convex mirror gives diminished image because
+A) f is large
+B) it diverges rays
+C) image is real
+D) object is close
+
+Q51. Angular dispersion depends on
+A) prism angle
+B) refractive indices
+C) wavelength
+D) all of these
+
+Q52. For a normal eye, power of accommodation is maximum when viewing
+A) far point
+B) near point
+C) infinity
+D) mirror
+
+Q53. Refraction at spherical surface formula is valid for
+A) thick lens
+B) paraxial rays
+C) large angles
+D) mirrors
+
+Q54. If focal length increases, power
+A) increases
+B) decreases
+C) unchanged
+D) zero
+
+Q55. Objective lens of telescope has
+A) small aperture
+B) large aperture
+C) small f
+D) large magnification
+
+Q56. Magnification of compound microscope depends on
+A) fo only
+B) fe only
+C) fo and fe
+D) aperture
+
+Q57. For total internal reflection, refractive index of first medium must be
+A) smaller
+B) equal
+C) greater
+D) zero
+
+Q58. Deviation produced by prism increases with
+A) decrease in λ
+B) increase in λ
+C) constant λ
+D) zero λ
+
+Q59. Which is wavelength independent?
+A) dispersion
+B) reflection
+C) refraction
+D) deviation
+
+Q60. Telescope increases
+A) brightness
+B) angular size
+C) linear size
+D) wavelength
+
+✅ ANSWER KEY
+
+1-B, 2-C, 3-D, 4-B, 5-B, 6-C, 7-B, 8-B, 9-C, 10-D
+11-B, 12-C, 13-C, 14-D, 15-B, 16-B, 17-B, 18-B, 19-B, 20-C
+21-B, 22-B, 23-C, 24-C, 25-B, 26-C, 27-A, 28-B, 29-C, 30-B
+31-B, 32-C, 33-C, 34-B, 35-C, 36-C, 37-C, 38-A, 39-C, 40-A
+41-C, 42-B, 43-B, 44-B, 45-C, 46-A, 47-B, 48-C, 49-B, 50-B
+51-D, 52-B, 53-B, 54-B, 55-B, 56-C, 57-C, 58-A, 59-B, 60-B

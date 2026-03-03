@@ -1,0 +1,365 @@
+EASY (1–20)
+
+Electric current is defined as
+A. Flow of electrons per unit area
+B. Charge flowing per unit time
+C. Force per unit charge
+D. Energy per unit charge
+
+SI unit of electric current is
+A. Coulomb
+B. Volt
+C. Ampere
+D. Ohm
+
+Current in a conductor flows due to
+A. Drift of protons
+B. Random motion of electrons
+C. Drift of electrons
+D. Flow of atoms
+
+Drift velocity of electrons in a metal is of the order of
+A. Speed of light
+B. m/s
+C. cm/s
+D. mm/s
+
+Ohm’s law is valid when
+A. Temperature changes
+B. Physical conditions remain constant
+C. Current is very large
+D. Resistance is zero
+
+The unit of resistance is
+A. Ampere
+B. Volt
+C. Ohm
+D. Farad
+
+Resistance of a wire depends on
+A. Length only
+B. Area only
+C. Material only
+D. Length, area, and material
+
+Resistivity is a property of
+A. Wire length
+B. Wire area
+C. Material
+D. Shape
+
+SI unit of resistivity is
+A. Ω/m
+B. Ω·m
+C. Ω·m²
+D. Ω/m²
+
+Conductivity is reciprocal of
+A. Resistance
+B. Current
+C. Resistivity
+D. Voltage
+
+For metals, resistance with increase in temperature
+A. Decreases
+B. Remains constant
+C. Increases
+D. Becomes zero
+
+EMF of a cell is
+A. Terminal voltage
+B. Energy per unit charge
+C. Current supplied
+D. Power of cell
+
+Internal resistance of a cell depends on
+A. External circuit
+B. Shape of cell
+C. Electrolyte and electrode separation
+D. Load resistance
+
+Unit of EMF is
+A. Coulomb
+B. Joule
+C. Volt
+D. Ohm
+
+When a cell is short-circuited, terminal voltage is
+A. Maximum
+B. Equal to EMF
+C. Zero
+D. Infinite
+
+Equivalent resistance of resistors in series is
+A. Minimum
+B. Maximum
+C. Average
+D. Zero
+
+In parallel combination of resistors, voltage across each is
+A. Different
+B. Same
+C. Zero
+D. Infinite
+
+Kirchhoff’s junction law is based on conservation of
+A. Energy
+B. Charge
+C. Momentum
+D. Mass
+
+Kirchhoff’s loop law is based on conservation of
+A. Charge
+B. Energy
+C. Momentum
+D. Current
+
+Power dissipated in a resistor is
+A. I/R
+B. V/R
+C. I²R
+D. IR²
+
+🟡 MEDIUM (21–40) — JEE Main level
+
+Drift velocity of electrons is directly proportional to
+A. Temperature
+B. Electric field
+C. Resistance
+D. Length
+
+Microscopic form of Ohm’s law is
+A. V = IR
+B. I = nqv
+C. J = σE
+D. R = ρL/A
+
+Current density has unit
+A. A/m
+B. A/m²
+C. C/m²
+D. V/m
+
+Resistivity of a conductor depends on
+A. Length
+B. Area
+C. Temperature
+D. Current
+
+A wire is stretched to double its length. New resistance becomes
+A. R/2
+B. R
+C. 2R
+D. 4R
+
+Internal resistance of an ideal cell is
+A. Zero
+B. Infinite
+C. Very large
+D. Equal to external resistance
+
+Terminal voltage of a cell is maximum when
+A. Cell is supplying current
+B. Cell is being charged
+C. No current flows
+D. Short circuit
+
+In series combination of resistors, current is
+A. Divided
+B. Same
+C. Zero
+D. Maximum
+
+Equivalent resistance of two equal resistors in parallel is
+A. R
+B. 2R
+C. R/2
+D. R²
+
+Wheatstone bridge is balanced when
+A. All currents are equal
+B. No current flows through galvanometer
+C. Voltage is zero everywhere
+D. Resistance is zero
+
+Meter bridge works on principle of
+A. Ohm’s law
+B. Kirchhoff’s law
+C. Wheatstone bridge
+D. Potentiometer
+
+Potentiometer measures EMF accurately because it
+A. Draws large current
+B. Draws no current
+C. Uses high resistance
+D. Uses galvanometer
+
+Electrical energy consumed is measured in
+A. Watt
+B. Joule
+C. kWh
+D. Ampere
+
+1 kWh equals
+A. 3.6 × 10⁵ J
+B. 3.6 × 10⁶ J
+C. 36 × 10⁶ J
+D. 360 J
+
+Power rating of an appliance indicates
+A. Energy used
+B. Heat produced
+C. Rate of energy consumption
+D. Resistance
+
+Maximum power transfer occurs when
+A. R = 0
+B. R → ∞
+C. R = r
+D. R ≫ r
+
+Cells are connected in series to
+A. Increase current
+B. Increase EMF
+C. Reduce resistance
+D. Reduce voltage
+
+Cells are connected in parallel to
+A. Increase EMF
+B. Increase current capacity
+C. Increase resistance
+D. Reduce power
+
+In potentiometer, potential gradient depends on
+A. Length of wire
+B. Resistance of wire
+C. Current through wire
+D. All of these
+
+Sensitivity of Wheatstone bridge is maximum when
+A. One resistance is large
+B. One resistance is small
+C. All resistances are equal
+D. Galvanometer resistance is zero
+
+🔴 HARD (41–60) — JEE Advanced level
+
+Drift velocity is very small because
+A. Electric field is weak
+B. Frequent collisions occur
+C. Electrons are heavy
+D. Lattice vibrates
+
+Mobility of electrons is defined as
+A. v/I
+B. v/E
+C. I/E
+D. E/v
+
+Temperature coefficient of resistance is negative for
+A. Metals
+B. All conductors
+C. Semiconductors
+D. All materials
+
+If length of wire increases by 1%, resistivity
+A. Increases by 1%
+B. Decreases by 1%
+C. Remains unchanged
+D. Doubles
+
+In a closed circuit, EMF is used to overcome
+A. Internal resistance only
+B. External resistance only
+C. Both internal and external resistance
+D. Capacitance
+
+Kirchhoff’s laws are not valid for circuits with
+A. Steady current
+B. Time-varying magnetic fields
+C. DC sources
+D. Resistive elements
+
+In a potentiometer, EMF comparison is independent of
+A. Wire length
+B. Potential gradient
+C. Current in wire
+D. Resistance of galvanometer
+
+If resistance increases linearly with temperature, graph of R vs T is
+A. Parabola
+B. Hyperbola
+C. Straight line
+D. Circle
+
+In parallel combination, total resistance is always
+A. Greater than smallest
+B. Equal to largest
+C. Less than smallest
+D. Zero
+
+Power lost inside a cell is
+A. VI
+B. I²r
+C. V²/R
+D. εI
+
+Maximum current from a cell is obtained when
+A. R → ∞
+B. R = r
+C. R = 0
+D. R = ε
+
+Drift velocity depends on
+A. Charge of electron
+B. Electric field
+C. Relaxation time
+D. All of these
+
+Potentiometer wire must be
+A. Thick and short
+B. Uniform and long
+C. Non-conducting
+D. Superconducting
+
+Current density is zero when
+A. Electric field is zero
+B. Drift velocity is zero
+C. No potential difference
+D. All of these
+
+If a wire is melted and recast to half its length, new resistance is
+A. R/4
+B. R/2
+C. 2R
+D. 4R
+
+EMF of a cell depends on
+A. External resistance
+B. Size of electrodes
+C. Nature of electrolyte
+D. Current drawn
+
+Joule heating depends on
+A. I²Rt
+B. IRt
+C. VIt
+D. R²t
+
+For maximum efficiency of a cell, external resistance should be
+A. Zero
+B. Infinite
+C. Much larger than internal resistance
+D. Equal to internal resistance
+
+Current in a conductor is proportional to
+A. Drift velocity
+B. Charge density
+C. Area
+D. All of these
+
+Which is FALSE?
+A. Drift velocity is opposite to electric field
+B. Electric field propagates nearly at speed of light
+C. Current density is scalar
+D. EMF is energy per unit charge

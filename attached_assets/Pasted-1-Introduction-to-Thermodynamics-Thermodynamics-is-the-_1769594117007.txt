@@ -1,0 +1,514 @@
+1️⃣ Introduction to Thermodynamics
+
+Thermodynamics is the branch of physics that deals with heat, work, and energy transformations in macroscopic systems.
+
+It does not deal with individual molecules, but with bulk properties like:
+
+Pressure (P)
+
+Volume (V)
+
+Temperature (T)
+
+Basic Terms
+
+System: Part of the universe under study
+Example: Gas inside a cylinder
+
+Surroundings: Everything outside the system
+
+Boundary: Real or imaginary surface separating system and surroundings
+
+Types of Systems
+System	Exchange of Mass	Exchange of Energy
+Open	✔	✔
+Closed	✖	✔
+Isolated	✖	✖
+
+📌 JEE Tip: Thermos flask ≈ isolated system (ideal).
+
+2️⃣ Thermal Equilibrium & Zeroth Law
+Thermal Equilibrium
+
+Two systems are in thermal equilibrium if:
+
+They have the same temperature
+
+No net heat flow occurs between them
+
+Zeroth Law of Thermodynamics
+
+If system A and B are each in thermal equilibrium with system C, then A and B are in thermal equilibrium with each other.
+
+✔ Defines temperature
+✔ Basis of thermometers
+
+3️⃣ Internal Energy (U)
+
+Internal energy is the total microscopic energy of a system:
+
+Kinetic energy of molecules
+
+Potential energy due to intermolecular forces
+
+Key Properties
+
+Internal energy is a state function
+
+Depends only on state, not path
+
+Internal Energy of Ideal Gas
+
+For an ideal gas:
+
+𝑈
+=
+𝑓
+2
+𝑛
+𝑅
+𝑇
+U=
+2
+f
+	​
+
+nRT
+
+Where:
+
+f = degrees of freedom
+
+Gas Type	f	U
+Monatomic	3	(3/2)nRT
+Diatomic (room temp)	5	(5/2)nRT
+
+📌 JEE Trap: For ideal gas, U depends only on temperature, not on P or V.
+
+4️⃣ Work Done by a Gas
+
+When a gas expands or contracts, it does work.
+
+𝑊
+=
+∫
+𝑃
+ 
+𝑑
+𝑉
+W=∫PdV
+
+For constant pressure:
+
+𝑊
+=
+𝑃
+(
+𝑉
+2
+−
+𝑉
+1
+)
+W=P(V
+2
+	​
+
+−V
+1
+	​
+
+)
+Sign Convention (VERY IMPORTANT)
+Process	W
+Expansion	+
+Compression	−
+Nature of Work
+
+Path dependent
+
+Not a state function
+
+5️⃣ First Law of Thermodynamics
+Statement
+
+Energy can neither be created nor destroyed, only transformed.
+
+Δ
+𝑈
+=
+𝑄
+−
+𝑊
+ΔU=Q−W
+	​
+
+
+Where:
+
+Q > 0 → Heat absorbed
+
+Q < 0 → Heat released
+
+W > 0 → Work done by system
+
+📌 JEE Tip: First law does NOT give direction of process.
+
+6️⃣ Thermodynamic Processes (CORE JEE AREA)
+🔹 Isothermal Process (T = constant)
+
+Occurs slowly with heat reservoir
+
+Ideal gas: PV = constant
+
+𝑊
+=
+𝑛
+𝑅
+𝑇
+ln
+⁡
+(
+𝑉
+2
+𝑉
+1
+)
+W=nRTln(
+V
+1
+	​
+
+V
+2
+	​
+
+	​
+
+)
+
+Since ΔT = 0:
+
+Δ
+𝑈
+=
+0
+⇒
+𝑄
+=
+𝑊
+ΔU=0⇒Q=W
+
+📌 Maximum work for given expansion
+
+🔹 Adiabatic Process (Q = 0)
+
+No heat exchange
+
+Occurs rapidly or in insulated system
+
+𝑃
+𝑉
+𝛾
+=
+constant
+PV
+γ
+=constant
+
+Other relations:
+
+𝑇
+𝑉
+𝛾
+−
+1
+=
+constant
+TV
+γ−1
+=constant
+
+𝑇
+𝛾
+𝑃
+1
+−
+𝛾
+=
+constant
+T
+γ
+P
+1−γ
+=constant
+
+Work done:
+
+𝑊
+=
+𝑃
+1
+𝑉
+1
+−
+𝑃
+2
+𝑉
+2
+𝛾
+−
+1
+W=
+γ−1
+P
+1
+	​
+
+V
+1
+	​
+
+−P
+2
+	​
+
+V
+2
+	​
+
+	​
+
+Δ
+𝑈
+=
+−
+𝑊
+ΔU=−W
+
+📌 Adiabatic curve is steeper than isothermal (JEE favorite).
+
+🔹 Isochoric Process (V = constant)
+𝑊
+=
+0
+⇒
+𝑄
+=
+Δ
+𝑈
+W=0⇒Q=ΔU
+𝑃
+𝑇
+=
+constant
+T
+P
+	​
+
+=constant
+
+Example: Gas heated in rigid container
+
+🔹 Isobaric Process (P = constant)
+𝑊
+=
+𝑃
+(
+𝑉
+2
+−
+𝑉
+1
+)
+W=P(V
+2
+	​
+
+−V
+1
+	​
+
+)
+𝑉
+𝑇
+=
+constant
+T
+V
+	​
+
+=constant
+
+Heat supplied:
+
+𝑄
+=
+Δ
+𝑈
++
+𝑃
+Δ
+𝑉
+Q=ΔU+PΔV
+🔁 Process Comparison (JEE GOLD)
+Process	Q	W	ΔU
+Isothermal	=W	≠0	0
+Adiabatic	0	≠0	−W
+Isochoric	=ΔU	0	≠0
+Isobaric	≠0	PΔV	≠0
+7️⃣ Cyclic Process
+
+System returns to initial state
+
+ΔU = 0
+
+𝑄
+=
+𝑊
+Q=W
+
+📌 Area enclosed in PV diagram = net work done
+
+8️⃣ Second Law of Thermodynamics
+Kelvin–Planck Statement
+
+No heat engine can convert all absorbed heat into work.
+
+Clausius Statement
+
+Heat cannot flow spontaneously from cold to hot body.
+
+✔ Explains direction of natural processes
+✔ Introduces irreversibility
+
+9️⃣ Heat Engine
+
+A heat engine converts heat into work cyclically.
+
+Efficiency
+𝜂
+=
+𝑊
+𝑄
+1
+=
+1
+−
+𝑄
+2
+𝑄
+1
+η=
+Q
+1
+	​
+
+W
+	​
+
+=1−
+Q
+1
+	​
+
+Q
+2
+	​
+
+	​
+
+🔥 Carnot Engine (MAXIMUM EFFICIENCY)
+
+Ideal reversible engine
+
+Efficiency depends only on temperatures
+
+𝜂
+=
+1
+−
+𝑇
+2
+𝑇
+1
+η=1−
+T
+1
+	​
+
+T
+2
+	​
+
+	​
+
+	​
+
+
+📌 No real engine > Carnot efficiency
+
+❄️ Refrigerator & Heat Pump
+Refrigerator (Cooling)
+𝛽
+=
+𝑄
+2
+𝑊
+=
+𝑇
+2
+𝑇
+1
+−
+𝑇
+2
+β=
+W
+Q
+2
+	​
+
+	​
+
+=
+T
+1
+	​
+
+−T
+2
+	​
+
+T
+2
+	​
+
+	​
+
+Heat Pump (Heating)
+𝛽
+′
+=
+𝑄
+1
+𝑊
+β
+′
+=
+W
+Q
+1
+	​
+
+	​
+
+🔚 Why this version is JEE + NEET READY
+
+✔ NCERT complete
+✔ PV diagrams implied
+✔ Process comparisons added
+✔ DOF explained
+✔ Sign conventions clarified
+✔ JEE traps covered
+✔ Conceptual + numerical ready

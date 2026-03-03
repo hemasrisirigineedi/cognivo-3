@@ -1,0 +1,609 @@
+Q1–Q20
+
+The gravitational force between two masses is:
+
+A) Always repulsive
+
+B) Always attractive
+
+C) Sometimes repulsive
+
+D) Zero
+
+The SI unit of gravitational constant G is:
+
+A) N/kg²
+
+B) N·m²/kg²
+
+C) kg²/N·m²
+
+D) N/m²
+
+Gravitational force depends on:
+
+A) Mass only
+
+B) Distance only
+
+C) Mass and distance
+
+D) Velocity
+
+Value of acceleration due to gravity on Earth is approximately:
+
+A) 8.9 m/s²
+
+B) 9.8 m/s²
+
+C) 10.8 m/s²
+
+D) 98 m/s²
+
+Which quantity remains constant everywhere?
+
+A) Weight
+
+B) Gravity
+
+C) Mass
+
+D) Acceleration
+
+Weight of a body is:
+
+A) Scalar
+
+B) Vector
+
+C) Dimensionless
+
+D) Constant
+
+Gravitational force is maximum when distance between objects is:
+
+A) Maximum
+
+B) Zero
+
+C) Minimum
+
+D) Infinite
+
+Acceleration due to gravity depends on:
+
+A) Mass of object
+
+B) Shape of object
+
+C) Mass and radius of Earth
+
+D) Velocity
+
+A freely falling body has acceleration:
+
+A) Zero
+
+B) g
+
+C) Variable
+
+D) Negative
+
+Weight of an object on Moon is:
+
+A) Same as Earth
+
+B) Zero
+
+C) More than Earth
+
+D) Less than Earth
+
+Gravitational force between two bodies is independent of:
+
+A) Their masses
+
+B) Distance
+
+C) Medium between them
+
+D) Radius
+
+Which is true for free fall?
+
+A) Velocity constant
+
+B) Acceleration constant
+
+C) Force zero
+
+D) Mass changes
+
+The value of g at Earth’s center is:
+
+A) g
+
+B) g/2
+
+C) Zero
+
+D) Infinite
+
+SI unit of weight is:
+
+A) kg
+
+B) N
+
+C) J
+
+D) m/s²
+
+Which of the following is a conservative force?
+
+A) Friction
+
+B) Air resistance
+
+C) Gravity
+
+D) Drag
+
+Gravitational force acts along the line joining:
+
+A) Velocities
+
+B) Centers of masses
+
+C) Surfaces
+
+D) Axes
+
+Mass of an astronaut on Moon is:
+
+A) Zero
+
+B) Half
+
+C) Same as Earth
+
+D) Less than Earth
+
+Acceleration due to gravity is maximum at:
+
+A) Equator
+
+B) Poles
+
+C) Centre of Earth
+
+D) Equator and poles same
+
+Weight becomes zero when:
+
+A) Mass is zero
+
+B) g = 0
+
+C) Velocity = 0
+
+D) Height is zero
+
+Gravitational constant was first measured by:
+
+A) Newton
+
+B) Einstein
+
+C) Cavendish
+
+D) Galileo
+
+🟡 LEVEL 2: MEDIUM (Application)
+
+Q21–Q40
+
+If distance between two masses is doubled, gravitational force becomes:
+
+A) Double
+
+B) Four times
+
+C) Half
+
+D) One-fourth
+
+Weight of a body varies with:
+
+A) Mass
+
+B) Location
+
+C) Shape
+
+D) Size
+
+Which remains constant during free fall?
+
+A) Velocity
+
+B) Acceleration
+
+C) Momentum
+
+D) Kinetic energy
+
+Escape velocity depends on:
+
+A) Mass of object
+
+B) Radius of Earth
+
+C) Shape of object
+
+D) Direction
+
+Value of escape velocity on Earth is:
+
+A) 7.9 km/s
+
+B) 9.8 km/s
+
+C) 11.2 km/s
+
+D) 12.8 km/s
+
+At higher altitude, g:
+
+A) Increases
+
+B) Decreases
+
+C) Remains same
+
+D) Becomes zero
+
+Orbital velocity of a satellite depends on:
+
+A) Mass of satellite
+
+B) Radius of orbit
+
+C) Shape of satellite
+
+D) Time period
+
+For a satellite in circular orbit:
+
+A) Velocity constant
+
+B) Acceleration zero
+
+C) Force zero
+
+D) Centripetal force acts
+
+Potential energy of a body at infinite distance is:
+
+A) Maximum
+
+B) Zero
+
+C) Negative
+
+D) Positive
+
+Binding energy of satellite is:
+
+A) Positive
+
+B) Zero
+
+C) Negative
+
+D) Infinite
+
+Which factor does NOT affect g?
+
+A) Height
+
+B) Depth
+
+C) Latitude
+
+D) Mass of object
+
+A body thrown upward comes back due to:
+
+A) Air resistance
+
+B) Gravity
+
+C) Pressure
+
+D) Inertia
+
+Unit of gravitational potential is:
+
+A) J
+
+B) J/kg
+
+C) N/kg
+
+D) kg·m²/s²
+
+Kepler’s third law relates:
+
+A) Velocity and mass
+
+B) Time period and radius
+
+C) Force and distance
+
+D) Energy and mass
+
+Weight of a body at Earth’s center is:
+
+A) Maximum
+
+B) Minimum
+
+C) Zero
+
+D) Same as surface
+
+When height increases, weight:
+
+A) Increases
+
+B) Decreases
+
+C) Remains same
+
+D) Becomes zero
+
+Gravitational potential energy is maximum at:
+
+A) Earth surface
+
+B) Earth center
+
+C) Infinity
+
+D) Underground
+
+Orbital velocity is:
+
+A) Greater than escape velocity
+
+B) Equal to escape velocity
+
+C) Less than escape velocity
+
+D) Zero
+
+Which satellite remains fixed relative to Earth?
+
+A) Polar
+
+B) Geostationary
+
+C) Low orbit
+
+D) Elliptical
+
+Motion under gravity alone is called:
+
+A) Projectile motion
+
+B) Circular motion
+
+C) Free fall
+
+D) Oscillation
+
+🔴 LEVEL 3: TOUGH (JEE / NEET Oriented)
+
+Q41–Q60
+
+At Earth’s center, gravitational potential is:
+
+A) Zero
+
+B) Maximum
+
+C) Minimum
+
+D) Infinite
+
+Escape velocity is independent of:
+
+A) Mass of planet
+
+B) Radius of planet
+
+C) Mass of object
+
+D) Gravity
+
+If Earth’s radius is doubled, g becomes:
+
+A) g
+
+B) g/2
+
+C) g/4
+
+D) 2g
+
+For satellite motion, gravitational force provides:
+
+A) Tangential force
+
+B) Centripetal force
+
+C) No force
+
+D) Upward force
+
+Which law explains planetary motion?
+
+A) Newton’s 1st law
+
+B) Kepler’s laws
+
+C) Coulomb’s law
+
+D) Boyle’s law
+
+Gravitational field strength equals:
+
+A) Force × mass
+
+B) Force / mass
+
+C) Mass / force
+
+D) Energy / mass
+
+If mass of Earth suddenly doubles, g becomes:
+
+A) g
+
+B) 2g
+
+C) g/2
+
+D) 4g
+
+A satellite closer to Earth has:
+
+A) Larger period
+
+B) Smaller velocity
+
+C) Larger velocity
+
+D) Same velocity
+
+Gravitational potential energy is negative because:
+
+A) Reference is infinity
+
+B) Force is repulsive
+
+C) Mass is small
+
+D) Distance is large
+
+When satellite falls towards Earth:
+
+A) PE increases
+
+B) KE decreases
+
+C) Total energy conserved
+
+D) Momentum zero
+
+Value of g on Moon is approximately:
+
+A) 1.6 m/s²
+
+B) 3.7 m/s²
+
+C) 9.8 m/s²
+
+D) 11.2 m/s²
+
+Which is true for gravitational field?
+
+A) Scalar
+
+B) Vector
+
+C) Dimensionless
+
+D) Constant
+
+Kepler’s second law represents conservation of:
+
+A) Energy
+
+B) Linear momentum
+
+C) Angular momentum
+
+D) Force
+
+The escape velocity from Moon is:
+
+A) Greater than Earth
+
+B) Less than Earth
+
+C) Same as Earth
+
+D) Zero
+
+Satellite does not fall because:
+
+A) No gravity
+
+B) High velocity
+
+C) Zero mass
+
+D) No force
+
+Which quantity changes in free fall?
+
+A) Mass
+
+B) Acceleration
+
+C) Velocity
+
+D) g
+
+Gravitational potential at Earth’s surface is:
+
+A) Zero
+
+B) Positive
+
+C) Negative
+
+D) Infinite
+
+Which remains conserved in satellite motion?
+
+A) Linear velocity
+
+B) Angular momentum
+
+C) Acceleration
+
+D) Force
+
+Binding energy of satellite is equal to:
+
+A) KE
+
+B) PE
+
+C) Total energy
+
+D) −Total energy
+
+Gravity is weakest at:
+
+A) Poles
+
+B) Equator
+
+C) Earth center
+
+D) Mountain top

@@ -1,0 +1,187 @@
+1. REAL REASON FOR CARBON’S UNIQUENESS (ADV LEVEL)
+
+You state small size, but add WHY:
+
+Add this concept box:
+
+Small size → strong C–C and C–H σ-bonds
+
+High bond enthalpy → stability
+
+Effective overlap of orbitals
+
+Compare:
+
+C–C (348 kJ/mol)
+
+Si–Si (226 kJ/mol)
+
+This comparison appears directly in Adv.
+
+🔴 2. HYBRIDIZATION EXCEPTIONS (VERY IMPORTANT)
+
+Add explicit exceptions:
+
+Carbocation: sp² (NOT sp³)
+
+Carbanion: sp³ but planar in conjugated systems
+
+Free radical: sp²
+
+Lone pair affects geometry (NH₃ ≠ CH₄)
+
+Add:
+
+Hybridization ≠ geometry always.
+
+🔴 3. BOND LENGTH & BOND ENERGY ORDER
+
+Missing but frequently tested.
+
+Add:
+
+Bond length:
+
+C≡C < C=C < C–C
+
+
+Bond strength:
+
+C≡C > C=C > C–C
+
+🔴 4. DEGREE OF UNSATURATION (IHD)
+
+⚠️ Very important for JEE Main + Adv
+
+Add formula:
+
+IHD = (2C + 2 − H + N − X) / 2
+
+
+Uses:
+
+Predict rings + π bonds
+
+Identify possible structures
+
+Used heavily in structure-based MCQs
+
+🔴 5. NOMENCLATURE – COMMON IIT TRAPS
+
+Add these rules explicitly:
+
+Lowest set of locants rule
+
+Multiple bonds get priority over substituents
+
+When both double & triple bonds present:
+
+“ene” gets priority in numbering
+
+Alphabetical order ignores di-, tri-, tetra-
+
+🔴 6. WHY HYPERCONJUGATION WORKS (ADV DEPTH)
+
+You mention it, but add explanation:
+
+No-bond resonance
+
+σ(C–H) → p / π overlap
+
+Requires:
+
+Adjacent C–H bonds
+
+Empty or partially filled orbital
+
+Add hyperconjugation order:
+
+3° > 2° > 1° > CH₃
+
+🔴 7. RELATIVE STABILITY — FULL COMPARISON TABLE
+
+JEE Adv loves mixed comparisons.
+
+Add table:
+
+Species	Stability Order
+Carbocation	3° > 2° > 1° > CH₃
+Carbanion	CH₃ > 1° > 2° > 3°
+Free radical	3° > 2° > 1° > CH₃
+Allylic / Benzylic	More stable than 3°
+🔴 8. INDUCTIVE vs RESONANCE — WHO DOMINATES?
+
+Add a decision rule:
+
+Resonance effect > Inductive effect
+
+−R dominates over +I
+
+In acidity/basicity:
+
+−R increases acidity more than −I
+
++R decreases acidity strongly
+
+🔴 9. NUCLEOPHILICITY vs BASICITY (CONFUSION AREA)
+
+Add explicit distinction:
+
+Property	Depends on
+Basicity	Proton affinity (thermodynamic)
+Nucleophilicity	Reaction rate (kinetic)
+
+Solvent effect:
+
+Protic solvent: I⁻ > Br⁻ > Cl⁻ > F⁻
+
+Aprotic solvent: F⁻ > Cl⁻ > Br⁻ > I⁻
+
+🔴 10. REACTION MECHANISM INTRO (ADV FOUNDATION)
+
+Add a small section:
+
+Curved arrow notation
+
+Movement of electrons, not atoms
+
+Arrow starts from electron pair
+
+This prepares students for SN1/SN2/E1/E2 later.
+
+🔴 11. CHROMATOGRAPHY — Rf VALUE
+
+Missing and important.
+
+Add:
+
+Rf = distance travelled by solute / distance travelled by solvent
+
+
+Used in TLC questions.
+
+🔴 12. QUALITATIVE ANALYSIS — FALSE POSITIVES
+
+Add warning box:
+
+N + S together → blood red color (FeSCN²⁺)
+
+Halogen test affected by nitrogen
+
+Always remove NaCN & Na₂S before AgNO₃ test
+
+🔴 13. JEE ADV “ORGANIC PITFALLS” BOX (HIGHLY RECOMMENDED)
+
+Add a final section:
+
+Stability ≠ reactivity always
+
+Strong base ≠ strong nucleophile
+
+Resonance beats inductive
+
+More substituted ≠ always more stable (carbanion case)
+
+Geometry affects reactivity
+
+Planarity enables resonance

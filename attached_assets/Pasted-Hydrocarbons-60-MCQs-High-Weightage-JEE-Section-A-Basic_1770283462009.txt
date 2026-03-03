@@ -1,0 +1,368 @@
+Hydrocarbons – 60 MCQs (High Weightage | JEE)
+Section A: Basics & Classification (1–15)
+
+Which of the following is a saturated hydrocarbon?
+A) Ethene
+B) Ethyne
+C) Benzene
+D) Ethane
+
+General formula of cycloalkanes is
+A) CₙH₂ₙ₊₂
+B) CₙH₂ₙ
+C) CₙH₂ₙ₋₂
+D) CₙHₙ
+
+Aromatic hydrocarbons follow
+A) Markovnikov’s rule
+B) Saytzeff’s rule
+C) Huckel’s rule
+D) Baeyer’s rule
+
+Huckel’s rule requires
+A) (4n) π electrons
+B) (2n) π electrons
+C) (4n+2) π electrons
+D) any even number
+
+Which is NOT an unsaturated hydrocarbon?
+A) Alkene
+B) Alkyne
+C) Aromatic hydrocarbon
+D) Alkane
+
+Benzene has how many π electrons?
+A) 4
+B) 5
+C) 6
+D) 8
+
+Which compound has the highest degree of unsaturation?
+A) C₄H₁₀
+B) C₄H₈
+C) C₄H₆
+D) C₄H₄
+
+Which hydrocarbon is aromatic?
+A) Cyclohexane
+B) Cyclohexene
+C) Benzene
+D) Cyclooctatetraene
+
+Cyclooctatetraene is non-aromatic because it is
+A) non-cyclic
+B) non-planar
+C) saturated
+D) ionic
+
+Which hydrocarbon is called paraffin?
+A) Alkene
+B) Alkyne
+C) Alkane
+D) Arene
+
+Which rule determines aromaticity?
+A) Saytzeff
+B) Huckel
+C) Markovnikov
+D) Baeyer
+
+Degree of unsaturation of C₆H₆ is
+A) 2
+B) 3
+C) 4
+D) 5
+
+Which contains both ring and double bonds?
+A) Cyclohexane
+B) Benzene
+C) Ethyne
+D) Propene
+
+Benzene prefers substitution over addition because
+A) addition is faster
+B) substitution increases stability
+C) addition destroys aromaticity
+D) benzene is saturated
+
+Which is anti-aromatic?
+A) Benzene
+B) Naphthalene
+C) Cyclobutadiene
+D) Toluene
+
+Section B: Alkanes (16–30)
+
+Hybridization of carbon in alkanes is
+A) sp
+B) sp²
+C) sp³
+D) dsp²
+
+Most stable conformation of ethane is
+A) eclipsed
+B) skew
+C) staggered
+D) planar
+
+Energy difference between staggered and eclipsed ethane is about
+A) 2 kJ/mol
+B) 6 kJ/mol
+C) 12 kJ/mol
+D) 24 kJ/mol
+
+Newman projection is used to study
+A) chain isomerism
+B) position isomerism
+C) conformations
+D) optical isomerism
+
+Which alkane has maximum boiling point?
+A) n-butane
+B) isobutane
+C) neopentane
+D) methane
+
+Branched alkanes have lower boiling point because
+A) weaker C–C bonds
+B) lower molar mass
+C) less surface area
+D) polarity
+
+Which reaction gives symmetrical alkane?
+A) Wurtz reaction
+B) Kolbe electrolysis
+C) Grignard hydrolysis
+D) Decarboxylation
+
+Wurtz reaction fails to give pure product when
+A) RX is primary
+B) RX is secondary
+C) two different alkyl halides used
+D) Na is excess
+
+Kolbe electrolysis gives
+A) odd-carbon alkanes
+B) alkenes
+C) symmetrical alkanes
+D) aromatics
+
+Decarboxylation reduces carbon chain by
+A) 2 carbons
+B) 1 carbon
+C) no change
+D) 3 carbons
+
+Which alkane is gas at room temperature?
+A) C₁₀H₂₂
+B) C₈H₁₈
+C) C₄H₁₀
+D) C₁₈H₃₈
+
+Density of alkanes compared to water is
+A) greater
+B) equal
+C) slightly higher
+D) lower
+
+Combustion of alkanes is
+A) endothermic
+B) exothermic
+C) reversible
+D) ionic
+
+Halogenation of alkanes proceeds via
+A) SN1
+B) SN2
+C) free radical mechanism
+D) electrophilic substitution
+
+Reactivity order of halogens in alkane halogenation is
+A) I₂ > Br₂ > Cl₂ > F₂
+B) F₂ > Cl₂ > Br₂ > I₂
+C) Cl₂ > Br₂ > I₂ > F₂
+D) Br₂ > Cl₂ > F₂ > I₂
+
+Section C: Alkenes (31–45)
+
+Hybridization of carbon in alkenes is
+A) sp
+B) sp²
+C) sp³
+D) sp³d
+
+Restricted rotation in alkenes is due to
+A) sigma bond
+B) pi bond
+C) ionic bond
+D) hydrogen bonding
+
+Cis–trans isomerism requires
+A) free rotation
+B) identical groups
+C) restricted rotation
+D) aromaticity
+
+Saytzeff’s rule predicts formation of
+A) least substituted alkene
+B) most substituted alkene
+C) terminal alkene
+D) cis-alkene
+
+Dehydration of alcohols follows order
+A) 1° > 2° > 3°
+B) 2° > 1° > 3°
+C) 3° > 2° > 1°
+D) all equal
+
+Peroxide effect is shown only by
+A) HCl
+B) HBr
+C) HI
+D) HF
+
+Anti-Markovnikov addition occurs via
+A) carbocation
+B) carbanion
+C) free radical
+D) electrophile
+
+Bromine water test detects
+A) aromaticity
+B) saturation
+C) unsaturation
+D) acidity
+
+Cold dilute KMnO₄ test is called
+A) Baeyer’s test
+B) Tollens test
+C) Fehling test
+D) Lucas test
+
+Ozonolysis of alkene gives
+A) alcohols
+B) ketones and/or aldehydes
+C) acids only
+D) esters
+
+Presence of formaldehyde in ozonolysis indicates
+A) internal alkene
+B) cyclic alkene
+C) terminal alkene
+D) aromatic ring
+
+Cis-alkenes have higher boiling point because
+A) stronger bonds
+B) symmetry
+C) dipole moment
+D) resonance
+
+Polymerization of ethene gives
+A) PVC
+B) polystyrene
+C) polyethylene
+D) teflon
+
+Lindlar’s catalyst converts alkynes to
+A) trans-alkenes
+B) cis-alkenes
+C) alkanes
+D) aromatics
+
+Na/liquid NH₃ reduction gives
+A) cis-alkene
+B) trans-alkene
+C) alkane
+D) alcohol
+
+Section D: Alkynes & Benzene (46–60)
+
+Hybridization of carbon in alkynes is
+A) sp³
+B) sp²
+C) sp
+D) dsp²
+
+Terminal alkynes are acidic due to
+A) inductive effect
+B) resonance
+C) high s-character
+D) hydrogen bonding
+
+pKa of terminal alkynes is approximately
+A) 5
+B) 10
+C) 25
+D) 40
+
+Which reagent extends carbon chain of terminal alkyne?
+A) KOH
+B) NaNH₂ + R–X
+C) H₂SO₄
+D) KMnO₄
+
+Hydration of terminal alkynes gives
+A) alcohol
+B) aldehyde
+C) ketone
+D) acid
+
+Ozonolysis of alkynes produces
+A) aldehydes
+B) ketones
+C) carboxylic acids
+D) alcohols
+
+Benzene is planar because
+A) sp³ carbons
+B) sp² carbons
+C) sp carbons
+D) ionic bonds
+
+All C–C bond lengths in benzene are equal due to
+A) hyperconjugation
+B) induction
+C) resonance
+D) steric effect
+
+Resonance energy of benzene is about
+A) 50 kJ/mol
+B) 100 kJ/mol
+C) 150 kJ/mol
+D) 300 kJ/mol
+
+Electrophilic substitution is preferred in benzene because
+A) π electrons are localized
+B) aromaticity is preserved
+C) benzene is unsaturated
+D) benzene is polar
+
+Friedel–Crafts acylation does NOT rearrange because
+A) reaction is slow
+B) acylium ion is resonance stabilized
+C) AlCl₃ is weak
+D) benzene is stable
+
+Strongly deactivating meta-directing group is
+A) –CH₃
+B) –OH
+C) –NO₂
+D) –NH₂
+
+Halogens are o,p-directing but deactivating because
+A) −R > +I
+B) +R > −I
+C) −I dominates activation
+D) resonance absent
+
+Benzene hexachloride (BHC) is formed by
+A) substitution
+B) addition
+C) oxidation
+D) elimination
+
+Gamma-BHC is known as
+A) DDT
+B) Lindane
+C) Aldrin
+D) Malathion

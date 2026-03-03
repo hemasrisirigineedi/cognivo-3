@@ -1,0 +1,260 @@
+Hydrocarbons — Concepts to Include (JEE Level)
+1. Classification of Hydrocarbons
+
+Saturated hydrocarbons (Alkanes)
+
+Unsaturated hydrocarbons (Alkenes, Alkynes)
+
+Aromatic hydrocarbons (Arenes)
+
+Open chain vs closed chain hydrocarbons
+
+Alicyclic vs aromatic compounds
+
+2. Structure and Bonding
+
+Hybridization of carbon (sp³, sp², sp)
+
+Sigma (σ) and pi (π) bonds
+
+Bond length and bond energy trends
+
+s-character and its effect on acidity, bond strength
+
+Restricted rotation in multiple bonds
+
+3. Isomerism
+
+Structural isomerism (chain, position)
+
+Geometrical isomerism (cis–trans, E–Z)
+
+Conformational isomerism (ethane, butane)
+
+Stability of isomers (branching, substitution)
+
+4. Conformations
+
+Newman projection
+
+Staggered and eclipsed conformations
+
+Torsional strain
+
+Energy profile of rotation
+
+Anti and gauche conformations
+
+5. Physical Properties Trends
+
+Boiling point vs molecular mass
+
+Effect of branching on boiling point
+
+Melting point odd–even effect
+
+Density and solubility trends
+
+Polarity vs intermolecular forces
+
+6. Chemical Reactivity Overview
+
+Relative reactivity of alkanes, alkenes, alkynes
+
+Role of π electrons in reactions
+
+Stability vs reactivity concept
+
+Selectivity vs reactivity of reagents
+
+7. Free Radical Concept
+
+Homolytic bond cleavage
+
+Free radical stability
+
+Hyperconjugation in radicals
+
+Chain reactions (initiation, propagation, termination)
+
+8. Carbocation, Carbanion, Free Radical Stability
+
+Order of stability (3° > 2° > 1° > CH₃⁺)
+
+Resonance vs inductive effect
+
+Allylic and benzylic stabilization
+
+Vinylic and aryl instability
+
+Planarity requirement for resonance
+
+9. Hyperconjugation
+
+No-bond resonance concept
+
+Requirement of α-hydrogen
+
+Effect on alkene stability
+
+Effect on carbocation and radical stability
+
+Bond length shortening due to hyperconjugation
+
+10. Inductive and Resonance Effects
+
++I and −I effects
+
++R and −R effects
+
+Dominance of resonance over inductive
+
+Distance dependence of inductive effect
+
+Application in stability and orientation
+
+11. Alkene Stability
+
+Degree of substitution
+
+Cis–trans stability comparison
+
+Heat of hydrogenation concept
+
+Conjugated vs isolated vs cumulated dienes
+
+12. Alkynes — Acidity Concept
+
+Acidity of terminal alkynes
+
+Role of sp hybridization
+
+Comparison with alkenes and alkanes
+
+Formation of acetylide ions
+
+Chain elongation concept
+
+13. Aromaticity
+
+Conditions for aromaticity
+
+Hückel’s rule (4n + 2 π electrons)
+
+Aromatic, antiaromatic, non-aromatic
+
+Resonance energy
+
+Planarity and conjugation requirement
+
+14. Benzene — Structure
+
+Delocalization of π electrons
+
+Equal bond length concept
+
+Resonance vs Kekulé structure
+
+Aromatic stabilization
+
+Why benzene prefers substitution
+
+15. Electrophilic Substitution Concept
+
+Generation of electrophile
+
+Sigma complex (arenium ion)
+
+Rate determining step
+
+Restoration of aromaticity
+
+Energy profile of EAS reactions
+
+16. Directive Influence
+
+Ortho-para directing groups
+
+Meta directing groups
+
+Activating vs deactivating groups
+
+Halogen exception
+
+Combined effect of substituents
+
+17. Addition vs Substitution
+
+Why benzene avoids addition
+
+Loss of aromaticity
+
+Conditions required for addition
+
+Comparison with alkenes and alkynes
+
+18. Degree of Unsaturation (IHD / DBE)
+
+Formula and calculation
+
+Interpretation of rings and multiple bonds
+
+Structural prediction using IHD
+
+Application in molecular formula problems
+
+19. Carbon Uniqueness
+
+Small atomic size
+
+Strong C–C bonding
+
+Catenation
+
+Multiple bonding ability
+
+Comparison with silicon
+
+20. Reaction Mechanism Basics
+
+Curved arrow notation
+
+Heterolytic vs homolytic cleavage
+
+Nucleophile vs electrophile
+
+Reaction intermediates
+
+Energy profile diagrams
+
+21. Stability vs Reactivity (JEE Trap)
+
+Stable species can be reactive
+
+Unstable species can be less reactive
+
+Kinetic vs thermodynamic control
+
+Role of activation energy
+
+22. Carcinogenicity Concept
+
+Polycyclic aromatic hydrocarbons
+
+Benzene toxicity
+
+DNA interaction via epoxides
+
+Environmental relevance
+
+23. Common JEE Conceptual Pitfalls
+
+Strong base ≠ strong nucleophile
+
+More substituted ≠ always more stable
+
+Resonance dominates inductive
+
+Geometry ≠ hybridization
+
+Planarity required for resonance

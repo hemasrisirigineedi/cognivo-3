@@ -1,0 +1,611 @@
+LEVEL 1: BEGINNER (NCERT – Conceptual)
+
+Questions 1–20
+
+Work is said to be done when:
+
+A) Force is applied
+
+B) Displacement occurs
+
+C) Force causes displacement
+
+D) Energy is present
+
+SI unit of work is:
+
+A) Watt
+
+B) Newton
+
+C) Joule
+
+D) Pascal
+
+If force is applied but there is no displacement, work done is:
+
+A) Maximum
+
+B) Zero
+
+C) Negative
+
+D) Positive
+
+Which of the following is a scalar quantity?
+
+A) Force
+
+B) Energy
+
+C) Momentum
+
+D) Velocity
+
+Kinetic energy depends on:
+
+A) Mass only
+
+B) Velocity only
+
+C) Mass and velocity
+
+D) Height
+
+Formula for kinetic energy is:
+
+A) mv
+
+B) mv²
+
+C) ½mv²
+
+D) mgh
+
+A stationary object has:
+
+A) Kinetic energy
+
+B) Potential energy only
+
+C) No energy
+
+D) Both KE and PE
+
+Potential energy depends on:
+
+A) Speed
+
+B) Direction
+
+C) Position
+
+D) Time
+
+SI unit of power is:
+
+A) Joule
+
+B) Watt
+
+C) Newton
+
+D) Ampere
+
+Power is defined as:
+
+A) Work × time
+
+B) Work / time
+
+C) Energy × time
+
+D) Force × distance
+
+A book kept on a table has:
+
+A) Kinetic energy
+
+B) Potential energy
+
+C) Both
+
+D) No energy
+
+When force and displacement are perpendicular, work done is:
+
+A) Maximum
+
+B) Negative
+
+C) Zero
+
+D) Infinite
+
+Which is a conservative force?
+
+A) Friction
+
+B) Air resistance
+
+C) Gravity
+
+D) Drag
+
+Commercial unit of electrical energy is:
+
+A) Joule
+
+B) Watt
+
+C) kWh
+
+D) Ampere
+
+1 kWh equals:
+
+A) 1000 J
+
+B) 3600 J
+
+C) 3.6 × 10⁶ J
+
+D) 3.6 × 10³ J
+
+Work done against gravity is stored as:
+
+A) Kinetic energy
+
+B) Heat energy
+
+C) Potential energy
+
+D) Electrical energy
+
+Power depends on:
+
+A) Work only
+
+B) Time only
+
+C) Work and time
+
+D) Force only
+
+Energy possessed due to motion is:
+
+A) Potential
+
+B) Mechanical
+
+C) Kinetic
+
+D) Chemical
+
+Which quantity tells how fast work is done?
+
+A) Energy
+
+B) Force
+
+C) Power
+
+D) Momentum
+
+Lifting a load vertically involves:
+
+A) Zero work
+
+B) Negative work
+
+C) Positive work
+
+D) No force
+
+🟡 LEVEL 2: MEDIUM (Application)
+
+Questions 21–40
+
+A body of mass 2 kg moves with velocity 4 m/s. Its KE is:
+
+A) 8 J
+
+B) 16 J
+
+C) 32 J
+
+D) 64 J
+
+If velocity doubles, kinetic energy becomes:
+
+A) Double
+
+B) Triple
+
+C) Four times
+
+D) Half
+
+Work-energy theorem relates work with:
+
+A) Potential energy
+
+B) Momentum
+
+C) Change in kinetic energy
+
+D) Power
+
+A body thrown upward reaches maximum height. At top:
+
+A) KE max
+
+B) PE zero
+
+C) KE zero
+
+D) Energy lost
+
+A machine that does work faster has:
+
+A) Less energy
+
+B) More power
+
+C) Less power
+
+D) Same power
+
+A force of 10 N moves an object 5 m in its direction. Work done:
+
+A) 2 J
+
+B) 50 J
+
+C) 15 J
+
+D) 0 J
+
+When a spring is compressed, energy stored is:
+
+A) Kinetic
+
+B) Chemical
+
+C) Elastic potential
+
+D) Heat
+
+Which force is non-conservative?
+
+A) Gravity
+
+B) Spring force
+
+C) Friction
+
+D) Electrostatic
+
+If no external force acts, which quantity is conserved?
+
+A) Energy
+
+B) Speed
+
+C) Momentum
+
+D) Acceleration
+
+Mechanical energy is the sum of:
+
+A) Heat + sound
+
+B) KE + PE
+
+C) Work + power
+
+D) Force + displacement
+
+When a body falls freely, which energy increases?
+
+A) Potential
+
+B) Chemical
+
+C) Kinetic
+
+D) Nuclear
+
+Unit of momentum is:
+
+A) kg·m/s
+
+B) N·m
+
+C) J/s
+
+D) kg/m
+
+If force and displacement are opposite, work done is:
+
+A) Zero
+
+B) Positive
+
+C) Negative
+
+D) Infinite
+
+Which collision conserves kinetic energy?
+
+A) Inelastic
+
+B) Completely inelastic
+
+C) Elastic
+
+D) Explosion
+
+In an inelastic collision:
+
+A) KE conserved
+
+B) Momentum not conserved
+
+C) Both conserved
+
+D) KE not conserved
+
+Power of a motor lifting a body vertically is given by:
+
+A) F/t
+
+B) Fv
+
+C) Fs
+
+D) mv
+
+If mass doubles and speed halves, KE becomes:
+
+A) Same
+
+B) Double
+
+C) Half
+
+D) One-fourth
+
+Rolling friction is:
+
+A) Maximum
+
+B) Zero
+
+C) Greater than sliding
+
+D) Less than sliding
+
+A falling object converts:
+
+A) KE to PE
+
+B) PE to KE
+
+C) Heat to KE
+
+D) Sound to PE
+
+Work done by centripetal force is:
+
+A) Maximum
+
+B) Zero
+
+C) Positive
+
+D) Negative
+
+🔴 LEVEL 3: TOUGH (JEE / NEET Level)
+
+Questions 41–60
+
+A particle moves in a circle. Total work done in one complete revolution is:
+
+A) Zero
+
+B) Maximum
+
+C) Positive
+
+D) Negative
+
+A body has KE = 16 J. If mass is doubled, new KE is:
+
+A) 8 J
+
+B) 16 J
+
+C) 32 J
+
+D) 64 J
+
+Which graph represents constant power?
+
+A) Work vs time straight line
+
+B) Force vs time
+
+C) Velocity vs time
+
+D) Acceleration vs time
+
+If velocity becomes zero, which quantity can still be non-zero?
+
+A) KE
+
+B) Momentum
+
+C) PE
+
+D) Power
+
+Energy lost in inelastic collision is converted into:
+
+A) Light only
+
+B) Heat and sound
+
+C) Chemical energy
+
+D) Nuclear energy
+
+A body is thrown vertically upward. Total mechanical energy:
+
+A) Increases
+
+B) Decreases
+
+C) Remains constant
+
+D) Becomes zero
+
+Spring constant depends on:
+
+A) Mass
+
+B) Length only
+
+C) Material and shape
+
+D) Gravity
+
+Which situation shows zero work?
+
+A) Pulling a cart
+
+B) Lifting a book
+
+C) Carrying load horizontally
+
+D) Pushing a box
+
+The area under force–displacement graph represents:
+
+A) Power
+
+B) Energy
+
+C) Work
+
+D) Momentum
+
+A bullet embeds in a block. The collision is:
+
+A) Elastic
+
+B) Inelastic
+
+C) Completely inelastic
+
+D) Explosion
+
+A machine with higher efficiency:
+
+A) Wastes more energy
+
+B) Produces more heat
+
+C) Does more useful work
+
+D) Needs more input
+
+If work done is negative, force is:
+
+A) Along displacement
+
+B) Perpendicular
+
+C) Opposite to displacement
+
+D) Zero
+
+Power can be zero when:
+
+A) Force ≠ 0 and velocity = 0
+
+B) Force = 0
+
+C) Velocity ≠ 0
+
+D) Work ≠ 0
+
+A stone at top of building has:
+
+A) Only KE
+
+B) Only PE
+
+C) Both KE and PE
+
+D) No energy
+
+Which quantity is conserved in all collisions?
+
+A) KE
+
+B) Energy
+
+C) Momentum
+
+D) Speed
+
+If a body stops suddenly, KE is converted into:
+
+A) PE
+
+B) Heat
+
+C) Electrical
+
+D) Nuclear
+
+SI unit of spring constant is:
+
+A) N
+
+B) N/m
+
+C) J
+
+D) m/s
+
+Mechanical energy depends on:
+
+A) Mass only
+
+B) Speed only
+
+C) Position and motion
+
+D) Time
+
+Two bodies have same KE. Which is true?
+
+A) Same mass
+
+B) Same velocity
+
+C) Mass and velocity same
+
+D) Could have different mass and velocity
+
+Power of a person climbing stairs depends on:
+
+A) Height only
+
+B) Time only
+
+C) Weight and time
+
+D) Height and time

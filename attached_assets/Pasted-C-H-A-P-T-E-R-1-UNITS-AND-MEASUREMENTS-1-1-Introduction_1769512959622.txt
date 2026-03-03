@@ -1,0 +1,179 @@
+C H A P T E R    1
+UNITS AND MEASUREMENTS
+1.1 Introduction
+1.2 The international system of units
+1.3 Significant figures
+1.4 Dimensions of physical quantities
+1.5 Dimensional formulae and dimensional equations
+1.6 Dimensional analysis and its applications
+C H A P T E R    2
+MOTION IN A STRAIGHT LINE
+2.1 Introduction
+2.2 Instantaneous velocity and speed
+2.3 Acceleration
+2.4 Kinematic equations for uniformly accelerated motion
+C H A P T E R    3
+MOTION IN A PLANE
+3.1 Introduction
+3.2 Scalars and vectors
+3.3 Multiplication of vectors by real numbers
+3.4 Addition and subtraction of vectors – graphical method
+3.5
+Resolution of vectors
+3.6
+Vector addition – analytical method
+3.7 Motion in a plane
+3.8 Motion in a plane with constant acceleration
+3.9 Projectile motion
+3.10 Uniform circular motion
+C H A P T E R    4
+LAWS OF MOTION
+4.1 Introduction
+4.2 Aristotle’s fallacy
+4.3 The law of inertia
+4.4
+Newton’s first law of motion
+4.5
+4.6
+Newton’s second law of motion
+Newton’s third law of motion
+iii
+v
+ix
+xii
+1
+1
+3
+7
+7
+7
+13
+14
+15
+17
+27
+27
+29
+29
+31
+33
+34
+37
+38
+40
+49
+50
+50
+51
+53
+56
+Reprint 2025-26
+xiv
+4.7
+4.8
+4.9
+Conservation of momentum
+Equilibrium of a particle
+Common forces in mechanics
+4.10 Circular motion
+4.11 Solving problems in mechanics
+C H A P T E R    5
+WORK, ENERGY AND POWER
+5.1
+Introduction
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+5.8
+5.9
+Notions of work and kinetic energy : The work-energy theorem
+Work
+Kinetic energy
+Work done by a variable force
+The work-energy theorem for a variable force
+The concept of potential energy
+The conservation of mechanical energy
+The potential energy of a spring
+5.10 Power
+5.11 Collisions
+C H A P T E R    6
+SYSTEM OF PARTICLES AND ROTATIONAL MOTION
+6.1
+6.2
+6.3
+6.4
+6.5
+6.6
+6.7
+Introduction
+Centre of mass
+Motion of centre of mass
+Linear momentum of a system of particles
+Vector product of two vectors
+C H A P T E R    7
+GRAVITATION
+7.1
+7.2
+7.3
+57
+58
+59
+63
+64
+71
+73
+73
+74
+75
+76
+77
+78
+80
+83
+83
+Angular velocity and its relation with linear velocity
+Torque and angular momentum
+6.8 Equilibrium of a rigid body
+6.9 Moment of inertia
+6.10 Kinematics of rotational motion about a fixed axis
+6.11 Dynamics of rotational motion about a fixed axis
+6.12 Angular momentum in case of rotations about a fixed axis
+Introduction
+Kepler’s laws
+Universal law of gravitation
+7.4
+7.5
+7.6
+The gravitational constant
+Acceleration due to gravity of the earth
+Acceleration due to gravity below and above the surface of earth
+92
+95
+99
+100
+101
+103
+105
+109
+114
+116
+118
+121
+127
+128
+129
+131
+132
+133
+Reprint 2025-26
+xv
+7.7
+7.8
+7.9
+Gravitational potential energy
+Escape speed
+Earth satellites
+7.10 Energy of an orbiting satellit

@@ -1,0 +1,367 @@
+)
+
+🟢 EASY (1–20)
+
+1. Rutherford’s α-scattering experiment showed that
+A. Atom is solid
+B. Positive charge is uniformly distributed
+C. Atom is mostly empty space
+D. Electrons are inside nucleus
+
+2. The size of nucleus is of the order of
+A. 10⁻¹⁰ m
+B. 10⁻⁸ m
+C. 10⁻¹⁵ m
+D. 10⁻⁵ m
+
+3. Bohr’s model successfully explains
+A. Zeeman effect
+B. Hydrogen spectrum
+C. Stark effect
+D. Multi-electron atoms
+
+4. Angular momentum of electron in Bohr orbit is
+A. mv
+B. mvr
+C. nh
+D. nh/2π
+
+5. Radius of first Bohr orbit for hydrogen is
+A. 0.529 Å
+B. 1 Å
+C. 13.6 Å
+D. 2.18 Å
+
+6. Energy of ground state of hydrogen atom is
+A. +13.6 eV
+B. −13.6 eV
+C. −3.4 eV
+D. −1.51 eV
+
+7. Which series lies in ultraviolet region?
+A. Balmer
+B. Paschen
+C. Lyman
+D. Brackett
+
+8. Ionization energy of hydrogen atom is
+A. 3.4 eV
+B. 10.2 eV
+C. 13.6 eV
+D. 27.2 eV
+
+9. Balmer series corresponds to transitions ending at
+A. n = 1
+B. n = 2
+C. n = 3
+D. n = 4
+
+10. Number of spectral lines possible from n = 3 level is
+A. 2
+B. 3
+C. 4
+D. 6
+
+11. Rydberg constant value is approximately
+A. 10⁵ m⁻¹
+B. 10⁶ m⁻¹
+C. 10⁷ m⁻¹
+D. 10⁸ m⁻¹
+
+12. The most energetic photon is emitted when electron jumps
+A. n = 2 → 1
+B. n = 3 → 2
+C. n = 4 → 2
+D. n = 3 → 1
+
+13. Excitation energy from ground state to n = 2 is
+A. 13.6 eV
+B. 10.2 eV
+C. 3.4 eV
+D. 1.51 eV
+
+14. The spectrum of hydrogen is
+A. Continuous
+B. Absorption
+C. Line spectrum
+D. Band spectrum
+
+15. Bohr radius is directly proportional to
+A. n
+B. 1/n
+C. n²
+D. 1/n²
+
+16. Energy of nth orbit varies as
+A. n
+B. 1/n
+C. n²
+D. 1/n²
+
+17. Hydrogen atom emits light when electron
+A. Absorbs energy
+B. Moves to higher orbit
+C. Moves to lower orbit
+D. Revolves in same orbit
+
+18. Ground state of hydrogen corresponds to
+A. n = 0
+B. n = 1
+C. n = 2
+D. n = ∞
+
+19. The Balmer series lies in
+A. UV
+B. IR
+C. Visible
+D. Microwave
+
+20. Atomic spectra support
+A. Classical physics
+B. Wave theory only
+C. Quantization of energy
+D. Relativity
+
+🟡 MEDIUM – NEET / JEE MAIN (21–40)
+
+21. Radius of 3rd orbit of hydrogen is
+A. 0.529 Å
+B. 1.59 Å
+C. 4.76 Å
+D. 9.53 Å
+
+22. Velocity of electron in nth orbit varies as
+A. n
+B. 1/n
+C. n²
+D. 1/n²
+
+23. Frequency of emitted photon depends on
+A. Radius of orbit
+B. Velocity of electron
+C. Energy difference
+D. Angular momentum
+
+24. Maximum wavelength in Lyman series is obtained for
+A. n = 2 → 1
+B. n = 3 → 1
+C. n = ∞ → 1
+D. n = 4 → 1
+
+25. Ionization energy from n = 3 level is
+A. 13.6 eV
+B. 6.8 eV
+C. 3.4 eV
+D. 1.51 eV
+
+26. Which transition gives shortest wavelength?
+A. 2 → 1
+B. 3 → 2
+C. 4 → 3
+D. 3 → 1
+
+27. Absorption spectrum occurs when electron
+A. Falls to lower level
+B. Moves to higher level
+C. Leaves atom
+D. Remains in same orbit
+
+28. Frequency of electron in Bohr orbit is
+A. Same as photon frequency
+B. Greater than photon frequency
+C. Less than photon frequency
+D. Unrelated
+
+29. Bohr model fails for
+A. Hydrogen
+B. He⁺
+C. Li²⁺
+D. Helium atom
+
+30. Which is not explained by Bohr model?
+A. Hydrogen spectrum
+B. Ionization energy
+C. Zeeman effect
+D. Energy levels
+
+31. Moseley’s law relates
+A. Frequency and mass
+B. Frequency and atomic number
+C. Energy and wavelength
+D. Radius and Z
+
+32. Characteristic X-rays depend on
+A. Voltage
+B. Target material
+C. Temperature
+D. Current
+
+33. Continuous X-ray spectrum is due to
+A. Electron transition
+B. Nuclear transition
+C. Electron deceleration
+D. Photon collision
+
+34. Minimum wavelength of X-rays depends on
+A. Target material
+B. Atomic number
+C. Applied voltage
+D. Current
+
+35. λₘᵢₙ for X-rays is
+A. hc/e
+B. hc/eV
+C. eV/hc
+D. h/eV
+
+36. As atomic number increases, frequency of characteristic X-rays
+A. Decreases
+B. Remains same
+C. Increases
+D. Becomes zero
+
+37. Energy of electron in hydrogen atom becomes zero at
+A. n = 0
+B. n = 1
+C. n = ∞
+D. n = 2
+
+38. Number of lines in Balmer series if electron is excited to n = 4
+A. 2
+B. 3
+C. 4
+D. 6
+
+39. Bohr radius is inversely proportional to
+A. n²
+B. Z
+C. Z²
+D. n
+
+40. For He⁺ ion, ground state energy is
+A. −13.6 eV
+B. −27.2 eV
+C. −54.4 eV
+D. −108.8 eV
+
+🔴 HARD – JEE ADVANCED (41–60)
+
+41. Ratio of radii of 2nd orbit of He⁺ to 3rd orbit of H is
+A. 1/6
+B. 2/9
+C. 3/8
+D. 4/9
+
+42. Ratio of velocities of electron in n = 1 orbit of He⁺ and H is
+A. 1
+B. 2
+C. 1/2
+D. 4
+
+43. Ratio of frequencies of revolution in n = 2 and n = 1 orbits is
+A. 1:2
+B. 2:1
+C. 1:4
+D. 4:1
+
+44. Wavelength of photon emitted in transition n = 4 → 2 belongs to
+A. Lyman
+B. Balmer
+C. Paschen
+D. Brackett
+
+45. Reduced mass correction is significant for
+A. Hydrogen
+B. Heavy atoms
+C. Muonic atoms
+D. X-rays
+
+46. Number of photons emitted when electron falls from n = 5 to ground state
+A. 1
+B. 4
+C. 5
+D. 10
+
+47. If electron jumps from n = ∞ to n = 1, emitted photon energy is
+A. 10.2 eV
+B. 13.6 eV
+C. 3.4 eV
+D. 1.51 eV
+
+48. Ratio of energies of 2nd and 3rd orbit is
+A. 4:9
+B. 9:4
+C. 3:2
+D. 2:3
+
+49. Angular momentum of electron in nth orbit is proportional to
+A. n²
+B. 1/n
+C. n
+D. 1/n²
+
+50. The series limit of Balmer series corresponds to
+A. n = 3 → 2
+B. n = 4 → 2
+C. n = ∞ → 2
+D. n = 2 → 1
+
+51. If Z doubles, radius of orbit becomes
+A. Double
+B. Half
+C. One-fourth
+D. Four times
+
+52. Ratio of energies of He⁺ and H in same orbit is
+A. 1:1
+B. 2:1
+C. 4:1
+D. 1:4
+
+53. Maximum number of spectral lines for n = 6 is
+A. 6
+B. 10
+C. 15
+D. 21
+
+54. Shortest wavelength is emitted when electron transition is
+A. Highest → lowest
+B. Lowest → highest
+C. Adjacent levels
+D. Same level
+
+55. Energy difference between successive orbits
+A. Increases with n
+B. Decreases with n
+C. Remains constant
+D. Becomes zero
+
+56. Bohr model is based on
+A. Wave theory
+B. Particle theory
+C. Quantum postulates
+D. Relativity
+
+57. The binding energy of hydrogen atom equals
+A. 3.4 eV
+B. 10.2 eV
+C. 13.6 eV
+D. 27.2 eV
+
+58. The wavelength of emitted radiation depends on
+A. Radius
+B. Mass
+C. Energy levels
+D. Velocity
+
+59. For hydrogen atom, orbital frequency is maximum for
+A. n = 1
+B. n = 2
+C. n = 3
+D. n = ∞
+
+60. Bohr model gives incorrect results due to neglect of
+A. Electric force
+B. Magnetic force
+C. Wave nature of electron
+D. Nuclear force

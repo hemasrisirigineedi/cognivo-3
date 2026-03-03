@@ -1,0 +1,135 @@
+🔴 1. Hydrogen-Like Species (VERY IMPORTANT)
+
+You must explicitly include:
+
+Hydrogen-like species:
+H, He⁺, Li²⁺, Be³⁺
+
+Scaling relations:
+
+Energy ∝ Z²
+
+Radius ∝ 1/Z
+
+Velocity ∝ Z
+
+Examples JEE loves:
+
+Compare energies of He⁺ vs H
+
+Radius ratio of Li²⁺ and H
+
+Transition energy ratios
+
+👉 Add a separate subsection for this.
+
+🔴 2. Transition Calculations (High Frequency in JEE Adv)
+
+You need a dedicated section on:
+
+Energy of photon emitted/absorbed
+
+Frequency & wavelength from transitions
+
+Series limit calculations
+
+First line vs last line logic
+
+Example concepts:
+
+Maximum wavelength = n₂ = n₁ + 1
+
+Minimum wavelength = n₂ → ∞
+
+Energy released increases as final orbit is lower
+
+🔴 3. Degeneracy of Orbitals (ADV FAVORITE)
+
+Add clearly:
+
+Degeneracy in hydrogen atom:
+
+Depends only on n
+
+Degeneracy = n²
+
+Degeneracy in multi-electron atoms:
+
+Depends on n and l
+
+Effect of magnetic field (Zeeman splitting — qualitative)
+
+🔴 4. Radial Probability Distribution (IMPORTANT)
+
+You mentioned probability, but JEE wants clarity:
+
+Radial probability ≠ |ψ|²
+
+Most probable radius for:
+
+1s orbital = Bohr radius
+
+Difference between:
+
+Probability density
+
+Radial probability
+
+This is a classic JEE trap.
+
+🔴 5. Penetration & Shielding (ABSOLUTE MUST)
+
+This is currently missing, and it’s crucial.
+
+Add:
+
+Penetration order:
+
+s > p > d > f
+
+
+Shielding effect
+
+Why 4s fills before 3d
+
+Why 4s electrons are removed first
+
+👉 This directly connects to periodic trends later.
+
+🔴 6. Effective Nuclear Charge (Zₑff)
+
+You should include:
+
+Zₑff = Z − σ (qualitative)
+
+Depends on:
+
+Shielding
+
+Penetration
+
+Higher Zₑff → lower energy orbital
+
+JEE Adv loves conceptual Zₑff comparisons.
+
+🔴 7. Spin-Orbit Coupling (Mention Only)
+
+No math needed, but add:
+
+Cause of fine structure
+
+Reason behind spectral splitting
+
+Why Bohr failed here
+
+🔴 8. Photoelectric Effect – Graph Interpretation
+
+You gave equations, but add graphs:
+
+KE vs frequency
+
+Current vs intensity
+
+Stopping potential vs frequency
+
+JEE Main loves graph-based MCQs.

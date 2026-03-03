@@ -1,0 +1,592 @@
+Introduction to Kinetic Theory
+
+Kinetic Theory explains the macroscopic behavior of gases (pressure, temperature, volume) using the microscopic motion of molecules.
+
+It connects:
+
+Molecular motion ⟶ Pressure
+
+Molecular kinetic energy ⟶ Temperature
+
+2️⃣ Postulates of Kinetic Theory (VERY IMPORTANT)
+
+An ideal gas is assumed to satisfy the following:
+
+Gas consists of a very large number of molecules
+
+Molecules are in continuous random motion
+
+Size of molecules is negligible compared to distance between them
+
+Intermolecular forces are negligible except during collisions
+
+Collisions between molecules and with walls are perfectly elastic
+
+Gas molecules obey Newton’s laws of motion
+
+Time of collision is negligible compared to time between collisions
+
+📌 JEE Tip: Any violation → gas becomes real, not ideal.
+
+3️⃣ Molecular Nature of Matter
+
+Experimental evidence that matter is made of molecules:
+
+Dalton’s atomic theory
+
+Gay-Lussac’s law of combining volumes
+
+Avogadro’s hypothesis
+
+Brownian motion (direct proof)
+
+Avogadro Number
+𝑁
+𝐴
+=
+6.022
+×
+10
+23
+ 
+mol
+−
+1
+N
+A
+	​
+
+=6.022×10
+23
+ mol
+−1
+
+Number of molecules:
+
+𝑁
+=
+𝑛
+𝑁
+𝐴
+N=nN
+A
+	​
+
+4️⃣ Ideal Gas vs Real Gas
+Ideal Gas
+
+Obeys PV = nRT at all temperatures and pressures
+
+No intermolecular forces
+
+Zero molecular volume
+
+Real Gas
+
+Deviates at:
+
+High pressure
+
+Low temperature
+
+van der Waals Equation (JEE ADVANCED AREA)
+(
+𝑃
++
+𝑎
+𝑛
+2
+𝑉
+2
+)
+(
+𝑉
+−
+𝑛
+𝑏
+)
+=
+𝑛
+𝑅
+𝑇
+(P+
+V
+2
+an
+2
+	​
+
+)(V−nb)=nRT
+	​
+
+
+Where:
+
+a → intermolecular attraction
+
+b → volume of molecules
+
+📌 JEE Trap:
+
+Large a → strong attraction
+
+Large b → large molecular size
+
+5️⃣ Pressure of an Ideal Gas (CORE DERIVATION RESULT)
+
+Pressure arises due to collision of molecules with container walls.
+
+𝑃
+=
+1
+3
+𝜌
+⟨
+𝑣
+2
+⟩
+P=
+3
+1
+	​
+
+ρ⟨v
+2
+⟩
+	​
+
+
+Where:
+
+ρ = mass density
+
+⟨v²⟩ = mean square speed
+
+Alternate form:
+
+𝑃
+=
+2
+3
+×
+(
+KE per unit volume
+)
+P=
+3
+2
+	​
+
+×(KE per unit volume)
+
+📌 JEE Favorite: Pressure depends on mean square speed, not average speed.
+
+6️⃣ Kinetic Interpretation of Temperature
+
+From kinetic theory:
+
+Average KE per molecule
+=
+3
+2
+𝑘
+𝐵
+𝑇
+Average KE per molecule=
+2
+3
+	​
+
+k
+B
+	​
+
+T
+	​
+
+
+Where:
+
+𝑘
+𝐵
+=
+1.38
+×
+10
+−
+23
+ 
+𝐽
+/
+𝐾
+k
+B
+	​
+
+=1.38×10
+−23
+J/K
+
+✔ Temperature is a measure of average translational kinetic energy
+✔ Independent of gas type
+
+📌 JEE Trap: At same temperature, all gases have same average KE.
+
+7️⃣ Molecular Speeds (HIGH WEIGHTAGE)
+
+Three characteristic speeds:
+
+(a) Most Probable Speed
+𝑣
+𝑝
+=
+2
+𝑘
+𝐵
+𝑇
+𝑚
+=
+2
+𝑅
+𝑇
+𝑀
+v
+p
+	​
+
+=
+m
+2k
+B
+	​
+
+T
+	​
+
+	​
+
+=
+M
+2RT
+	​
+
+	​
+
+(b) Average Speed
+𝑣
+ˉ
+=
+8
+𝑘
+𝐵
+𝑇
+𝜋
+𝑚
+=
+8
+𝑅
+𝑇
+𝜋
+𝑀
+v
+ˉ
+=
+πm
+8k
+B
+	​
+
+T
+	​
+
+	​
+
+=
+πM
+8RT
+	​
+
+	​
+
+(c) RMS Speed
+𝑣
+𝑟
+𝑚
+𝑠
+=
+3
+𝑘
+𝐵
+𝑇
+𝑚
+=
+3
+𝑅
+𝑇
+𝑀
+v
+rms
+	​
+
+=
+m
+3k
+B
+	​
+
+T
+	​
+
+	​
+
+=
+M
+3RT
+	​
+
+	​
+
+Relation:
+𝑣
+𝑝
+<
+𝑣
+ˉ
+<
+𝑣
+𝑟
+𝑚
+𝑠
+v
+p
+	​
+
+<
+v
+ˉ
+<v
+rms
+	​
+
+	​
+
+
+Numerical ratio:
+
+𝑣
+𝑝
+:
+𝑣
+ˉ
+:
+𝑣
+𝑟
+𝑚
+𝑠
+=
+1
+:
+1.128
+:
+1.224
+v
+p
+	​
+
+:
+v
+ˉ
+:v
+rms
+	​
+
+=1:1.128:1.224
+
+📌 All speeds:
+
+Increase with temperature
+
+Decrease with molar mass
+
+8️⃣ Degrees of Freedom (DOF)
+
+Degrees of freedom = number of independent ways a molecule can store energy.
+
+Gas	DOF (f)
+Monatomic	3
+Diatomic (room temp)	5
+Triatomic (linear)	5
+Triatomic (non-linear)	6
+
+📌 At high temperature, vibrational DOF becomes active.
+
+9️⃣ Law of Equipartition of Energy
+
+In thermal equilibrium:
+
+Each degree of freedom contributes (1/2)kBT per molecule
+
+Energy per molecule:
+𝐸
+=
+𝑓
+2
+𝑘
+𝐵
+𝑇
+E=
+2
+f
+	​
+
+k
+B
+	​
+
+T
+Energy per mole:
+𝑈
+=
+𝑓
+2
+𝑅
+𝑇
+U=
+2
+f
+	​
+
+RT
+
+📌 NEET Favorite: Equipartition fails at low temperatures.
+
+🔥 10️⃣ Specific Heat of Gases (JEE GOLD)
+
+Using equipartition theorem:
+
+𝐶
+𝑣
+=
+𝑓
+2
+𝑅
+C
+v
+	​
+
+=
+2
+f
+	​
+
+R
+𝐶
+𝑝
+=
+𝐶
+𝑣
++
+𝑅
+C
+p
+	​
+
+=C
+v
+	​
+
++R
+𝛾
+=
+𝐶
+𝑝
+𝐶
+𝑣
+=
+1
++
+2
+𝑓
+γ=
+C
+v
+	​
+
+C
+p
+	​
+
+	​
+
+=1+
+f
+2
+	​
+
+Values:
+Gas	Cv	Cp	γ
+Monatomic	3/2 R	5/2 R	5/3
+Diatomic	5/2 R	7/2 R	7/5
+
+📌 JEE Trap: γ decreases as DOF increases.
+
+11️⃣ Mean Free Path (ADVANCED + CONCEPTUAL)
+
+Mean free path (λ) = average distance between successive collisions.
+
+𝜆
+=
+1
+2
+ 
+𝑛
+𝜋
+𝑑
+2
+λ=
+2
+	​
+
+nπd
+2
+1
+	​
+
+	​
+
+
+In terms of pressure:
+
+𝜆
+=
+𝑘
+𝐵
+𝑇
+2
+𝜋
+𝑑
+2
+𝑃
+λ=
+2
+	​
+
+πd
+2
+P
+k
+B
+	​
+
+T
+	​
+
+	​
+
+Variation:
+
+↑ Temperature ⟶ ↑ λ
+
+↓ Pressure ⟶ ↑ λ
+
+📌 JEE Advanced: Important in transport phenomena.

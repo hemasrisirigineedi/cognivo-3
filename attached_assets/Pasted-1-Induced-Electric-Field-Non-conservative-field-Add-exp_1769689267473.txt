@@ -1,0 +1,627 @@
+1️⃣ Induced Electric Field (Non-conservative field) ⭐⭐⭐
+
+Add explicitly:
+
+Changing magnetic field produces electric field even without conductor
+
+Electric field lines are closed loops
+
+Unlike electrostatic field (conservative)
+
+Mathematical form:
+
+∮
+𝐸
+⃗
+⋅
+𝑑
+𝑙
+⃗
+=
+−
+𝑑
+Φ
+𝑑
+𝑡
+∮
+E
+⋅d
+l
+=−
+dt
+dΦ
+	​
+
+
+👉 JEE Advanced favorite
+
+2️⃣ Lenz’s Law — Force & Mechanical Work (Conceptual traps)
+
+Add:
+
+External force must do work to:
+
+Move magnet
+
+Rotate coil
+
+Change area
+
+This work → electrical energy + heat
+
+Ensures energy conservation
+
+3️⃣ Motional EMF — Vector Form (Advanced)
+
+Add:
+
+𝜀
+=
+∮
+(
+𝑣
+⃗
+×
+𝐵
+⃗
+)
+⋅
+𝑑
+𝑙
+⃗
+ε=∮(
+v
+×
+B
+)⋅d
+l
+
+Special cases:
+
+Rod sliding on rails
+
+Rotating disc (Faraday disc – advanced)
+
+4️⃣ Inductors in Series & Parallel ⭐⭐
+
+Add formulas (often asked):
+
+Series:
+
+𝐿
+𝑒
+𝑞
+=
+𝐿
+1
++
+𝐿
+2
+L
+eq
+	​
+
+=L
+1
+	​
+
++L
+2
+	​
+
+
+Parallel:
+
+1
+𝐿
+𝑒
+𝑞
+=
+1
+𝐿
+1
++
+1
+𝐿
+2
+L
+eq
+	​
+
+1
+	​
+
+=
+L
+1
+	​
+
+1
+	​
+
++
+L
+2
+	​
+
+1
+	​
+
+5️⃣ RL Circuit (CRITICAL – missing) ⭐⭐⭐
+
+You MUST add this section.
+
+Growth of current:
+
+𝐼
+=
+𝐼
+0
+(
+1
+−
+𝑒
+−
+𝑡
+/
+𝜏
+)
+I=I
+0
+	​
+
+(1−e
+−t/τ
+)
+
+Decay of current:
+
+𝐼
+=
+𝐼
+0
+𝑒
+−
+𝑡
+/
+𝜏
+I=I
+0
+	​
+
+e
+−t/τ
+
+Time constant:
+
+𝜏
+=
+𝐿
+𝑅
+τ=
+R
+L
+	​
+
+
+Energy loss during decay:
+
+Energy lost
+=
+1
+2
+𝐿
+𝐼
+0
+2
+Energy lost=
+2
+1
+	​
+
+LI
+0
+2
+	​
+
+
+👉 Appears every year in JEE & NEET
+
+6️⃣ Eddy Current Force & Damping (Advanced)
+
+Add:
+
+Force opposes motion
+
+Proportional to speed
+
+Used in:
+
+Magnetic braking
+
+Galvanometer damping
+
+Bullet train levitation (conceptual)
+
+7️⃣ AC Generator — Slip Rings vs Commutator
+
+Add clarity:
+
+AC generator → slip rings
+
+DC generator → split-ring commutator
+
+Common MCQ trap ❗
+
+🔥 FINAL VERDICT
+
+✔ With your content → Strong base
+✔ After add-ons → 100% JEE + NEET ready
+✔ Especially important: RL circuits & induced E-field
+
+✅ PART 2: 60 MCQs (Easy → JEE Advanced)
+🟢 EASY (1–20)
+
+1. EMF is induced when
+A) Magnetic field exists
+B) Flux changes
+C) Magnet is stationary
+D) Coil is at rest
+
+2. Unit of magnetic flux is
+A) Tesla
+B) Weber
+C) Henry
+D) Volt
+
+3. Magnetic flux depends on
+A) B only
+B) Area only
+C) Orientation only
+D) B, A and angle
+
+4. Negative sign in Faraday’s law represents
+A) Magnitude
+B) Direction
+C) Polarity
+D) Lenz’s law
+
+5. Lenz’s law is consequence of
+A) Momentum conservation
+B) Charge conservation
+C) Energy conservation
+D) Flux conservation
+
+6. Induced current flows to
+A) Aid change
+B) Oppose change
+C) Stop change
+D) Reverse flux
+
+7. Motional EMF is given by
+A) Bvt
+B) Blv
+C) Bv²
+D) Bl²
+
+8. Direction of induced current is found using
+A) Fleming’s left hand
+B) Fleming’s right hand
+C) Right hand thumb rule
+D) Maxwell rule
+
+9. Eddy currents are
+A) Useful currents
+B) Leakage currents
+C) Induced loop currents
+D) Static currents
+
+10. Eddy currents cause
+A) Cooling
+B) Heating
+C) Insulation
+D) Resistance decrease
+
+11. Self-inductance depends on
+A) Current
+B) Voltage
+C) Geometry
+D) Temperature
+
+12. SI unit of inductance is
+A) Tesla
+B) Weber
+C) Henry
+D) Volt
+
+13. Energy stored in inductor is
+A) LI
+B) ½LI²
+C) L²I
+D) I²/L
+
+14. Mutual inductance exists between
+A) Single coil
+B) Two nearby coils
+C) Battery and coil
+D) Capacitor and coil
+
+15. Coupling coefficient k is always
+A) >1
+B) =1
+C) <1
+D) ≤1
+
+16. AC generator converts
+A) Electrical → Mechanical
+B) Mechanical → Electrical
+C) Heat → Electrical
+D) Chemical → Electrical
+
+17. Peak EMF of AC generator depends on
+A) Speed
+B) Area
+C) Magnetic field
+D) All of these
+
+18. Eddy currents are reduced by
+A) Thick core
+B) Laminated core
+C) Copper core
+D) Steel core
+
+19. Induced EMF increases with
+A) Decrease in flux rate
+B) Increase in flux rate
+C) Constant flux
+D) Zero flux
+
+20. Induced electric field is
+A) Conservative
+B) Non-conservative
+C) Zero
+D) Uniform
+
+🟡 MEDIUM (21–40)
+
+21. Flux through coil is maximum when θ is
+A) 0°
+B) 30°
+C) 60°
+D) 90°
+
+22. Flux linkage equals
+A) Φ/N
+B) NΦ
+C) Φ²
+D) N/Φ
+
+23. Lenz’s law determines
+A) Magnitude
+B) Polarity
+C) Direction
+D) Value
+
+24. Self-induced EMF always
+A) Aids current
+B) Opposes change
+C) Increases current
+D) Stops current
+
+25. Inductance of solenoid increases with
+A) Length
+B) Area
+C) Turns²
+D) All
+
+26. Mutual inductance depends on
+A) Current
+B) Distance
+C) Orientation
+D) Geometry
+
+27. Time constant of RL circuit is
+A) R/L
+B) L/R
+C) RL
+D) 1/RC
+
+28. Current growth in RL circuit is
+A) Linear
+B) Sinusoidal
+C) Exponential
+D) Instant
+
+29. Eddy current braking works on
+A) Resistance
+B) Magnetism
+C) Induction
+D) Conduction
+
+30. Energy stored in magnetic field is proportional to
+A) B
+B) B²
+C) H
+D) E²
+
+31. Induced electric field lines are
+A) Straight
+B) Open
+C) Closed
+D) Parallel
+
+32. Slip rings are used in
+A) DC motor
+B) DC generator
+C) AC generator
+D) Transformer
+
+33. Increasing speed of magnet increases
+A) Flux
+B) EMF
+C) Resistance
+D) Inductance
+
+34. Faraday’s disc demonstrates
+A) Mutual induction
+B) Motional EMF
+C) Eddy currents
+D) Self-induction
+
+35. In RL decay, energy is lost as
+A) Sound
+B) Heat
+C) Light
+D) Radiation
+
+36. Eddy currents oppose
+A) Current
+B) Motion
+C) Flux
+D) Field
+
+37. SI unit of flux linkage is
+A) Wb
+B) Wb-turn
+C) T
+D) H
+
+38. Mutual inductance M has unit
+A) Henry
+B) Weber
+C) Tesla
+D) Ampere
+
+39. AC generator EMF is
+A) Constant
+B) Pulsating
+C) Sinusoidal
+D) Zero
+
+40. Direction of induced current depends on
+A) Speed
+B) Flux change
+C) Area
+D) Resistance
+
+🔴 HARD (41–60)
+
+41. Induced electric field exists even without
+A) Magnet
+B) Coil
+C) Conductor
+D) Motion
+
+42. Energy density of magnetic field is
+A) B²/μ₀
+B) μ₀B²
+C) B²/(2μ₀)
+D) μ₀B
+
+43. In RL circuit, current reaches 63% in time
+A) τ
+B) 2τ
+C) τ/2
+D) 3τ
+
+44. Coupling coefficient k = 1 means
+A) No coupling
+B) Partial coupling
+C) Perfect coupling
+D) Weak coupling
+
+45. Motional EMF is zero if
+A) v ⟂ B
+B) v ∥ B
+C) v ≠ 0
+D) B ≠ 0
+
+46. Induced EMF in rotating rod depends on
+A) Length
+B) Angular speed
+C) Magnetic field
+D) All
+
+47. Eddy currents are strongest in
+A) Thin sheet
+B) Laminated core
+C) Solid block
+D) Wire
+
+48. Energy stored in inductor comes from
+A) Battery only
+B) Magnetic field
+C) Electric field
+D) Resistance
+
+49. Induced field is non-conservative because
+A) Path independent
+B) Curl ≠ 0
+C) ∇×E = 0
+D) Flux constant
+
+50. In mutual induction, EMF in secondary depends on
+A) Primary current
+B) Rate of change
+C) Distance
+D) All
+
+51. Eddy current damping is used in
+A) Motors
+B) Galvanometers
+C) Transformers
+D) Generators
+
+52. Lenz’s law prevents
+A) Motion
+B) Energy creation
+C) Current flow
+D) Flux
+
+53. Inductance of long solenoid ∝
+A) l
+B) 1/l
+C) l²
+D) Independent of l
+
+54. In AC generator, EMF is zero when coil is
+A) Parallel to B
+B) Perpendicular to B
+C) At 45°
+D) Horizontal
+
+55. In RL circuit, voltage across L is maximum at
+A) t=0
+B) t=τ
+C) t=∞
+D) Never
+
+56. Motional EMF violates Ohm’s law because
+A) No resistance
+B) Non-electrostatic field
+C) High current
+D) Heat loss
+
+57. Flux change is maximum when
+A) B constant
+B) Area constant
+C) Rate high
+D) Flux zero
+
+58. Self-induced EMF is called
+A) Back EMF
+B) Motional EMF
+C) Eddy EMF
+D) Forward EMF
+
+59. AC generator frequency depends on
+A) Field strength
+B) Area
+C) Speed of rotation
+D) Turns
+
+60. Which law gives magnitude of EMF?
+A) Lenz
+B) Faraday
+C) Ampere
+D) Biot-Savart

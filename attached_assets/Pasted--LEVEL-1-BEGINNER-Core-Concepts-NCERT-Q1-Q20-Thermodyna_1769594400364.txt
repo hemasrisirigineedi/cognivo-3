@@ -1,0 +1,611 @@
+🟢 LEVEL 1: BEGINNER (Core Concepts – NCERT)
+
+Q1–Q20
+
+Thermodynamics deals with:
+
+A) Motion of bodies
+
+B) Heat, work, and energy
+
+C) Electricity
+
+D) Magnetism
+
+A system refers to:
+
+A) Whole universe
+
+B) Part of universe under study
+
+C) Surroundings only
+
+D) Boundary only
+
+Everything other than the system is called:
+
+A) Universe
+
+B) Boundary
+
+C) Surroundings
+
+D) Medium
+
+Which system exchanges both mass and energy?
+
+A) Isolated
+
+B) Closed
+
+C) Open
+
+D) Adiabatic
+
+Zeroth law of thermodynamics is related to:
+
+A) Heat
+
+B) Work
+
+C) Temperature
+
+D) Energy
+
+Two systems are in thermal equilibrium if:
+
+A) They have same pressure
+
+B) They have same volume
+
+C) No heat flows between them
+
+D) They exchange energy
+
+Internal energy depends on:
+
+A) Path
+
+B) State
+
+C) Work done
+
+D) Heat supplied
+
+Internal energy is a:
+
+A) Vector
+
+B) Path function
+
+C) State function
+
+D) Constant
+
+For an ideal gas, internal energy depends on:
+
+A) Pressure only
+
+B) Volume only
+
+C) Temperature only
+
+D) Pressure and volume
+
+Work done by gas is positive when:
+
+A) Gas is compressed
+
+B) Gas expands
+
+C) Heat removed
+
+D) Volume constant
+
+SI unit of work is:
+
+A) Joule
+
+B) Newton
+
+C) Pascal
+
+D) Watt
+
+First law of thermodynamics is a statement of:
+
+A) Entropy
+
+B) Conservation of energy
+
+C) Heat transfer
+
+D) Work
+
+Mathematical form of first law is:
+
+A) Q = W − ΔU
+
+B) Q = ΔU + W
+
+C) ΔU = Q + W
+
+D) W = Q + ΔU
+
+In isothermal process, temperature:
+
+A) Increases
+
+B) Decreases
+
+C) Remains constant
+
+D) Becomes zero
+
+In an adiabatic process:
+
+A) Q = 0
+
+B) W = 0
+
+C) ΔU = 0
+
+D) T = constant
+
+Isochoric process occurs at constant:
+
+A) Pressure
+
+B) Volume
+
+C) Temperature
+
+D) Entropy
+
+Isobaric process occurs at constant:
+
+A) Volume
+
+B) Temperature
+
+C) Pressure
+
+D) Energy
+
+In a cyclic process, change in internal energy is:
+
+A) Maximum
+
+B) Zero
+
+C) Negative
+
+D) Positive
+
+Second law of thermodynamics gives:
+
+A) Amount of energy
+
+B) Direction of processes
+
+C) Heat capacity
+
+D) Internal energy
+
+A heat engine works between:
+
+A) Two volumes
+
+B) Two pressures
+
+C) Two temperatures
+
+D) Two gases
+
+🟡 LEVEL 2: MEDIUM (Application & Formula Based)
+
+Q21–Q40
+
+Work done in isothermal process is:
+
+A) Zero
+
+B) nRT ln(V₂/V₁)
+
+C) PΔV
+
+D) Constant
+
+For isothermal process, internal energy change is:
+
+A) Maximum
+
+B) Minimum
+
+C) Zero
+
+D) Infinite
+
+In adiabatic expansion, temperature:
+
+A) Increases
+
+B) Decreases
+
+C) Remains constant
+
+D) Becomes zero
+
+Adiabatic equation is:
+
+A) PV = constant
+
+B) P/T = constant
+
+C) PVᵞ = constant
+
+D) V/T = constant
+
+γ (gamma) is ratio of:
+
+A) Cp/Cv
+
+B) Cv/Cp
+
+C) Cp − Cv
+
+D) Cp + Cv
+
+For a monatomic gas, γ equals:
+
+A) 1.33
+
+B) 1.4
+
+C) 1.5
+
+D) 1.67
+
+Work done in isochoric process is:
+
+A) Maximum
+
+B) Minimum
+
+C) Zero
+
+D) Infinite
+
+In isochoric process, heat supplied equals:
+
+A) Work done
+
+B) Change in pressure
+
+C) Change in internal energy
+
+D) Zero
+
+Cp − Cv equals:
+
+A) γ
+
+B) kB
+
+C) R
+
+D) T
+
+In isobaric process, work done equals:
+
+A) PΔV
+
+B) nRT
+
+C) Zero
+
+D) ΔU
+
+In a cyclic process:
+
+A) Q = 0
+
+B) W = 0
+
+C) Q = W
+
+D) ΔU ≠ 0
+
+Area enclosed by PV curve represents:
+
+A) Heat
+
+B) Work done
+
+C) Pressure
+
+D) Energy loss
+
+Second law forbids:
+
+A) Heat flow
+
+B) Complete conversion of heat into work
+
+C) Energy conservation
+
+D) Expansion of gas
+
+Kelvin-Planck statement relates to:
+
+A) Refrigerators
+
+B) Heat engines
+
+C) Thermometers
+
+D) Entropy
+
+Clausius statement implies:
+
+A) Heat flows hot → cold
+
+B) Heat flows cold → hot naturally
+
+C) No heat transfer
+
+D) Work equals heat
+
+Efficiency of heat engine is:
+
+A) Q₁/W
+
+B) W/Q₁
+
+C) Q₂/Q₁
+
+D) 1 − Q₁/Q₂
+
+Maximum efficiency depends on:
+
+A) Working substance
+
+B) Design
+
+C) Temperatures
+
+D) Pressure
+
+Carnot engine efficiency is:
+
+A) 1 − T₁/T₂
+
+B) 1 − T₂/T₁
+
+C) T₂/T₁
+
+D) T₁/T₂
+
+Real engines are less efficient than Carnot because:
+
+A) Friction
+
+B) Irreversibility
+
+C) Heat loss
+
+D) All of these
+
+COP of refrigerator is:
+
+A) Q₁/W
+
+B) Q₂/W
+
+C) W/Q₂
+
+D) Q₁/Q₂
+
+🔴 LEVEL 3: TOUGH (JEE / NEET Oriented)
+
+Q41–Q60
+
+Internal energy of ideal gas depends only on:
+
+A) P
+
+B) V
+
+C) T
+
+D) P and V
+
+Work done is path dependent because:
+
+A) Depends on final state
+
+B) Depends on process
+
+C) Depends on temperature
+
+D) Depends on mass
+
+Which process has maximum work for given ΔV?
+
+A) Adiabatic
+
+B) Isochoric
+
+C) Isothermal
+
+D) Cyclic
+
+In adiabatic compression, gas:
+
+A) Cools
+
+B) Heats
+
+C) Remains same
+
+D) Freezes
+
+For cyclic process:
+
+A) ΔU > 0
+
+B) ΔU < 0
+
+C) ΔU = 0
+
+D) ΔU ≠ 0
+
+Efficiency of Carnot engine increases when:
+
+A) T₁ decreases
+
+B) T₂ increases
+
+C) T₁ increases
+
+D) Both temperatures equal
+
+No engine can be 100% efficient because:
+
+A) Energy loss
+
+B) Friction
+
+C) Second law
+
+D) First law
+
+Refrigerators violate second law if:
+
+A) Work supplied
+
+B) Heat removed
+
+C) No external work
+
+D) Heat rejected
+
+COP of Carnot refrigerator is:
+
+A) T₁/T₂
+
+B) T₂/(T₁ − T₂)
+
+C) T₁/(T₁ − T₂)
+
+D) (T₁ − T₂)/T₂
+
+Which is a state variable?
+
+A) Heat
+
+B) Work
+
+C) Internal energy
+
+D) Path
+
+Degrees of freedom of diatomic gas (room temp):
+
+A) 3
+
+B) 4
+
+C) 5
+
+D) 6
+
+Internal energy of monatomic gas is:
+
+A) (1/2)nRT
+
+B) nRT
+
+C) (3/2)nRT
+
+D) (5/2)nRT
+
+In isothermal expansion of ideal gas:
+
+A) Q > 0, W > 0
+
+B) Q = 0
+
+C) W = 0
+
+D) ΔU > 0
+
+Adiabatic curve is steeper than isothermal because:
+
+A) No heat exchange
+
+B) Pressure decreases faster
+
+C) Temperature changes
+
+D) All of these
+
+Which law introduces irreversibility?
+
+A) Zeroth
+
+B) First
+
+C) Second
+
+D) Third
+
+Heat rejected by engine is:
+
+A) Q₁
+
+B) Q₂
+
+C) W
+
+D) ΔU
+
+A perfect heat engine is impossible due to:
+
+A) Zeroth law
+
+B) First law
+
+C) Second law
+
+D) Ideal gas law
+
+Carnot cycle consists of:
+
+A) 2 isothermal + 2 isobaric
+
+B) 2 adiabatic + 2 isothermal
+
+C) 4 adiabatic
+
+D) 4 isothermal
+
+For heat pump, useful output is:
+
+A) Work
+
+B) Q₂
+
+C) Q₁
+
+D) ΔU
+
+Thermodynamics is applicable to:
+
+A) Microscopic systems
+
+B) Macroscopic systems
+
+C) Atomic motion
+
+D) Quantum systems

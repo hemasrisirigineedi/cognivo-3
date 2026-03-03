@@ -1,0 +1,375 @@
+Dual Nature of Radiation & Matter — 60 MCQs
+🟢 EASY LEVEL (1–20)
+
+1. Photoelectric effect supports the
+A) Wave nature of light
+B) Particle nature of light
+C) Longitudinal nature of light
+D) Magnetic nature of light
+
+2. The SI unit of work function is
+A) Joule
+B) eV
+C) Both A and B
+D) Watt
+
+3. Photoelectric emission occurs only if
+A) Intensity is high
+B) Frequency exceeds threshold
+C) Wavelength is large
+D) Time of exposure is large
+
+4. Work function of a metal depends on
+A) Intensity of light
+B) Frequency of light
+C) Nature of metal
+D) Area of surface
+
+5. Threshold frequency is the minimum frequency required to
+A) Increase current
+B) Increase intensity
+C) Emit electrons
+D) Increase stopping potential
+
+6. Increasing intensity of incident light increases
+A) Kinetic energy
+B) Frequency
+C) Photoelectric current
+D) Work function
+
+7. The kinetic energy of photoelectrons depends on
+A) Intensity
+B) Frequency
+C) Area of surface
+D) Nature of cathode only
+
+8. Photon energy is given by
+A) E = mc²
+B) E = hλ
+C) E = hν
+D) E = hc
+
+9. Unit of photon momentum is
+A) kg
+B) kg m/s
+C) J
+D) N
+
+10. Momentum of photon is
+A) Zero
+B) hν
+C) h/λ
+D) mc
+
+11. Which metal has least work function?
+A) Copper
+B) Platinum
+C) Sodium
+D) Cesium
+
+12. Photoelectric current is proportional to
+A) Frequency
+B) Intensity
+C) Wavelength
+D) Stopping potential
+
+13. Stopping potential measures
+A) Charge
+B) Momentum
+C) Kinetic energy
+D) Work function
+
+14. Rest mass of photon is
+A) Finite
+B) Infinite
+C) Zero
+D) Variable
+
+15. Threshold wavelength is related to threshold frequency by
+A) λ₀ν₀ = c
+B) λ₀ = hν₀
+C) λ₀ = ν₀/c
+D) λ₀ = c²/ν₀
+
+16. Below threshold frequency, photoelectric emission
+A) Is delayed
+B) Occurs slowly
+C) Does not occur
+D) Depends on intensity
+
+17. Photoelectric effect was explained by
+A) Newton
+B) Maxwell
+C) Einstein
+D) Planck
+
+18. 1 eV equals
+A) 1.6 × 10⁻¹⁹ J
+B) 1.6 × 10⁻¹⁸ J
+C) 1.6 × 10⁻²⁰ J
+D) 1 J
+
+19. Increasing frequency increases
+A) Photoelectric current
+B) Stopping potential
+C) Work function
+D) Area
+
+20. Nature of light in photoelectric effect is
+A) Wave
+B) Particle
+C) Both
+D) Neither
+
+🟡 MEDIUM LEVEL (21–40)
+
+21. Einstein photoelectric equation is
+A) hν = φ − K
+B) hν = φ + K
+C) hν = K − φ
+D) hν = φK
+
+22. Graph of stopping potential vs frequency has slope
+A) e/h
+B) h
+C) h/e
+D) e
+
+23. Photoelectric current becomes zero at
+A) Zero intensity
+B) Threshold frequency
+C) Saturation voltage
+D) Stopping potential
+
+24. If frequency is doubled, maximum KE
+A) Doubles
+B) Remains same
+C) Increases linearly
+D) Increases non-linearly
+
+25. de Broglie wavelength is inversely proportional to
+A) Mass
+B) Velocity
+C) Momentum
+D) All of these
+
+26. de Broglie wavelength of stationary particle is
+A) Zero
+B) Infinite
+C) Finite
+D) Minimum
+
+27. de Broglie wavelength of electron accelerated by V volts is proportional to
+A) √V
+B) V
+C) 1/V
+D) 1/√V
+
+28. Davisson–Germer experiment verified
+A) Photoelectric effect
+B) Compton effect
+C) Matter waves
+D) Atomic spectra
+
+29. de Broglie wavelength for proton is
+A) Greater than electron
+B) Less than electron
+C) Same as electron
+D) Zero
+
+30. Which particle shows wave nature most easily?
+A) Neutron
+B) Proton
+C) Electron
+D) Alpha particle
+
+31. Electron microscope has higher resolving power because
+A) High intensity
+B) High frequency
+C) Small wavelength
+D) High speed
+
+32. Momentum of photon increases if
+A) Wavelength increases
+B) Frequency increases
+C) Intensity increases
+D) Time increases
+
+33. Threshold frequency depends on
+A) Temperature
+B) Intensity
+C) Metal
+D) Distance
+
+34. Photoelectric effect does not support
+A) Quantization of energy
+B) Particle nature
+C) Classical wave theory
+D) Energy conservation
+
+35. Which graph proves particle nature of light?
+A) Intensity vs distance
+B) KE vs frequency
+C) Current vs distance
+D) λ vs amplitude
+
+36. de Broglie wavelength is significant for
+A) Macroscopic objects
+B) Microscopic particles
+C) Planets
+D) Cars
+
+37. Electron microscope uses
+A) Photons
+B) X-rays
+C) Electrons
+D) Protons
+
+38. Wave nature of matter is explained by
+A) Newton
+B) Einstein
+C) de Broglie
+D) Rutherford
+
+39. If mass increases, de Broglie wavelength
+A) Increases
+B) Decreases
+C) Remains same
+D) Becomes zero
+
+40. de Broglie wavelength of alpha particle is
+A) Maximum
+B) Minimum
+C) Infinite
+D) Zero
+
+🔴 HARD / JEE ADVANCED LEVEL (41–60)
+
+41. Heisenberg uncertainty principle is
+A) ΔxΔp = h
+B) ΔxΔp ≥ h
+C) ΔxΔp ≥ h/4π
+D) ΔxΔp ≤ h/4π
+
+42. Uncertainty principle arises due to
+A) Measurement error
+B) Instrument defect
+C) Wave nature of matter
+D) Relativity
+
+43. Electron cannot exist in nucleus because
+A) High energy
+B) Coulomb repulsion
+C) Uncertainty principle
+D) Low charge
+
+44. If Δx decreases, Δp
+A) Decreases
+B) Increases
+C) Remains constant
+D) Becomes zero
+
+45. Minimum uncertainty in energy and time is
+A) h
+B) h/2
+C) h/4π
+D) Zero
+
+46. de Broglie wavelength of electron at relativistic speed
+A) Increases
+B) Decreases
+C) Becomes zero
+D) Infinite
+
+47. Photoelectric effect disproved
+A) Newton’s laws
+B) Wave theory of light
+C) Conservation of energy
+D) Maxwell’s equations
+
+48. Saturation current depends on
+A) Frequency
+B) Work function
+C) Intensity
+D) Stopping potential
+
+49. KE of photoelectrons is independent of
+A) Frequency
+B) Work function
+C) Intensity
+D) Stopping potential
+
+50. Complementarity principle states
+A) Wave and particle nature seen together
+B) Only wave nature exists
+C) Only particle nature exists
+D) Both exist but not simultaneously
+
+51. Photon momentum is zero when
+A) λ → ∞
+B) ν → ∞
+C) Intensity → 0
+D) Speed → 0
+
+52. Which has smallest de Broglie wavelength?
+A) Electron
+B) Proton
+C) Neutron
+D) Alpha particle
+
+53. Electron microscope resolution increases if
+A) Voltage decreases
+B) Voltage increases
+C) Intensity increases
+D) Area increases
+
+54. For photoelectric emission, most important factor is
+A) Intensity
+B) Frequency
+C) Area
+D) Time
+
+55. Einstein equation is based on
+A) Classical theory
+B) Quantum theory
+C) Relativity
+D) Nuclear physics
+
+56. If wavelength of light decreases, photon energy
+A) Decreases
+B) Increases
+C) Remains same
+D) Becomes zero
+
+57. Which experiment directly confirms wave nature of electron?
+A) Photoelectric
+B) Compton
+C) Davisson–Germer
+D) Franck–Hertz
+
+58. Which cannot be explained by wave theory?
+A) Diffraction
+B) Interference
+C) Polarization
+D) Photoelectric effect
+
+59. Matter waves are associated with
+A) Charged particles only
+B) Neutral particles only
+C) All moving particles
+D) Photons only
+
+60. de Broglie wavelength becomes negligible for
+A) Electron
+B) Proton
+C) Macroscopic bodies
+D) Neutron
+
+✅ ANSWER KEY
+
+1-B, 2-C, 3-B, 4-C, 5-C, 6-C, 7-B, 8-C, 9-B, 10-C
+11-D, 12-B, 13-C, 14-C, 15-A, 16-C, 17-C, 18-A, 19-B, 20-B
+21-B, 22-C, 23-D, 24-C, 25-D, 26-B, 27-D, 28-C, 29-B, 30-C
+31-C, 32-B, 33-C, 34-C, 35-B, 36-B, 37-C, 38-C, 39-B, 40-B
+41-C, 42-C, 43-C, 44-B, 45-C, 46-B, 47-B, 48-C, 49-C, 50-D
+51-A, 52-D, 53-B, 54-B, 55-B, 56-B, 57-C, 58-D, 59-C, 60-C

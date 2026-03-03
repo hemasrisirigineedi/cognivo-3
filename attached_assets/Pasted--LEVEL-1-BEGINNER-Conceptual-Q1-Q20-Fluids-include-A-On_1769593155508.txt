@@ -1,0 +1,611 @@
+🟢 LEVEL 1: BEGINNER (Conceptual)
+
+Q1–Q20
+
+Fluids include:
+
+A) Only liquids
+
+B) Only gases
+
+C) Liquids and gases
+
+D) Solids
+
+Fluids cannot resist:
+
+A) Tensile stress
+
+B) Compressive stress
+
+C) Shear stress
+
+D) Normal stress
+
+Pressure is defined as:
+
+A) Force × area
+
+B) Force / area
+
+C) Area / force
+
+D) Work / volume
+
+SI unit of pressure is:
+
+A) bar
+
+B) atm
+
+C) Pascal
+
+D) torr
+
+Atmospheric pressure at sea level is approximately:
+
+A) 10⁴ Pa
+
+B) 10⁵ Pa
+
+C) 10⁶ Pa
+
+D) 10⁷ Pa
+
+Pressure inside a fluid increases with:
+
+A) Temperature
+
+B) Area
+
+C) Depth
+
+D) Shape
+
+Formula for pressure at depth h is:
+
+A) P = ρgh
+
+B) P = P₀ − ρgh
+
+C) P = P₀ + ρgh
+
+D) P = gh
+
+Pascal’s law applies to:
+
+A) Solids
+
+B) Fluids at rest
+
+C) Gases only
+
+D) Fluids in motion
+
+Hydraulic lift works on:
+
+A) Bernoulli’s principle
+
+B) Continuity equation
+
+C) Pascal’s law
+
+D) Archimedes’ principle
+
+In a hydraulic lift:
+
+A) Force decreases
+
+B) Area decreases
+
+C) Pressure remains same
+
+D) Volume decreases
+
+Streamline flow is also called:
+
+A) Turbulent flow
+
+B) Laminar flow
+
+C) Irregular flow
+
+D) Random flow
+
+In streamline flow, velocity at a point is:
+
+A) Variable
+
+B) Zero
+
+C) Constant
+
+D) Infinite
+
+Continuity equation represents conservation of:
+
+A) Energy
+
+B) Pressure
+
+C) Mass
+
+D) Momentum
+
+Continuity equation is:
+
+A) Av = constant
+
+B) A/v = constant
+
+C) v²A = constant
+
+D) A²v = constant
+
+Bernoulli’s principle applies to:
+
+A) Viscous fluid
+
+B) Ideal fluid
+
+C) Compressible fluid
+
+D) Turbulent flow
+
+If velocity increases, pressure:
+
+A) Increases
+
+B) Decreases
+
+C) Remains same
+
+D) Becomes zero
+
+SI unit of viscosity is:
+
+A) Poise
+
+B) N/m
+
+C) Pa·s
+
+D) kg/m³
+
+High viscosity fluid is:
+
+A) Water
+
+B) Air
+
+C) Honey
+
+D) Alcohol
+
+Surface tension is measured in:
+
+A) N
+
+B) N/m
+
+C) J
+
+D) Pa
+
+Surface tension causes liquid drops to be:
+
+A) Cubical
+
+B) Cylindrical
+
+C) Spherical
+
+D) Flat
+
+🟡 LEVEL 2: MEDIUM (Application)
+
+Q21–Q40
+
+Pressure is same at same depth in:
+
+A) Any fluid
+
+B) Only liquids
+
+C) Only gases
+
+D) Vacuum
+
+In a narrower pipe, fluid velocity:
+
+A) Decreases
+
+B) Becomes zero
+
+C) Increases
+
+D) Constant
+
+Turbulent flow occurs when velocity exceeds:
+
+A) Drift velocity
+
+B) Terminal velocity
+
+C) Critical velocity
+
+D) Escape velocity
+
+Reynolds number depends on:
+
+A) Density
+
+B) Velocity
+
+C) Viscosity
+
+D) All of these
+
+Laminar flow occurs when Re is:
+
+A) > 3000
+
+B) < 2000
+
+C) = 3000
+
+D) Infinite
+
+Bernoulli’s equation shows conservation of:
+
+A) Mass
+
+B) Energy
+
+C) Pressure
+
+D) Momentum
+
+Lift on airplane wing is due to:
+
+A) Pascal’s law
+
+B) Archimedes’ principle
+
+C) Bernoulli’s principle
+
+D) Surface tension
+
+Atomizer works on:
+
+A) High pressure region
+
+B) Low velocity region
+
+C) Low pressure region
+
+D) High density region
+
+Viscous force opposes:
+
+A) Pressure
+
+B) Flow
+
+C) Density
+
+D) Gravity
+
+Stokes’ law applies to:
+
+A) Large bodies
+
+B) Turbulent flow
+
+C) Small spheres
+
+D) Gases only
+
+Terminal velocity is achieved when:
+
+A) Weight = buoyant force
+
+B) Net force = zero
+
+C) Acceleration maximum
+
+D) Speed infinite
+
+Terminal velocity depends on:
+
+A) Radius
+
+B) Density
+
+C) Viscosity
+
+D) All of these
+
+Surface tension is due to:
+
+A) Gravity
+
+B) Cohesive forces
+
+C) Adhesive forces
+
+D) Pressure
+
+Floating needle is due to:
+
+A) Buoyancy
+
+B) Density
+
+C) Surface tension
+
+D) Viscosity
+
+Surface energy is measured in:
+
+A) J
+
+B) N/m
+
+C) Pa
+
+D) kg
+
+Excess pressure inside a soap bubble is:
+
+A) 2S/R
+
+B) S/R
+
+C) 4S/R
+
+D) S/2R
+
+Smaller bubbles have:
+
+A) Lower pressure
+
+B) Same pressure
+
+C) Higher pressure
+
+D) Zero pressure
+
+Capillary rise increases when radius:
+
+A) Increases
+
+B) Decreases
+
+C) Constant
+
+D) Zero
+
+Water rises in glass tube because:
+
+A) Cohesion > adhesion
+
+B) Adhesion > cohesion
+
+C) Equal forces
+
+D) No surface tension
+
+Mercury shows capillary fall because:
+
+A) θ < 90°
+
+B) θ = 90°
+
+C) θ > 90°
+
+D) No cohesion
+
+🔴 LEVEL 3: TOUGH (NEET / JEE Foundation)
+
+Q41–Q60
+
+Unit of Reynolds number is:
+
+A) kg/m³
+
+B) m/s
+
+C) Dimensionless
+
+D) Pa
+
+Bernoulli’s equation is not valid when:
+
+A) Flow is steady
+
+B) Fluid is ideal
+
+C) Flow is turbulent
+
+D) Fluid incompressible
+
+If area halves, velocity becomes:
+
+A) Half
+
+B) Double
+
+C) Same
+
+D) Zero
+
+Which energy is maximum at highest speed?
+
+A) Pressure energy
+
+B) Potential energy
+
+C) Kinetic energy
+
+D) Surface energy
+
+Viscosity of liquids:
+
+A) Increases with temperature
+
+B) Decreases with temperature
+
+C) Constant
+
+D) Zero
+
+Viscosity of gases:
+
+A) Decreases with temperature
+
+B) Increases with temperature
+
+C) Constant
+
+D) Zero
+
+Stokes’ law fails when:
+
+A) Sphere is small
+
+B) Flow is laminar
+
+C) Velocity is high
+
+D) Viscosity large
+
+Terminal velocity is independent of:
+
+A) Radius
+
+B) Density
+
+C) Viscosity
+
+D) Height fallen
+
+Soap reduces surface tension by:
+
+A) Increasing cohesion
+
+B) Reducing cohesion
+
+C) Increasing pressure
+
+D) Increasing density
+
+Surface tension is minimum for:
+
+A) Water
+
+B) Mercury
+
+C) Soap solution
+
+D) Alcohol
+
+Pressure inside liquid drop depends on:
+
+A) Radius
+
+B) Surface tension
+
+C) Both A and B
+
+D) Volume
+
+Capillary rise is inversely proportional to:
+
+A) Surface tension
+
+B) Density
+
+C) Radius
+
+D) cosθ
+
+If θ = 90°, capillary rise is:
+
+A) Maximum
+
+B) Minimum
+
+C) Zero
+
+D) Infinite
+
+For mercury on glass, meniscus is:
+
+A) Concave
+
+B) Convex
+
+C) Plane
+
+D) Spherical
+
+Excess pressure in liquid drop is due to:
+
+A) Gravity
+
+B) Buoyancy
+
+C) Surface tension
+
+D) Viscosity
+
+Venturi meter measures:
+
+A) Pressure
+
+B) Velocity
+
+C) Flow rate
+
+D) Density
+
+Magnus effect explains:
+
+A) Floating
+
+B) Lift
+
+C) Curved path of ball
+
+D) Capillarity
+
+Bernoulli’s equation is derived from:
+
+A) Newton’s law
+
+B) Conservation of energy
+
+C) Conservation of momentum
+
+D) Pascal’s law
+
+Fluids at rest can have:
+
+A) Shear stress
+
+B) Tensile stress
+
+C) Compressive stress
+
+D) No stress
+
+Capillary action is maximum when:
+
+A) θ = 0°
+
+B) θ = 90°
+
+C) θ = 180°
+
+D) θ > 90°

@@ -1,0 +1,374 @@
+EASY (1–20) — NCERT + NEET level
+
+1. The magnetic force on a moving charge is maximum when the angle between v and B is
+A) 0°
+B) 30°
+C) 60°
+D) 90°
+
+2. The SI unit of magnetic field is
+A) Weber
+B) Tesla
+C) Gauss
+D) Ampere
+
+3. A charged particle moving parallel to a magnetic field experiences
+A) Maximum force
+B) Minimum force
+C) Zero force
+D) Changing force
+
+4. Which rule gives the direction of magnetic field around a straight current-carrying wire?
+A) Fleming’s left-hand rule
+B) Right-hand thumb rule
+C) Maxwell’s corkscrew rule
+D) Fleming’s right-hand rule
+
+5. The magnetic force on a charge does work because
+A) It changes speed
+B) It changes direction
+C) It changes kinetic energy
+D) It changes potential energy
+
+6. The path of a charged particle entering a uniform magnetic field perpendicular to it is
+A) Parabolic
+B) Straight line
+C) Circular
+D) Helical
+
+7. The radius of circular path of a charged particle in a magnetic field depends on
+A) Charge only
+B) Velocity only
+C) Magnetic field only
+D) All of these
+
+8. Two parallel current-carrying conductors carrying currents in the same direction
+A) Repel each other
+B) Attract each other
+C) Do not interact
+D) Rotate about each other
+
+9. The magnetic field inside a long solenoid is
+A) Zero
+B) Non-uniform
+C) Uniform
+D) Maximum at center only
+
+10. The force on a current-carrying conductor placed in a magnetic field is zero when the conductor is
+A) Parallel to the field
+B) Perpendicular to the field
+C) Inclined at 45°
+D) Horizontal
+
+11. Which particle cannot be accelerated by a cyclotron?
+A) Proton
+B) Alpha particle
+C) Electron
+D) Deuteron
+
+12. The direction of magnetic moment of a current loop is given by
+A) Fleming’s left-hand rule
+B) Right-hand thumb rule
+C) Maxwell’s rule
+D) Lenz’s law
+
+13. Magnetic field lines are
+A) Open curves
+B) Closed loops
+C) Straight lines
+D) Parallel lines
+
+14. The torque on a current loop is maximum when its plane is
+A) Parallel to B
+B) Perpendicular to B
+C) Inclined at 45°
+D) Horizontal
+
+15. The SI unit of magnetic dipole moment is
+A) A/m
+B) A·m²
+C) T·m
+D) N·m
+
+16. Which quantity remains unchanged in magnetic force interaction?
+A) Speed
+B) Velocity
+C) Direction
+D) Momentum
+
+17. Magnetic field at the center of a circular loop carrying current depends on
+A) Radius
+B) Current
+C) Number of turns
+D) All of these
+
+18. The force between two long parallel wires is directly proportional to
+A) Distance
+B) Square of distance
+C) Product of currents
+D) Length only
+
+19. A moving charge in a magnetic field experiences acceleration because
+A) Force is zero
+B) Force is constant
+C) Direction of velocity changes
+D) Speed increases
+
+20. A solenoid behaves like
+A) Electric dipole
+B) Magnetic dipole
+C) Capacitor
+D) Resistor
+
+🟡 MEDIUM (21–40) — JEE Main level
+
+21. The radius of circular motion of a proton in a magnetic field B is r. If velocity is doubled, radius becomes
+A) r/2
+B) r
+C) 2r
+D) 4r
+
+22. A charged particle enters a magnetic field with velocity at angle θ. The pitch of helix is proportional to
+A) sinθ
+B) cosθ
+C) tanθ
+D) cotθ
+
+23. The frequency of revolution of a charged particle in magnetic field is independent of
+A) Charge
+B) Mass
+C) Velocity
+D) Magnetic field
+
+24. Which law is used to find magnetic field of infinite straight wire?
+A) Gauss law
+B) Faraday’s law
+C) Ampere’s law
+D) Coulomb’s law
+
+25. Magnetic field inside a toroid varies as
+A) r
+B) 1/r
+C) r²
+D) Constant
+
+26. A charged particle moving in a uniform magnetic field has
+A) Constant velocity
+B) Constant acceleration
+C) Constant speed
+D) Constant momentum
+
+27. The magnetic field due to a current element is given by
+A) Ampere’s law
+B) Gauss law
+C) Biot–Savart law
+D) Coulomb law
+
+28. The force between two parallel wires is halved when
+A) Current doubled
+B) Distance doubled
+C) Current halved
+D) Distance halved
+
+29. A galvanometer is converted to voltmeter by connecting
+A) Low resistance in parallel
+B) High resistance in parallel
+C) Low resistance in series
+D) High resistance in series
+
+30. The magnetic moment of a current loop depends on
+A) Current
+B) Area
+C) Number of turns
+D) All of these
+
+31. The unit of μ₀ is
+A) T·m/A
+B) N/A²
+C) H/m
+D) All of these
+
+32. A charged particle moving in crossed E and B fields moves undeflected if
+A) E = B
+B) v = E/B
+C) v = B/E
+D) E = vB²
+
+33. The work done by magnetic force on a moving charge is always
+A) Positive
+B) Negative
+C) Zero
+D) Variable
+
+34. Magnetic field at the center of circular coil increases when
+A) Radius increases
+B) Current decreases
+C) Turns increase
+D) Wire thickness increases
+
+35. In a cyclotron, the magnetic field is used to
+A) Increase energy
+B) Accelerate particle
+C) Bend path
+D) Increase speed directly
+
+36. Magnetic field due to solenoid depends on
+A) Radius
+B) Length
+C) Turns per unit length
+D) Material only
+
+37. Direction of force on current-carrying conductor is given by
+A) Fleming’s right-hand rule
+B) Fleming’s left-hand rule
+C) Maxwell rule
+D) Lenz’s law
+
+38. Torque on a current loop is zero when magnetic moment is
+A) Perpendicular to B
+B) Parallel to B
+C) At 45° to B
+D) None
+
+39. Which particle will have maximum radius in same B and v?
+A) Electron
+B) Proton
+C) Alpha particle
+D) Neutron
+
+40. Magnetic field inside a long straight conductor is
+A) Zero
+B) Maximum at surface
+C) Increases with radius
+D) Decreases with radius
+
+🔴 HARD (41–60) — JEE Advanced level
+
+41. A charged particle moves in crossed E and B fields in a cycloidal path. The drift velocity is
+A) E/B
+B) B/E
+C) qE/m
+D) qB/m
+
+42. The cyclotron fails at high speeds because
+A) Field becomes non-uniform
+B) Charge decreases
+C) Mass increases
+D) Radius becomes zero
+
+43. A particle enters magnetic field with velocity parallel to B. Its acceleration is
+A) Zero
+B) v²/r
+C) qvB/m
+D) Variable
+
+44. The ratio of radii of proton and alpha particle in same B and v is
+A) 1:1
+B) 1:2
+C) 2:1
+D) 4:1
+
+45. A wire carrying current I is placed in uniform B. If length is doubled, force becomes
+A) I/2
+B) Same
+C) Double
+D) Four times
+
+46. The magnetic field at the center of a loop is doubled if
+A) Radius doubled
+B) Current doubled
+C) Area doubled
+D) Turns halved
+
+47. The magnetic moment of a charged particle in circular motion is proportional to
+A) qv
+B) mv
+C) qvr
+D) mv²
+
+48. In a toroid, magnetic field is zero
+A) Inside core
+B) Outside core
+C) At center only
+D) Everywhere
+
+49. Force between parallel conductors depends on medium through
+A) ε₀
+B) μ₀
+C) σ
+D) K
+
+50. Magnetic dipole placed in non-uniform field experiences
+A) Only torque
+B) Only force
+C) Force and torque
+D) Neither
+
+51. If charge and velocity are doubled, radius of circular motion becomes
+A) Same
+B) Double
+C) Half
+D) Four times
+
+52. The current sensitivity of galvanometer increases by
+A) Increasing k
+B) Decreasing area
+C) Increasing turns
+D) Decreasing B
+
+53. Magnetic field inside solenoid is independent of
+A) Current
+B) Length
+C) Radius
+D) Turns
+
+54. The dimension of μ₀ is
+A) ML²T⁻²A⁻²
+B) MLT⁻²A⁻¹
+C) MT⁻²A⁻²
+D) ML⁻¹T⁻²A⁻²
+
+55. In circular motion under magnetic field, centripetal force is provided by
+A) Electric force
+B) Gravitational force
+C) Magnetic force
+D) Tension
+
+56. Magnetic field due to finite wire at midpoint is maximum when wire subtends angle
+A) 30°
+B) 45°
+C) 60°
+D) 180°
+
+57. The energy of a charged particle moving in magnetic field
+A) Increases
+B) Decreases
+C) Remains constant
+D) Oscillates
+
+58. A galvanometer is most sensitive when
+A) k is large
+B) A is small
+C) B is large
+D) Turns are small
+
+59. The pitch of helix increases when
+A) B increases
+B) v∥ increases
+C) q increases
+D) m decreases
+
+60. Which concept explains attraction between parallel currents?
+A) Electric field
+B) Magnetic field
+C) Lorentz force
+D) Ampere force law
+
+✅ ANSWER KEY (quick)
+
+1-D, 2-B, 3-C, 4-B, 5-B, 6-C, 7-D, 8-B, 9-C, 10-A
+11-C, 12-B, 13-B, 14-A, 15-B, 16-A, 17-D, 18-C, 19-C, 20-B
+21-C, 22-B, 23-C, 24-C, 25-B, 26-C, 27-C, 28-B, 29-D, 30-D
+31-D, 32-B, 33-C, 34-C, 35-C, 36-C, 37-B, 38-B, 39-A, 40-B
+41-A, 42-C, 43-A, 44-C, 45-C, 46-B, 47-C, 48-B, 49-B, 50-C
+51-A, 52-C, 53-C, 54-D, 55-C, 56-D, 57-C, 58-C, 59-B, 60-D

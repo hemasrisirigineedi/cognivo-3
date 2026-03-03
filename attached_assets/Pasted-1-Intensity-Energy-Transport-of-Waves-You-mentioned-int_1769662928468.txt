@@ -1,0 +1,218 @@
+1️⃣ Intensity & Energy Transport of Waves ❗
+
+You mentioned intensity ∝ A², but JEE needs formula:
+
+𝐼
+=
+1
+2
+𝜌
+𝑣
+𝜔
+2
+𝐴
+2
+I=
+2
+1
+	​
+
+ρvω
+2
+A
+2
+
+Where:
+
+ρ = density of medium
+
+v = wave speed
+
+📌 JEE Trap:
+
+Amplitude ↓ → Intensity ↓ quadratically
+
+Energy transfer exists only in progressive waves, not standing waves
+
+2️⃣ Particle Velocity vs Wave Velocity ❗ (VERY IMPORTANT)
+
+You did not explicitly separate this, but JEE LOVES it.
+
+Wave velocity (v) → speed of disturbance
+
+Particle velocity (u) → velocity of medium particle
+
+For progressive wave:
+
+𝑢
+=
+∂
+𝑦
+∂
+𝑡
+=
+𝐴
+𝜔
+cos
+⁡
+(
+𝑘
+𝑥
+−
+𝜔
+𝑡
+)
+u=
+∂t
+∂y
+	​
+
+=Aωcos(kx−ωt)
+
+Max particle velocity:
+
+𝑢
+𝑚
+𝑎
+𝑥
+=
+𝐴
+𝜔
+u
+max
+	​
+
+=Aω
+
+📌 JEE Trap:
+Particle velocity ≠ wave velocity ❌
+
+3️⃣ Phase Difference (Conceptual Gold) ❗
+
+You need phase relations:
+
+Phase difference between two points:
+
+Δ
+𝜙
+=
+2
+𝜋
+𝜆
+Δ
+𝑥
+Δϕ=
+λ
+2π
+	​
+
+Δx
+
+Same phase → Δx = nλ
+
+Opposite phase → Δx = (2n+1)λ/2
+
+4️⃣ Displacement Nodes vs Pressure Nodes ❗
+
+For sound waves (longitudinal):
+
+Quantity	Node	Antinode
+Displacement	Minimum	Maximum
+Pressure	Maximum	Minimum
+
+📌 In organ pipes:
+
+Closed end → displacement node, pressure antinode
+
+Open end → displacement antinode, pressure node
+
+This is a classic JEE Advanced trap.
+
+5️⃣ Standing Waves: Energy & Motion ❗
+
+Missing points:
+
+Standing waves do not transport energy
+
+All particles oscillate with different amplitudes
+
+All particles have same frequency
+
+Nodes are always at rest
+
+6️⃣ End Correction in Organ Pipes ❗ (JEE FAVORITE)
+
+Real pipes need correction:
+
+Effective length:
+
+𝐿
+𝑒
+𝑓
+𝑓
+=
+𝐿
++
+0.6
+𝑟
+L
+eff
+	​
+
+=L+0.6r
+
+📌 Mostly used in numericals.
+
+7️⃣ Doppler Effect: ALL CASES ❗
+
+You gave the general formula ✔️
+But JEE wants cases clarity:
+
+Only source moving
+
+Only observer moving
+
+Both moving
+
+Wind effect (effective velocity changes)
+
+With correct sign convention.
+
+8️⃣ Shock Waves & Mach Number ❗ (Advanced only)
+
+Missing but important:
+
+Mach number
+=
+𝑣
+𝑜
+𝑏
+𝑗
+𝑒
+𝑐
+𝑡
+𝑣
+𝑠
+𝑜
+𝑢
+𝑛
+𝑑
+Mach number=
+v
+sound
+	​
+
+v
+object
+	​
+
+	​
+
+
+M < 1 → subsonic
+
+M = 1 → sonic
+
+M > 1 → supersonic
+
+Shock waves cause sonic boom.

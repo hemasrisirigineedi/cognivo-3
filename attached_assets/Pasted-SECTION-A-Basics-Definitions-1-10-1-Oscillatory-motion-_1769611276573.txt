@@ -1,0 +1,439 @@
+SECTION A: Basics & Definitions (1–10)
+
+1. Oscillatory motion is best defined as motion that:
+A. Moves in a straight line
+B. Repeats itself after equal intervals
+C. Moves to and fro about a mean position
+D. Always moves with constant speed
+
+2. Which of the following is periodic but NOT oscillatory?
+A. Simple pendulum
+B. Spring–mass system
+C. Uniform circular motion
+D. Vibrating tuning fork
+
+3. Frequency is defined as:
+A. Time for one oscillation
+B. Maximum displacement
+C. Number of oscillations per second
+D. Angular displacement
+
+4. SI unit of frequency is:
+A. s
+B. rad/s
+C. Hz
+D. m/s
+
+5. Time period and frequency are related as:
+A. T = f
+B. T = 1/f
+C. T = f²
+D. T = 2πf
+
+6. Amplitude of oscillation is:
+A. Total distance travelled
+B. Distance between extreme positions
+C. Maximum displacement from mean position
+D. Displacement in one cycle
+
+7. Which quantity remains constant in SHM (ideal case)?
+A. Velocity
+B. Acceleration
+C. Energy
+D. Displacement
+
+8. Oscillatory motion is always:
+A. Uniform
+B. Circular
+C. Periodic
+D. Random
+
+9. Which of the following motions is NOT oscillatory?
+A. Swinging pendulum
+B. Vibrating string
+C. Rotating fan
+D. Mass on spring
+
+10. Angular frequency ω is related to time period T by:
+A. ω = T/2π
+B. ω = 2π/T
+C. ω = 1/T
+D. ω = πT
+
+SECTION B: Simple Harmonic Motion (11–25)
+
+11. SHM is defined as motion in which:
+A. Velocity is proportional to displacement
+B. Acceleration is proportional to velocity
+C. Restoring force is proportional to displacement
+D. Energy is proportional to displacement
+
+12. Restoring force in SHM is always directed:
+A. Away from equilibrium
+B. Along velocity
+C. Towards equilibrium
+D. Perpendicular to motion
+
+13. Equation of SHM is:
+A. F = +kx
+B. F = -kx
+C. F = k/x
+D. F = -k/x
+
+14. Displacement in SHM is given by:
+A. x = Aωt
+B. x = A sin(ωt + φ)
+C. x = vt
+D. x = at²
+
+15. Phase of SHM is represented by:
+A. ω
+B. φ
+C. (ωt + φ)
+D. A
+
+16. Maximum displacement occurs at phase:
+A. 0
+B. π/2
+C. π
+D. Depends on amplitude
+
+17. SHM is projection of:
+A. Circular motion on tangent
+B. Uniform circular motion on diameter
+C. Linear motion on circle
+D. Random motion
+
+18. Angular frequency depends on:
+A. Amplitude
+B. Mass only
+C. Force constant and mass
+D. Velocity
+
+19. Which condition is necessary for SHM?
+A. Constant velocity
+B. Constant acceleration
+C. Restoring force ∝ displacement
+D. Constant force
+
+20. Dimension of angular frequency ω is:
+A. T
+B. T⁻¹
+C. L⁻¹
+D. LT⁻¹
+
+21. If amplitude is doubled, time period becomes:
+A. Doubled
+B. Halved
+C. Same
+D. Four times
+
+22. Initial phase φ determines:
+A. Amplitude
+B. Frequency
+C. Initial displacement
+D. Time period
+
+23. SHM can be represented using:
+A. Exponential function
+B. Logarithmic function
+C. Sine or cosine function
+D. Linear function
+
+24. Which of the following is NOT true for SHM?
+A. Acceleration is maximum at extremes
+B. Velocity is zero at extremes
+C. Force is maximum at mean position
+D. Energy remains constant
+
+25. The restoring force is zero at:
+A. Extreme positions
+B. Mean position
+C. Half amplitude
+D. Everywhere
+
+SECTION C: Velocity & Acceleration (26–35)
+
+26. Velocity in SHM is maximum at:
+A. Extreme position
+B. Mean position
+C. Half amplitude
+D. Everywhere
+
+27. Maximum velocity in SHM is:
+A. ωA²
+B. A/ω
+C. Aω
+D. ω²A
+
+28. Acceleration in SHM is proportional to:
+A. Velocity
+B. Displacement
+C. Energy
+D. Time
+
+29. Acceleration is maximum at:
+A. Mean position
+B. Extreme positions
+C. Everywhere
+D. Half amplitude
+
+30. Relation between acceleration and displacement is:
+A. a = ω²x
+B. a = -ω²x
+C. a = kx
+D. a = -kx²
+
+31. Velocity at displacement x is given by:
+A. v = ωx
+B. v = Aω
+C. v = ω√(A² − x²)
+D. v = ω²x
+
+32. Acceleration at mean position is:
+A. Maximum
+B. Minimum
+C. Zero
+D. Infinite
+
+33. Ratio of maximum acceleration to maximum velocity is:
+A. ω
+B. ω²
+C. 1/ω
+D. A
+
+34. Phase difference between velocity and displacement is:
+A. 0
+B. π/4
+C. π/2
+D. π
+
+35. Phase difference between acceleration and displacement is:
+A. 0
+B. π/2
+C. π
+D. 3π/2
+
+SECTION D: Energy, Pendulum & Springs (36–60)
+
+36. Total energy of SHM is proportional to:
+A. A
+B. A²
+C. ω
+D. x
+
+37. At mean position:
+A. KE is zero
+B. PE is maximum
+C. KE is maximum
+D. Total energy is zero
+
+38. At extreme position:
+A. KE is maximum
+B. PE is zero
+C. KE is zero
+D. Energy is lost
+
+39. Total energy in SHM depends on:
+A. Mass only
+B. Amplitude only
+C. ω and A
+D. Displacement
+
+40. Potential energy in SHM is maximum at:
+A. Mean position
+B. Half amplitude
+C. Extreme position
+D. Everywhere
+
+41. Time period of spring–mass system is:
+A. 2π√(k/m)
+B. 2π√(m/k)
+C. √(m/k)
+D. π√(m/k)
+
+42. Time period of simple pendulum depends on:
+A. Mass
+B. Amplitude (large)
+C. Length and g
+D. Material of bob
+
+43. Small angle approximation is valid when θ is:
+A. > 30°
+B. < 15°
+C. = 90°
+D. Any angle
+
+44. Time period of pendulum is independent of:
+A. Length
+B. Mass
+C. g
+D. Temperature
+
+45. Spring constant has SI unit:
+A. N
+B. N/m
+C. J
+D. kg
+
+46. Springs in parallel have equivalent constant:
+A. k₁k₂/(k₁ + k₂)
+B. k₁ + k₂
+C. k₁ − k₂
+D. 1/(k₁ + k₂)
+
+47. Springs in series have equivalent constant:
+A. k₁ + k₂
+B. k₁k₂
+C. 1/(1/k₁ + 1/k₂)
+D. k₁ − k₂
+
+48. Damping force is proportional to:
+A. Displacement
+B. Velocity
+C. Acceleration
+D. Energy
+
+49. In damped oscillations, amplitude decreases:
+A. Linearly
+B. Parabolically
+C. Exponentially
+D. Suddenly
+
+50. In overdamped motion:
+A. Oscillations occur
+B. Amplitude increases
+C. System returns slowly without oscillation
+D. Frequency increases
+
+51. Forced oscillation frequency equals:
+A. Natural frequency
+B. Damping frequency
+C. Driving frequency
+D. Zero
+
+52. Resonance occurs when:
+A. ω = 0
+B. ω = ω₀
+C. ω > ω₀
+D. ω < ω₀
+
+53. At resonance, amplitude is:
+A. Minimum
+B. Zero
+C. Maximum
+D. Constant
+
+54. Resonance is sharper when damping is:
+A. Large
+B. Moderate
+C. Small
+D. Infinite
+
+55. Energy transfer is maximum at:
+A. Mean position
+B. Extreme position
+C. Resonance
+D. Damping
+
+56. Phase difference between driving force and velocity at resonance is:
+A. 0
+B. π/2
+C. π
+D. 3π/2
+
+57. Natural frequency depends on:
+A. Amplitude
+B. Damping
+C. System parameters
+D. Driving force
+
+58. Simple pendulum executes SHM only when:
+A. String is elastic
+B. Angle is large
+C. Angle is small
+D. Motion is circular
+
+59. Oscillations without external force and without damping are called:
+A. Forced oscillations
+B. Free oscillations
+C. Damped oscillations
+D. Resonant oscillations
+
+60. Which quantity remains constant in ideal SHM?
+A. Velocity
+B. Acceleration
+C. Mechanical energy
+D. Momentum
+
+✅ ANSWER KEY
+
+1-C
+2-C
+3-C
+4-C
+5-B
+6-C
+7-C
+8-C
+9-C
+10-B
+
+11-C
+12-C
+13-B
+14-B
+15-C
+16-B
+17-B
+18-C
+19-C
+20-B
+
+21-C
+22-C
+23-C
+24-C
+25-B
+
+26-B
+27-C
+28-B
+29-B
+30-B
+
+31-C
+32-C
+33-A
+34-C
+35-C
+
+36-B
+37-C
+38-C
+39-C
+40-C
+
+41-B
+42-C
+43-B
+44-B
+45-B
+
+46-B
+47-C
+48-B
+49-C
+50-C
+
+51-C
+52-B
+53-C
+54-C
+55-C
+
+56-A
+57-C
+58-C
+59-B
+60-C

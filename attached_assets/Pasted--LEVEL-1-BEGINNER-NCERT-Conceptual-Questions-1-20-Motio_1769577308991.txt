@@ -1,0 +1,611 @@
+🟢 LEVEL 1: BEGINNER (NCERT – Conceptual)
+
+Questions 1–20
+
+Motion in a plane requires how many coordinates to describe position?
+
+A) One
+
+B) Two
+
+C) Three
+
+D) Zero
+
+Which of the following is a vector quantity?
+
+A) Speed
+
+B) Distance
+
+C) Velocity
+
+D) Time
+
+A scalar quantity has:
+
+A) Only direction
+
+B) Only magnitude
+
+C) Magnitude and direction
+
+D) Neither magnitude nor direction
+
+Displacement is defined as:
+
+A) Total path length
+
+B) Change in position
+
+C) Speed × time
+
+D) Distance / time
+
+The SI unit of displacement is:
+
+A) m
+
+B) m/s
+
+C) m/s²
+
+D) N
+
+Which quantity can be negative?
+
+A) Speed
+
+B) Distance
+
+C) Displacement
+
+D) Mass
+
+The position vector of a particle is represented by:
+
+A) r
+
+B) v
+
+C) a
+
+D) F
+
+The magnitude of a vector is always:
+
+A) Negative
+
+B) Zero
+
+C) Positive or zero
+
+D) Direction dependent
+
+Average velocity depends on:
+
+A) Distance
+
+B) Displacement
+
+C) Speed
+
+D) Path length
+
+Instantaneous velocity is defined as:
+
+A) Δx/Δt
+
+B) dx/dt
+
+C) d²x/dt²
+
+D) v/t
+
+Acceleration is the rate of change of:
+
+A) Position
+
+B) Speed
+
+C) Velocity
+
+D) Distance
+
+SI unit of acceleration is:
+
+A) m/s
+
+B) m/s²
+
+C) m²/s
+
+D) N
+
+A vector drawn from origin to position of particle is called:
+
+A) Velocity vector
+
+B) Displacement vector
+
+C) Position vector
+
+D) Acceleration vector
+
+Which of the following is NOT a vector?
+
+A) Force
+
+B) Acceleration
+
+C) Speed
+
+D) Velocity
+
+Motion under gravity alone is called:
+
+A) Circular motion
+
+B) Uniform motion
+
+C) Free fall
+
+D) Oscillatory motion
+
+In projectile motion, horizontal acceleration is:
+
+A) g
+
+B) zero
+
+C) increasing
+
+D) decreasing
+
+At the highest point of a projectile, vertical velocity is:
+
+A) Maximum
+
+B) Zero
+
+C) g
+
+D) Negative
+
+The path followed by a projectile is:
+
+A) Straight line
+
+B) Circle
+
+C) Parabola
+
+D) Ellipse
+
+Which remains constant in uniform circular motion?
+
+A) Velocity
+
+B) Acceleration
+
+C) Speed
+
+D) Direction
+
+Centripetal acceleration is directed:
+
+A) Away from center
+
+B) Tangentially
+
+C) Towards center
+
+D) Vertically upward
+
+🟡 LEVEL 2: MEDIUM (Application)
+
+Questions 21–40
+
+A particle moves from (2,3) to (6,7). Its displacement vector is:
+
+A) 4i + 4j
+
+B) 6i + 7j
+
+C) 2i + 3j
+
+D) 8i + 10j
+
+Magnitude of vector (3i + 4j) is:
+
+A) 4
+
+B) 5
+
+C) 6
+
+D) 7
+
+If vx = 4 m/s and vy = 3 m/s, resultant velocity is:
+
+A) 5 m/s
+
+B) 7 m/s
+
+C) 1 m/s
+
+D) 25 m/s
+
+Direction of velocity is given by:
+
+A) sinθ = vy/v
+
+B) cosθ = vx/v
+
+C) tanθ = vy/vx
+
+D) tanθ = vx/vy
+
+Which equation gives position in 2D motion?
+
+A) r = vt
+
+B) r = r₀ + vt
+
+C) r = r₀ + v₀t + ½at²
+
+D) r = at
+
+Time of flight of a projectile depends on:
+
+A) Horizontal velocity
+
+B) Vertical velocity
+
+C) Mass
+
+D) Shape
+
+Maximum range of a projectile occurs at angle:
+
+A) 30°
+
+B) 45°
+
+C) 60°
+
+D) 90°
+
+Range of a projectile is directly proportional to:
+
+A) sinθ
+
+B) cosθ
+
+C) sin2θ
+
+D) tanθ
+
+If speed is constant but velocity changes, motion is:
+
+A) Linear
+
+B) Circular
+
+C) SHM
+
+D) Rest
+
+Centripetal acceleration formula is:
+
+A) v/R
+
+B) v²/R
+
+C) R/v
+
+D) ω/R
+
+Angular velocity ω is related to linear velocity v by:
+
+A) v = ω/R
+
+B) v = ωR
+
+C) ω = vR
+
+D) ω = v²R
+
+If speed doubles in circular motion, centripetal acceleration becomes:
+
+A) 2 times
+
+B) 3 times
+
+C) 4 times
+
+D) Half
+
+A projectile is thrown horizontally. Initial vertical velocity is:
+
+A) g
+
+B) zero
+
+C) maximum
+
+D) infinite
+
+Acceleration in projectile motion is:
+
+A) constant
+
+B) zero
+
+C) changing
+
+D) horizontal
+
+Which is correct for projectile motion?
+
+A) ax = g
+
+B) ay = 0
+
+C) ax = 0
+
+D) v = constant
+
+Unit vector along x-axis is:
+
+A) j
+
+B) k
+
+C) i
+
+D) r
+
+If ax = 0 and ay ≠ 0, motion is:
+
+A) Uniform
+
+B) Circular
+
+C) Projectile
+
+D) Linear
+
+Velocity component vx remains constant in projectile motion because:
+
+A) No gravity
+
+B) No air resistance
+
+C) No horizontal acceleration
+
+D) Constant force
+
+The path length is always:
+
+A) ≤ displacement
+
+B) ≥ displacement
+
+C) = displacement
+
+D) Zero
+
+Vector subtraction A − B is same as:
+
+A) A + B
+
+B) A + (−B)
+
+C) −(A + B)
+
+D) B − A
+
+🔴 LEVEL 3: TOUGH (JEE / NEET Level)
+
+Questions 41–60
+
+A projectile has equal range and maximum height. Angle of projection is:
+
+A) 30°
+
+B) 45°
+
+C) 60°
+
+D) 90°
+
+If v₀x = v₀y, angle of projection is:
+
+A) 30°
+
+B) 45°
+
+C) 60°
+
+D) 90°
+
+For uniform circular motion, acceleration is:
+
+A) Constant vector
+
+B) Zero
+
+C) Changing vector
+
+D) Parallel to velocity
+
+Velocity and acceleration are perpendicular in:
+
+A) Linear motion
+
+B) Circular motion
+
+C) SHM
+
+D) Projectile motion
+
+A particle moves in a circle of radius R. Its displacement after half revolution is:
+
+A) πR
+
+B) 2πR
+
+C) R
+
+D) 2R
+
+A projectile is fired at angle θ. Horizontal range is proportional to:
+
+A) sinθ
+
+B) cosθ
+
+C) sin2θ
+
+D) tanθ
+
+Two projectiles have same range. Their angles of projection are:
+
+A) Equal
+
+B) Complementary
+
+C) Opposite
+
+D) Random
+
+At what point in projectile motion speed is minimum?
+
+A) At launch
+
+B) At landing
+
+C) At highest point
+
+D) Always constant
+
+Direction of centripetal acceleration is:
+
+A) Tangential
+
+B) Outward
+
+C) Radially inward
+
+D) Vertical
+
+Which quantity changes continuously in circular motion?
+
+A) Speed
+
+B) Magnitude of velocity
+
+C) Direction of velocity
+
+D) Radius
+
+If angular speed is doubled, centripetal acceleration becomes:
+
+A) 2 times
+
+B) 3 times
+
+C) 4 times
+
+D) Half
+
+A vector of zero magnitude has:
+
+A) No direction
+
+B) Infinite direction
+
+C) Fixed direction
+
+D) Negative direction
+
+The resultant of two equal vectors at 120° is:
+
+A) Zero
+
+B) Equal to one vector
+
+C) √3 times
+
+D) 2 times
+
+Projectile motion is an example of:
+
+A) 1D motion
+
+B) 2D motion
+
+C) Circular motion
+
+D) SHM
+
+In circular motion, work done by centripetal force is:
+
+A) Maximum
+
+B) Minimum
+
+C) Zero
+
+D) Infinite
+
+Which is true?
+
+A) Speed is vector
+
+B) Velocity is scalar
+
+C) Acceleration is vector
+
+D) Distance is vector
+
+Which quantity is independent of reference frame?
+
+A) Velocity
+
+B) Displacement
+
+C) Speed
+
+D) Acceleration
+
+A projectile returns to same level. Net vertical displacement is:
+
+A) Maximum
+
+B) Zero
+
+C) g
+
+D) Infinite
+
+If no force acts on a body, it moves with:
+
+A) Constant acceleration
+
+B) Constant velocity
+
+C) Increasing speed
+
+D) Zero velocity
+
+Motion in a plane requires which mathematical tool most?
+
+A) Scalars
+
+B) Algebra
+
+C) Vectors
+
+D) Trigonometry

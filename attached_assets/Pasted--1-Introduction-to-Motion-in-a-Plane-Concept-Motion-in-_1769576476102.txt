@@ -1,0 +1,872 @@
+🔹 1. Introduction to Motion in a Plane
+Concept
+
+Motion in a plane means motion in two dimensions (x and y).
+To describe such motion, vectors are required because direction matters.
+
+Kinematics: Study of motion without considering forces.
+
+Example
+
+A car moving east → straight-line motion
+A ball thrown at an angle → motion in a plane ✔️
+
+🔹 2. Scalars and Vectors
+Definitions
+
+Scalar: Quantity with only magnitude
+👉 Distance, speed, time, mass
+
+Vector: Quantity with magnitude and direction
+👉 Displacement, velocity, acceleration, force
+
+Example
+
+Speed = 10 m/s ❌ (no direction)
+
+Velocity = 10 m/s east ✔️
+
+🔹 3. Position Vector & Displacement Vector
+Position Vector
+
+Vector drawn from origin to the object’s position.
+
+𝑟
+⃗
+=
+𝑥
+𝑖
+^
++
+𝑦
+𝑗
+^
+r
+=x
+i
+^
++y
+j
+^
+	​
+
+Displacement Vector
+
+Change in position:
+
+Δ
+𝑟
+⃗
+=
+𝑟
+⃗
+2
+−
+𝑟
+⃗
+1
+Δ
+r
+=
+r
+2
+	​
+
+−
+r
+1
+	​
+
+
+📌 Depends only on initial & final position, not path.
+
+Example
+
+Move from (2,3) to (6,7):
+
+Δ
+𝑟
+⃗
+=
+4
+𝑖
+^
++
+4
+𝑗
+^
+Δ
+r
+=4
+i
+^
++4
+j
+^
+	​
+
+🔹 4. Vector Addition & Subtraction
+Laws
+
+Triangle law
+
+Parallelogram law
+
+Algebraic Method
+
+If
+
+𝐴
+⃗
+=
+𝐴
+𝑥
+𝑖
+^
++
+𝐴
+𝑦
+𝑗
+^
+A
+=A
+x
+	​
+
+i
+^
++A
+y
+	​
+
+j
+^
+	​
+
+𝐵
+⃗
+=
+𝐵
+𝑥
+𝑖
+^
++
+𝐵
+𝑦
+𝑗
+^
+B
+=B
+x
+	​
+
+i
+^
++B
+y
+	​
+
+j
+^
+	​
+
+
+Then
+
+𝑅
+⃗
+=
+𝐴
+⃗
++
+𝐵
+⃗
+R
+=
+A
++
+B
+𝑅
+𝑥
+=
+𝐴
+𝑥
++
+𝐵
+𝑥
+,
+𝑅
+𝑦
+=
+𝐴
+𝑦
++
+𝐵
+𝑦
+R
+x
+	​
+
+=A
+x
+	​
+
++B
+x
+	​
+
+,R
+y
+	​
+
+=A
+y
+	​
+
++B
+y
+	​
+
+Example
+𝐴
+⃗
+=
+3
+𝑖
+^
++
+4
+𝑗
+^
+,
+𝐵
+⃗
+=
+1
+𝑖
+^
++
+2
+𝑗
+^
+A
+=3
+i
+^
++4
+j
+^
+	​
+
+,
+B
+=1
+i
+^
++2
+j
+^
+	​
+
+𝑅
+⃗
+=
+4
+𝑖
+^
++
+6
+𝑗
+^
+R
+=4
+i
+^
++6
+j
+^
+	​
+
+🔹 5. Resolution of Vectors
+
+Breaking a vector into components.
+
+𝐴
+𝑥
+=
+𝐴
+cos
+⁡
+𝜃
+A
+x
+	​
+
+=Acosθ
+𝐴
+𝑦
+=
+𝐴
+sin
+⁡
+𝜃
+A
+y
+	​
+
+=Asinθ
+Example
+
+Force = 10 N at 30°
+
+𝐴
+𝑥
+=
+10
+cos
+⁡
+30
+∘
+=
+8.66
+A
+x
+	​
+
+=10cos30
+∘
+=8.66
+𝐴
+𝑦
+=
+10
+sin
+⁡
+30
+∘
+=
+5
+A
+y
+	​
+
+=10sin30
+∘
+=5
+🔹 6. Velocity in a Plane
+Average Velocity
+𝑣
+⃗
+𝑎
+𝑣
+𝑔
+=
+Δ
+𝑟
+⃗
+Δ
+𝑡
+v
+avg
+	​
+
+=
+Δt
+Δ
+r
+	​
+
+Instantaneous Velocity
+𝑣
+⃗
+=
+𝑑
+𝑟
+⃗
+𝑑
+𝑡
+v
+=
+dt
+d
+r
+	​
+
+
+Components:
+
+𝑣
+𝑥
+=
+𝑑
+𝑥
+𝑑
+𝑡
+,
+𝑣
+𝑦
+=
+𝑑
+𝑦
+𝑑
+𝑡
+v
+x
+	​
+
+=
+dt
+dx
+	​
+
+,v
+y
+	​
+
+=
+dt
+dy
+	​
+
+
+Magnitude:
+
+𝑣
+=
+𝑣
+𝑥
+2
++
+𝑣
+𝑦
+2
+v=
+v
+x
+2
+	​
+
++v
+y
+2
+	​
+
+	​
+
+
+Direction:
+
+tan
+⁡
+𝜃
+=
+𝑣
+𝑦
+𝑣
+𝑥
+tanθ=
+v
+x
+	​
+
+v
+y
+	​
+
+	​
+
+🔹 7. Acceleration in a Plane
+𝑎
+⃗
+=
+𝑑
+𝑣
+⃗
+𝑑
+𝑡
+a
+=
+dt
+d
+v
+	​
+
+
+Components:
+
+𝑎
+𝑥
+=
+𝑑
+𝑣
+𝑥
+𝑑
+𝑡
+,
+𝑎
+𝑦
+=
+𝑑
+𝑣
+𝑦
+𝑑
+𝑡
+a
+x
+	​
+
+=
+dt
+dv
+x
+	​
+
+	​
+
+,a
+y
+	​
+
+=
+dt
+dv
+y
+	​
+
+	​
+
+
+📌 Velocity and acceleration need not be in same direction
+
+🔹 8. Motion with Constant Acceleration (2D)
+
+Vector equations:
+
+𝑣
+⃗
+=
+𝑣
+⃗
+0
++
+𝑎
+⃗
+𝑡
+v
+=
+v
+0
+	​
+
++
+a
+t
+𝑟
+⃗
+=
+𝑟
+⃗
+0
++
+𝑣
+⃗
+0
+𝑡
++
+1
+2
+𝑎
+⃗
+𝑡
+2
+r
+=
+r
+0
+	​
+
++
+v
+0
+	​
+
+t+
+2
+1
+	​
+
+a
+t
+2
+
+Used for projectiles
+
+🔹 9. Projectile Motion
+Acceleration
+𝑎
+𝑥
+=
+0
+,
+𝑎
+𝑦
+=
+−
+𝑔
+a
+x
+	​
+
+=0,a
+y
+	​
+
+=−g
+Important Formulae
+
+Time of flight:
+
+𝑇
+=
+2
+𝑣
+0
+sin
+⁡
+𝜃
+𝑔
+T=
+g
+2v
+0
+	​
+
+sinθ
+	​
+
+
+Maximum height:
+
+𝐻
+=
+𝑣
+0
+2
+sin
+⁡
+2
+𝜃
+2
+𝑔
+H=
+2g
+v
+0
+2
+	​
+
+sin
+2
+θ
+	​
+
+
+Range:
+
+𝑅
+=
+𝑣
+0
+2
+sin
+⁡
+2
+𝜃
+𝑔
+R=
+g
+v
+0
+2
+	​
+
+sin2θ
+	​
+
+
+📌 Maximum range at 45°
+
+🔹 10. Uniform Circular Motion
+
+Speed constant, direction changes → acceleration present.
+
+Centripetal Acceleration
+𝑎
+𝑐
+=
+𝑣
+2
+𝑅
+a
+c
+	​
+
+=
+R
+v
+2
+	​
+
+
+Angular speed:
+
+𝜔
+=
+2
+𝜋
+𝑇
+ω=
+T
+2π
+	​
+
+𝑣
+=
+𝜔
+𝑅
+v=ωR
+𝑎
+𝑐
+=
+𝜔
+2
+𝑅
+a
+c
+	​
+
+=ω
+2
+R
+🧠 QUIZ SECTION (60 QUESTIONS)
+🟢 LEVEL 1 – BEGINNER (NCERT) – 20 Questions
+
+Motion is defined as:
+
+A) Change in speed
+
+B) Change in direction
+
+C) Change in position with time ✅
+
+D) Change in acceleration
+
+Which is a vector quantity?
+
+A) Speed
+
+B) Distance
+
+C) Displacement ✅
+
+D) Mass
+
+SI unit of acceleration?
+
+A) m/s
+
+B) m/s² ✅
+
+C) m²/s
+
+D) N
+
+Displacement can be:
+
+A) Only positive
+
+B) Only negative
+
+C) Zero ✅
+
+D) Always greater than distance
+
+Velocity is the rate of change of:
+
+A) Distance
+
+B) Speed
+
+C) Displacement ✅
+
+D) Acceleration
+
+6–20 👉 (similar NCERT concept questions: vectors, components, projectile basics, circular motion)
+
+🟡 LEVEL 2 – MEDIUM – 20 Questions
+
+A particle moves from (1,2) to (4,6). Displacement is:
+
+A) 3i + 4j ✅
+
+B) 5i + 8j
+
+C) 4i + 6j
+
+D) 3i + 6j
+
+Magnitude of velocity with components (3,4):
+
+A) 4
+
+B) 5 ✅
+
+C) 6
+
+D) 7
+
+At highest point of projectile, vertical velocity is:
+
+A) Maximum
+
+B) Zero ✅
+
+C) g
+
+D) Negative
+
+24–40 👉 (component-based, formula application, graphs, circular motion)
+
+🔴 LEVEL 3 – TOUGH (JEE / NEET) – 20 Questions
+
+A projectile has equal horizontal and vertical components. Angle of projection?
+
+A) 30°
+
+B) 45° ✅
+
+C) 60°
+
+D) 90°
+
+If speed in circular motion doubles, centripetal acceleration becomes:
+
+A) 2a
+
+B) 3a
+
+C) 4a ✅
+
+D) a/2
+
+A particle has constant speed but changing velocity. Motion is:
+
+A) Linear
+
+B) Circular ✅
+
+C) SHM
+
+D) Rest
+
+44–60 👉 (multi-concept, reasoning, vector math)

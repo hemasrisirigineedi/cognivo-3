@@ -1,0 +1,539 @@
+1️⃣ Phasor Diagrams (VERY IMPORTANT) ⭐⭐⭐
+
+You must explicitly add:
+
+Phasor representation of:
+
+R circuit
+
+L circuit
+
+C circuit
+
+LCR series circuit
+
+Voltage triangle and impedance triangle
+
+Relation:
+
+cos
+⁡
+𝜙
+=
+𝑅
+𝑍
+cosϕ=
+Z
+R
+	​
+
+
+📌 Many MCQs are pure phasor logic, not formulas.
+
+2️⃣ Resonance Curve & Bandwidth (Graph-based questions) ⭐⭐
+
+Add:
+
+Current vs frequency graph
+
+At resonance → peak current
+
+Bandwidth:
+
+Δ
+𝑓
+=
+𝑓
+0
+𝑄
+Δf=
+Q
+f
+0
+	​
+
+	​
+
+
+Half-power points:
+
+𝐼
+=
+𝐼
+𝑚
+𝑎
+𝑥
+2
+I=
+2
+	​
+
+I
+max
+	​
+
+	​
+
+3️⃣ Power Loss & Heating Effect ⭐⭐
+
+Clarify:
+
+Only resistance consumes power
+
+Inductors & capacitors store and return energy
+
+Average power in pure L or C = 0
+
+4️⃣ Choke Coil (Exam favorite) ⭐⭐
+
+Add clearly:
+
+High inductance, low resistance
+
+Limits AC without power loss
+
+Used in tube lights, regulators
+
+5️⃣ Practical Transformer Losses ⭐⭐
+
+You should add:
+
+Copper loss (I²R)
+
+Eddy current loss
+
+Hysteresis loss
+
+Flux leakage
+
+And methods of reduction.
+
+6️⃣ RMS of Arbitrary Waveform (Advanced) ⭐
+
+Formula:
+
+𝐼
+𝑟
+𝑚
+𝑠
+=
+1
+𝑇
+∫
+0
+𝑇
+𝑖
+2
+(
+𝑡
+)
+ 
+𝑑
+𝑡
+I
+rms
+	​
+
+=
+T
+1
+	​
+
+∫
+0
+T
+	​
+
+i
+2
+(t)dt
+	​
+
+
+(JEE Adv sometimes asks non-sine waves)
+
+🔥 FINAL VERDICT
+
+After adding the above:
+
+✔ NEET: 100% sufficient
+
+✔ JEE Main: 100% sufficient
+
+✔ JEE Advanced: Fully safe
+
+✅ PART 2: 60 MCQs (Easy → JEE Advanced)
+🟢 EASY (1–20)
+
+1. AC current varies with time as
+A) Linear
+B) Exponential
+C) Sinusoidal
+D) Constant
+
+2. Angular frequency ω equals
+A) 2π/T
+B) 2πf
+C) πf
+D) f/2π
+
+3. RMS value of AC current is
+A) I₀
+B) I₀/2
+C) I₀/√2
+D) 2I₀/π
+
+4. AC frequency in India is
+A) 25 Hz
+B) 50 Hz
+C) 60 Hz
+D) 100 Hz
+
+5. AC voltmeter measures
+A) Peak value
+B) Average value
+C) RMS value
+D) Instantaneous value
+
+6. In pure resistor, current is
+A) Leading
+B) Lagging
+C) In phase
+D) Out of phase
+
+7. Inductive reactance depends on
+A) Resistance
+B) Frequency
+C) Voltage
+D) Current
+
+8. Capacitive reactance decreases with
+A) Increase in f
+B) Decrease in f
+C) Constant f
+D) Zero f
+
+9. Power consumed in pure inductor is
+A) Maximum
+B) Minimum
+C) Zero
+D) Infinite
+
+10. Phase difference in pure capacitor is
+A) 0
+B) 90°
+C) −90°
+D) 180°
+
+11. Unit of reactance is
+A) Ohm
+B) Henry
+C) Farad
+D) Tesla
+
+12. Impedance is combination of
+A) R only
+B) L only
+C) C only
+D) R, L, C
+
+13. Power factor equals
+A) sinφ
+B) tanφ
+C) cosφ
+D) secφ
+
+14. Resonance occurs when
+A) R = L
+B) XL = XC
+C) Z max
+D) Power zero
+
+15. At resonance, impedance is
+A) Maximum
+B) Minimum
+C) Infinite
+D) Zero
+
+16. Average power is given by
+A) VI
+B) V₀I₀
+C) V_rms I_rms cosφ
+D) I²X
+
+17. Wattless current occurs in
+A) R
+B) L
+C) C
+D) L and C
+
+18. Transformer works on
+A) Self induction
+B) Mutual induction
+C) Eddy currents
+D) AC heating
+
+19. Step-up transformer increases
+A) Current
+B) Voltage
+C) Power
+D) Frequency
+
+20. Efficiency of ideal transformer is
+A) <1
+B) =1
+C) >1
+D) 0
+
+🟡 MEDIUM (21–40)
+
+21. Current lags voltage in
+A) R
+B) L
+C) C
+D) LC
+
+22. Phase angle in LCR circuit depends on
+A) R
+B) L
+C) C
+D) All
+
+23. At resonance, power factor is
+A) 0
+B) 0.5
+C) 1
+D) ∞
+
+24. Quality factor represents
+A) Energy stored
+B) Sharpness of resonance
+C) Resistance
+D) Power loss
+
+25. Bandwidth is inversely proportional to
+A) R
+B) L
+C) Q
+D) ω
+
+26. Power loss occurs only in
+A) L
+B) C
+C) R
+D) LC
+
+27. Voltage across inductor leads current by
+A) 0
+B) 45°
+C) 90°
+D) 180°
+
+28. Voltage across capacitor lags current by
+A) 0
+B) 45°
+C) 90°
+D) 180°
+
+29. Apparent power unit is
+A) Watt
+B) Volt-ampere
+C) Joule
+D) Henry
+
+30. Reactive power unit is
+A) W
+B) VA
+C) VAR
+D) J
+
+31. Choke coil is used to
+A) Increase power
+B) Limit AC
+C) Reduce voltage
+D) Increase current
+
+32. Transformer works only on
+A) DC
+B) AC
+C) Both
+D) None
+
+33. In step-down transformer
+A) Ns > Np
+B) Ns < Np
+C) Ns = Np
+D) Depends
+
+34. Resonant frequency depends on
+A) R
+B) L and C
+C) Voltage
+D) Current
+
+35. RMS value of square wave is
+A) Peak
+B) Peak/√2
+C) Peak/2
+D) Zero
+
+36. Current at resonance is
+A) Zero
+B) Minimum
+C) Maximum
+D) Constant
+
+37. Impedance triangle relates
+A) R, L, C
+B) Z, R, X
+C) V, I, R
+D) Power
+
+38. Q-factor increases when
+A) R increases
+B) L decreases
+C) R decreases
+D) C increases
+
+39. AC power depends on
+A) Frequency
+B) Phase angle
+C) Resistance
+D) All
+
+40. Power factor improves by
+A) Adding inductor
+B) Adding capacitor
+C) Increasing R
+D) Decreasing V
+
+🔴 HARD (41–60) — JEE Level
+
+41. In LCR circuit, current is independent of
+A) R
+B) L
+C) C
+D) f
+
+42. Maximum power transfer occurs when
+A) Z max
+B) Z min
+C) R = Z
+D) XL = XC
+
+43. RMS of AC is based on
+A) Heating effect
+B) Magnetic effect
+C) Chemical effect
+D) Optical effect
+
+44. Average power in pure LC circuit is
+A) Zero
+B) Max
+C) Min
+D) Infinite
+
+45. Choke coil has
+A) High R, low L
+B) Low R, high L
+C) High R only
+D) High L only
+
+46. Transformer cannot change
+A) Voltage
+B) Current
+C) Frequency
+D) Power loss
+
+47. Q-factor equals
+A) ω₀L/R
+B) R/ω₀L
+C) ω₀CR
+D) R/ω₀C
+
+48. At half-power frequency, current is
+A) I₀
+B) I₀/2
+C) I₀/√2
+D) 0
+
+49. Energy in LC oscillations alternates between
+A) Electric & heat
+B) Magnetic & heat
+C) Electric & magnetic
+D) Current & voltage
+
+50. AC choke consumes power because of
+A) L
+B) C
+C) R
+D) Flux
+
+51. Power factor is minimum when
+A) φ = 0
+B) φ = 45°
+C) φ = 90°
+D) φ = 180°
+
+52. Transformer efficiency is maximum when
+A) Load high
+B) Load low
+C) Copper loss = iron loss
+D) Flux zero
+
+53. Phasor diagram is drawn in
+A) Time domain
+B) Frequency domain
+C) Rotating frame
+D) Complex plane
+
+54. AC generator frequency depends on
+A) Magnetic field
+B) Speed
+C) Area
+D) Turns
+
+55. Reactance is zero for
+A) DC in capacitor
+B) AC in capacitor
+C) DC in inductor
+D) AC in inductor
+
+56. Voltage magnification occurs when
+A) Q > 1
+B) Q < 1
+C) R large
+D) C large
+
+57. Wattless current does not cause
+A) Heating
+B) Magnetic field
+C) Energy transfer
+D) Phase shift
+
+58. In LC oscillation, total energy is
+A) Increasing
+B) Decreasing
+C) Constant
+D) Zero
+
+59. Transformer works poorly at
+A) High frequency
+B) Low frequency
+C) DC
+D) AC
+
+60. AC impedance is minimum when
+A) R = 0
+B) XL = XC
+C) L = C
+D) ω = 0
+
+✅ ANSWER KEY
+
+1-C, 2-B, 3-C, 4-B, 5-C, 6-C, 7-B, 8-A, 9-C, 10-C
+11-A, 12-D, 13-C, 14-B, 15-B, 16-C, 17-D, 18-B, 19-B, 20-B
+21-B, 22-D, 23-C, 24-B, 25-C, 26-C, 27-C, 28-C, 29-B, 30-C
+31-B, 32-B, 33-B, 34-B, 35-A, 36-C, 37-B, 38-C, 39-D, 40-B
+41-D, 42-C, 43-A, 44-A, 45-B, 46-C, 47-A, 48-C, 49-C, 50-C
+51-C, 52-C, 53-D, 54-B, 55-C, 56-A, 57-A, 58-C, 59-C, 60-B

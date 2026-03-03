@@ -1,0 +1,115 @@
+C H A P T E R    8
+mechanical ProPerties oF solids
+8.1 
+8.2 
+8.3 
+8.4 
+8.5 
+8.6 
+Introduction 
+Stress and strain 
+Hooke’s law 
+Stress-strain curve 
+Elastic moduli 
+applications of elastic behaviour of materials 
+C H A P T E R    9
+mechanical ProPerties oF FlUids
+9.1 
+9.2 
+9.3 
+9.4 
+9.5 
+9.6 
+Introduction 
+Pressure 
+Streamline flow 
+Bernoulli’s principle 
+Viscosity 
+Surface tension 
+C H A P T E R    10
+thermal ProPerties oF matter
+10.1 Introduction 
+10.2 temperature and heat 
+10.3 Measurement of temperature 
+10.4 Ideal-gas equation and absolute temperature 
+10.5 thermal expansion 
+10.6 Specific heat capacity 
+10.7 Calorimetry 
+10.8 Change of state 
+10.9 Heat transfer 
+10.10 Newton’s law of cooling 
+C H A P T E R    11
+thermodynamics
+11.1 Introduction 
+11.2 thermal equilibrium 
+11.3 Zeroth law of thermodynamics 
+11.4 Heat, internal energy and work 
+11.5 First law of thermodynamics 
+11.6 Specific heat capacity 
+iii
+v
+vii 
+xiii
+167
+168
+169
+169
+170
+174
+180
+180
+186
+187
+190
+192
+202
+202
+203
+203
+204
+208
+209
+210
+214
+219
+226
+227
+228
+229
+230
+231
+Reprint 2025-26
+xvi
+11.7 Thermodynamic state variables and equation of state 
+11.8 Thermodynamic processes 
+11.9 Second law of thermodynamics 
+11.10 Reversible and irreversible processes 
+11.11 Carnot engine 
+C h a p t e r    12
+Kinetic theory
+12.1 Introduction 
+12.2 Molecular nature of matter 
+12.3 Behaviour of gases  
+12.4 Kinetic theory of an ideal gas 
+12.5 Law of equipartition of energy  
+12.6 Specific heat capacity 
+12.7 Mean free path 
+C h a p t e r    13
+oscillations
+13.1 Introduction 
+13.2 Periodic and oscilatory motions 
+13.3 Simple harmonic motion 
+13.4 Simple harmonic motion and uniform circular motion 
+13.5 Velocity and acceleration in simple harmonic motion 
+13.6 Force law for simple harmonic motion 
+13.7 Energy in simple harmonic motion 
+13.8 The Simple Pendulum 
+C h a p t e r    14
+Waves
+14.1 Introduction 
+14.2 Transverse and longitudinal waves 
+14.3 Displacement relation in a progressive wave 
+14.4 The speed of a travelling wave 
+14.5 The principle of superposition of waves 
+14.6 Reflection of waves  
+14.7 Beats 

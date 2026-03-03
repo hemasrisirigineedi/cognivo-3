@@ -1,0 +1,372 @@
+LEVEL 1 — BEGINNER (NCERT Line-by-Line)
+
+Conceptual | Definitions | Graphs
+(20 Questions)
+
+Motion of an object is defined as:
+A. Change in speed
+B. Change in direction
+C. Change in position with time
+D. Change in acceleration
+
+Which of the following quantities can be negative?
+A. Speed
+B. Distance
+C. Displacement
+D. Path length
+
+The slope of a position–time graph gives:
+A. Acceleration
+B. Speed
+C. Velocity
+D. Displacement
+
+Instantaneous velocity is defined as:
+A. Average velocity over small time
+B. Limiting value of Δx/Δt as Δt → 0
+C. Total displacement / total time
+D. Distance covered per second
+
+SI unit of velocity is:
+A. m
+B. m/s
+C. m/s²
+D. km/h
+
+A straight line x–t graph parallel to time axis represents:
+A. Uniform acceleration
+B. Uniform velocity
+C. Zero velocity
+D. Variable velocity
+
+Speed is:
+A. Vector quantity
+B. Scalar quantity
+C. Always negative
+D. Rate of change of velocity
+
+The slope of velocity–time graph gives:
+A. Velocity
+B. Displacement
+C. Acceleration
+D. Speed
+
+If velocity is constant, acceleration is:
+A. Positive
+B. Negative
+C. Zero
+D. Increasing
+
+Average velocity equals average speed when:
+A. Motion is circular
+B. Motion is random
+C. Motion is one-directional
+D. Motion is oscillatory
+
+The area under velocity–time graph represents:
+A. Velocity
+B. Acceleration
+C. Displacement
+D. Speed
+
+Which quantity depends on direction?
+A. Distance
+B. Speed
+C. Time
+D. Displacement
+
+Acceleration is defined as:
+A. dv/dx
+B. dx/dt
+C. dv/dt
+D. d²x/dx²
+
+SI unit of acceleration is:
+A. m/s
+B. m/s²
+C. km/h²
+D. N/kg
+
+For uniform motion, x–t graph is:
+A. Parabola
+B. Hyperbola
+C. Straight line
+D. Circle
+
+If velocity decreases uniformly, acceleration is:
+A. Zero
+B. Positive
+C. Negative
+D. Infinite
+
+Which graph represents uniform acceleration?
+A. Straight line x–t
+B. Parabolic x–t
+C. Horizontal v–t
+D. Vertical v–t
+
+Instantaneous speed is:
+A. Average speed
+B. Magnitude of instantaneous velocity
+C. Total distance
+D. Change in position
+
+Acceleration can be non-zero even if velocity is:
+A. Large
+B. Constant
+C. Zero
+D. Positive
+
+Which quantity is always positive or zero?
+A. Velocity
+B. Displacement
+C. Acceleration
+D. Speed
+
+🟡 LEVEL 2 — MEDIUM (NCERT Numericals & Graphs)
+
+(20 Questions)
+
+An object moves with constant velocity 5 m/s. Its acceleration is:
+A. 5 m/s²
+B. 1 m/s²
+C. 0
+D. Cannot be determined
+
+A particle moves with v = 3t². Acceleration is:
+A. 3t
+B. 6t
+C. t²
+D. Constant
+
+If x = at² + bt + c, velocity is:
+A. at + b
+B. 2at + b
+C. at²
+D. bt
+
+From rest, an object accelerates at 2 m/s². Velocity after 5 s is:
+A. 5 m/s
+B. 10 m/s
+C. 20 m/s
+D. 25 m/s
+
+A car slows down uniformly. Its acceleration is:
+A. Positive
+B. Zero
+C. Negative
+D. Infinite
+
+If velocity–time graph is a straight line with positive slope, motion has:
+A. Constant velocity
+B. Variable acceleration
+C. Constant acceleration
+D. Zero acceleration
+
+A body thrown vertically upward has acceleration:
+A. Zero at top
+B. Positive
+C. Negative
+D. Changing
+
+Displacement is zero but distance is not zero in:
+A. Linear motion
+B. Circular motion
+C. One-way motion
+D. Uniform motion
+
+Equation v² = u² + 2as is valid when:
+A. Acceleration varies
+B. Motion is circular
+C. Acceleration is constant
+D. Velocity is zero
+
+Which quantity equals slope of tangent to x–t curve?
+A. Acceleration
+B. Velocity
+C. Speed
+D. Displacement
+
+A freely falling object moves with:
+A. Variable acceleration
+B. Zero acceleration
+C. Uniform acceleration
+D. Increasing acceleration
+
+If velocity is negative and acceleration is positive, the particle:
+A. Speeds up
+B. Slows down
+C. Moves forward
+D. Is at rest
+
+Area under v–t graph between t₁ and t₂ equals:
+A. Speed
+B. Distance
+C. Displacement
+D. Acceleration
+
+A particle returns to starting point after motion. Its displacement is:
+A. Maximum
+B. Minimum
+C. Zero
+D. Equal to distance
+
+A particle with zero velocity can have:
+A. Zero acceleration only
+B. Non-zero acceleration
+C. Infinite acceleration
+D. No acceleration ever
+
+The graph of x vs t for uniform acceleration is:
+A. Straight line
+B. Circle
+C. Parabola
+D. Hyperbola
+
+Average velocity equals zero when:
+A. Distance is zero
+B. Time is zero
+C. Displacement is zero
+D. Speed is zero
+
+A velocity–time graph parallel to time axis represents:
+A. Uniform acceleration
+B. Uniform velocity
+C. Zero displacement
+D. Variable velocity
+
+Units of area under v–t graph are:
+A. m/s
+B. m
+C. m/s²
+D. s
+
+A ball thrown upward has maximum velocity at:
+A. Top
+B. Midpoint
+C. Just after throw
+D. When acceleration is zero
+
+🔴 LEVEL 3 — TOUGHEST (JEE-ORIENTED, NCERT-BASED)
+
+(20 Questions)
+
+A particle has v = at² + bt + c. Acceleration is:
+A. Constant
+B. Linear in t
+C. Quadratic in t
+D. Zero
+
+A particle moves such that x ∝ t³. Velocity varies as:
+A. t
+B. t²
+C. t³
+D. Constant
+
+If slope of x–t graph increases with time, motion is:
+A. Uniform
+B. Retarded
+C. Accelerated
+D. Random
+
+Which statement is correct?
+A. Zero velocity implies zero acceleration
+B. Acceleration determines direction of motion
+C. Speed can decrease with positive acceleration
+D. Velocity cannot change sign
+
+A particle thrown upward has:
+A. Zero acceleration at highest point
+B. Maximum speed at highest point
+C. Zero velocity at highest point
+D. Zero displacement at highest point
+
+Which situation gives negative acceleration but increasing speed?
+A. Motion upward
+B. Motion downward with upward positive axis
+C. Uniform motion
+D. Rest
+
+Dimensions of area under v–t curve are:
+A. [L/T]
+B. [L]
+C. [L/T²]
+D. Dimensionless
+
+A particle moves with constant acceleration and reverses direction. At turning point:
+A. Velocity is max
+B. Acceleration is zero
+C. Velocity is zero
+D. Displacement is zero
+
+If velocity is negative and acceleration is negative, speed:
+A. Decreases
+B. Increases
+C. Constant
+D. Zero
+
+Which graph is not physically possible?
+A. Smooth x–t
+B. Sharp corner in v–t
+C. Continuous v–t
+D. Smooth a–t
+
+For uniformly accelerated motion, which is constant?
+A. Velocity
+B. Speed
+C. Acceleration
+D. Displacement
+
+A particle has zero displacement but non-zero velocity when:
+A. Motion is circular
+B. Motion is linear
+C. Motion is oscillatory
+D. Motion is random
+
+If v–t graph is curved, acceleration is:
+A. Constant
+B. Zero
+C. Variable
+D. Infinite
+
+An object is dropped from rest. After t seconds, velocity is:
+A. gt
+B. g/t
+C. gt²
+D. g²t
+
+Average speed is always:
+A. ≤ average velocity
+B. ≥ magnitude of average velocity
+C. Equal to velocity
+D. Zero
+
+The slope of tangent to v–t graph gives:
+A. Displacement
+B. Velocity
+C. Acceleration
+D. Speed
+
+Which quantity changes sign when direction reverses?
+A. Speed
+B. Distance
+C. Displacement
+D. Time
+
+Kinematic equations are valid only when:
+A. Motion is linear
+B. Acceleration is constant
+C. Velocity is constant
+D. Time is zero
+
+A particle moving along straight line with decreasing speed but positive velocity has acceleration:
+A. Positive
+B. Zero
+C. Negative
+D. Infinite
+
+The concept of instantaneous velocity requires:
+A. Algebra
+B. Geometry
+C. Calculus
+D. Statistics

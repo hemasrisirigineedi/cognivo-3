@@ -1,0 +1,611 @@
+🟢 LEVEL 1: BEGINNER (NCERT Basics)
+
+Q1–Q20
+
+A system of particles means:
+
+A) A single particle
+
+B) Two or more particles
+
+C) Only rigid bodies
+
+D) Only moving objects
+
+Centre of mass of a uniform rod lies at:
+
+A) One end
+
+B) One-third length
+
+C) Midpoint
+
+D) Random point
+
+The SI unit of angular displacement is:
+
+A) Degree
+
+B) Radian
+
+C) Meter
+
+D) Second
+
+Which quantity remains unchanged if no external force acts?
+
+A) Velocity
+
+B) Momentum
+
+C) Acceleration
+
+D) Displacement
+
+Linear momentum is defined as:
+
+A) mv²
+
+B) mv
+
+C) m/v
+
+D) v/m
+
+SI unit of angular velocity is:
+
+A) rad
+
+B) rad/s
+
+C) m/s
+
+D) s⁻¹
+
+The tendency of a rotating body to resist change in rotation is:
+
+A) Momentum
+
+B) Torque
+
+C) Moment of inertia
+
+D) Angular velocity
+
+Moment of inertia depends on:
+
+A) Mass only
+
+B) Shape only
+
+C) Axis of rotation
+
+D) Mass distribution and axis
+
+Torque is the rotational equivalent of:
+
+A) Energy
+
+B) Power
+
+C) Force
+
+D) Momentum
+
+SI unit of torque is:
+
+A) Joule
+
+B) Newton
+
+C) N·m
+
+D) kg·m²
+
+Angular acceleration is:
+
+A) dθ/dt
+
+B) dω/dt
+
+C) dv/dt
+
+D) dr/dt
+
+Angular momentum is given by:
+
+A) mv
+
+B) r × p
+
+C) Iα
+
+D) F × r
+
+A rigid body rotating about a fixed axis has:
+
+A) Translational motion only
+
+B) Rotational motion only
+
+C) Both
+
+D) No motion
+
+Radius of gyration is related to moment of inertia as:
+
+A) I = Mk
+
+B) I = Mk²
+
+C) I = k²/M
+
+D) I = M/k²
+
+Angular momentum is a:
+
+A) Scalar
+
+B) Vector
+
+C) Dimensionless
+
+D) Constant
+
+A fan rotating at constant speed has:
+
+A) Angular acceleration
+
+B) Zero angular acceleration
+
+C) Linear acceleration
+
+D) Zero angular velocity
+
+Rolling without slipping means:
+
+A) v > rω
+
+B) v < rω
+
+C) v = rω
+
+D) v = ω/r
+
+Which is conserved in absence of external torque?
+
+A) Linear momentum
+
+B) Energy
+
+C) Angular momentum
+
+D) Speed
+
+A larger moment of inertia means:
+
+A) Easier to rotate
+
+B) Harder to rotate
+
+C) Faster rotation
+
+D) No rotation
+
+The centre of mass of Earth–Moon system lies:
+
+A) At Earth’s center
+
+B) At Moon’s center
+
+C) Between Earth and Moon
+
+D) Outside both
+
+🟡 LEVEL 2: MEDIUM (Application)
+
+Q21–Q40
+
+If mass distribution moves farther from axis, MI:
+
+A) Decreases
+
+B) Increases
+
+C) Becomes zero
+
+D) Remains same
+
+For a point mass m at distance r, MI is:
+
+A) mr
+
+B) mr²
+
+C) m/r
+
+D) r/m
+
+Angular momentum of a particle is zero when:
+
+A) r = 0
+
+B) v = 0
+
+C) Both A and B
+
+D) Never
+
+If ω doubles, rotational KE becomes:
+
+A) Double
+
+B) Triple
+
+C) Four times
+
+D) Half
+
+Work done by torque τ through angle θ is:
+
+A) τ/θ
+
+B) τθ
+
+C) θ/τ
+
+D) τ²θ
+
+Power in rotational motion is:
+
+A) Fv
+
+B) τω
+
+C) ma
+
+D) Iα
+
+In pure rolling, which point has zero velocity?
+
+A) Top point
+
+B) Center
+
+C) Bottom point
+
+D) Every point
+
+A spinning skater pulls arms inward. What changes?
+
+A) Angular momentum
+
+B) Moment of inertia
+
+C) Torque
+
+D) External force
+
+Angular momentum of a system is conserved if:
+
+A) Net force = 0
+
+B) Net torque = 0
+
+C) Velocity constant
+
+D) Acceleration zero
+
+Relation between linear and angular acceleration:
+
+A) a = ωr
+
+B) a = rα
+
+C) a = rω²
+
+D) a = α/ω
+
+For circular motion, centripetal acceleration is:
+
+A) rω
+
+B) rω²
+
+C) ω/r
+
+D) v/r
+
+Which has maximum MI?
+
+A) Solid sphere
+
+B) Solid disc
+
+C) Ring
+
+D) Point mass
+
+COM motion depends on:
+
+A) Internal forces
+
+B) External forces
+
+C) Shape
+
+D) Mass distribution
+
+Torque is maximum when:
+
+A) θ = 0°
+
+B) θ = 45°
+
+C) θ = 90°
+
+D) θ = 180°
+
+Angular momentum unit is:
+
+A) kg·m/s
+
+B) N·m
+
+C) kg·m²/s
+
+D) J·s
+
+If no external force acts, COM moves with:
+
+A) Acceleration
+
+B) Variable speed
+
+C) Constant velocity
+
+D) Circular motion
+
+Rotational inertia depends on:
+
+A) Angular velocity
+
+B) Axis of rotation
+
+C) Time
+
+D) Temperature
+
+Which is a vector quantity?
+
+A) Moment of inertia
+
+B) Angular speed
+
+C) Angular momentum
+
+D) Radius
+
+When a wheel rolls faster, which increases?
+
+A) ω only
+
+B) v only
+
+C) Both v and ω
+
+D) None
+
+Which law explains skater spinning faster?
+
+A) Newton’s 1st law
+
+B) Conservation of energy
+
+C) Conservation of angular momentum
+
+D) Work-energy theorem
+
+🔴 LEVEL 3: TOUGH (JEE-Oriented)
+
+Q41–Q60
+
+A body rotating with constant ω has:
+
+A) Angular acceleration
+
+B) Zero angular acceleration
+
+C) Increasing torque
+
+D) Changing momentum
+
+If torque is zero, angular momentum is:
+
+A) Zero
+
+B) Constant
+
+C) Maximum
+
+D) Infinite
+
+A ring and disc roll with same speed. Which has more KE?
+
+A) Disc
+
+B) Ring
+
+C) Same
+
+D) Depends on mass
+
+Relation between force and torque:
+
+A) τ = r + F
+
+B) τ = rF
+
+C) τ = r × F
+
+D) τ = F/r
+
+For rotational motion, Newton’s 2nd law is:
+
+A) F = ma
+
+B) τ = Iα
+
+C) p = mv
+
+D) L = r × p
+
+Angular momentum of a particle in straight line motion is zero if:
+
+A) Line passes through origin
+
+B) Speed is constant
+
+C) Mass is zero
+
+D) Force is zero
+
+Which is conserved in rolling without slipping?
+
+A) Linear momentum
+
+B) Angular momentum
+
+C) Mechanical energy
+
+D) Velocity
+
+A flywheel is used because it:
+
+A) Reduces energy
+
+B) Stores rotational energy
+
+C) Increases torque
+
+D) Reduces inertia
+
+MI of a body is minimum when mass is:
+
+A) Far from axis
+
+B) Near axis
+
+C) Uniformly spread
+
+D) Random
+
+When radius of gyration increases, MI:
+
+A) Decreases
+
+B) Remains same
+
+C) Increases
+
+D) Becomes zero
+
+Which point of rolling wheel has max velocity?
+
+A) Bottom
+
+B) Center
+
+C) Top
+
+D) All same
+
+If angular momentum is constant and I decreases, ω:
+
+A) Decreases
+
+B) Increases
+
+C) Becomes zero
+
+D) Remains same
+
+The unit radian is:
+
+A) Fundamental
+
+B) Derived
+
+C) Dimensionless
+
+D) Vector
+
+A body rotating in circle with constant speed has:
+
+A) Constant angular momentum
+
+B) Zero torque
+
+C) Zero acceleration
+
+D) Zero velocity
+
+Angular velocity direction is given by:
+
+A) Fleming’s rule
+
+B) Right-hand thumb rule
+
+C) Left-hand rule
+
+D) Maxwell rule
+
+Which quantity is NOT analogous in translation–rotation?
+
+A) Mass–MI
+
+B) Force–Torque
+
+C) Velocity–Angular velocity
+
+D) Displacement–Angular momentum
+
+If external torque acts, angular momentum:
+
+A) Conserved
+
+B) Zero
+
+C) Changes
+
+D) Infinite
+
+A rigid body means:
+
+A) No mass
+
+B) Deformable body
+
+C) Fixed inter-particle distance
+
+D) Stationary body
+
+The motion of COM of an isolated system is:
+
+A) Accelerated
+
+B) Circular
+
+C) Uniform straight line
+
+D) Random
+
+Which factor does NOT affect MI?
+
+A) Mass
+
+B) Shape
+
+C) Axis
+
+D) Angular velocity

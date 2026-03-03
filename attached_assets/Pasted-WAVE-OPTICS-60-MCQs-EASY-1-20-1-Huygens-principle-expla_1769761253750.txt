@@ -1,0 +1,375 @@
+WAVE OPTICS — 60 MCQs
+🟢 EASY (1–20)
+
+1. Huygens’ principle explains
+A) Reflection only
+B) Refraction only
+C) Diffraction only
+D) Reflection, refraction and diffraction
+
+2. In YDSE, bright fringes occur when path difference is
+A) nλ/2
+B) (n + ½)λ
+C) nλ
+D) λ/4
+
+3. Fringe width in YDSE depends on
+A) Intensity
+B) Amplitude
+C) Wavelength
+D) Refractive index only
+
+4. Fringe width β is given by
+A) dD/λ
+B) λD/d
+C) λd/D
+D) D/λd
+
+5. Interference is possible only if sources are
+A) Bright
+B) Monochromatic
+C) Coherent
+D) Polarized
+
+6. Unit of coherence length is
+A) second
+B) meter
+C) radian
+D) hertz
+
+7. Central maximum in single slit diffraction is
+A) Least intense
+B) Narrowest
+C) Brightest and widest
+D) Absent
+
+8. Condition for minima in single slit diffraction is
+A) a sinθ = (n + ½)λ
+B) a sinθ = nλ
+C) d sinθ = nλ
+D) sinθ = nλ
+
+9. Light proves its wave nature by
+A) Photoelectric effect
+B) Interference
+C) Compton effect
+D) Pair production
+
+10. Polarization proves light is
+A) Longitudinal
+B) Scalar
+C) Transverse
+D) Particle
+
+11. Brewster’s law is
+A) sinθ = n
+B) tanθ = n
+C) cosθ = n
+D) cotθ = n
+
+12. At Brewster’s angle, reflected light is
+A) Unpolarized
+B) Partially polarized
+C) Completely polarized
+D) Circularly polarized
+
+13. Malus’ law gives variation of
+A) Wavelength
+B) Speed
+C) Intensity
+D) Frequency
+
+14. If analyzer and polarizer are crossed, transmitted intensity is
+A) I₀
+B) I₀/2
+C) I₀/4
+D) Zero
+
+15. Phase difference corresponding to path difference λ is
+A) π
+B) 2π
+C) π/2
+D) 4π
+
+16. In YDSE, if one slit is closed
+A) Fringes disappear
+B) Fringe width doubles
+C) Intensity doubles
+D) Dark fringes remain
+
+17. Diffraction becomes prominent when aperture size is
+A) Much larger than λ
+B) Much smaller than λ
+C) Comparable to λ
+D) Independent of λ
+
+18. Speed of light in vacuum is
+A) 3 × 10⁶ m/s
+B) 3 × 10⁸ m/s
+C) 3 × 10¹⁰ m/s
+D) 3 × 10⁴ m/s
+
+19. Which EM wave has shortest wavelength?
+A) UV
+B) X-ray
+C) Gamma ray
+D) Infrared
+
+20. In interference, energy is
+A) Created
+B) Destroyed
+C) Redistributed
+D) Lost as heat
+
+🟡 MEDIUM / JEE MAIN (21–40)
+
+21. Phase difference φ is related to path difference Δ by
+A) φ = Δ/λ
+B) φ = 2πΔ/λ
+C) φ = λ/Δ
+D) φ = πΔ
+
+22. Visibility of fringes is maximum when
+A) I₁ ≠ I₂
+B) I₁ = I₂
+C) One slit is blocked
+D) λ is large
+
+23. Visibility V equals
+A) (Imax + Imin)/(Imax − Imin)
+B) (Imax − Imin)/(Imax + Imin)
+C) Imax/Imin
+D) Imin/Imax
+
+24. If a glass plate is introduced in one path of YDSE, fringe width
+A) Increases
+B) Decreases
+C) Becomes zero
+D) Remains same
+
+25. Fringe shift due to glass plate is proportional to
+A) λ
+B) d
+C) (μ − 1)t
+D) D²
+
+26. In single slit diffraction, angular width of central maximum is
+A) λ/a
+B) 2λ/a
+C) a/λ
+D) λ²/a
+
+27. Resolving power of telescope depends on
+A) Length
+B) Focal length
+C) Aperture
+D) Magnification
+
+28. Rayleigh criterion applies to
+A) Reflection
+B) Refraction
+C) Resolution
+D) Polarization
+
+29. Resolving power of microscope increases when
+A) λ increases
+B) Aperture decreases
+C) Numerical aperture increases
+D) Medium is vacuum
+
+30. For unpolarized light passing through a polarizer, intensity becomes
+A) I₀
+B) I₀/2
+C) I₀/4
+D) Zero
+
+31. At Brewster’s angle
+A) i = r
+B) i + r = 90°
+C) i − r = 90°
+D) r = 0
+
+32. Which phenomenon cannot be explained by Huygens principle alone?
+A) Reflection
+B) Refraction
+C) Interference
+D) Rectilinear propagation
+
+33. Diffraction grating has advantage over prism because of
+A) Higher intensity
+B) Higher dispersion
+C) Lower cost
+D) Lower absorption
+
+34. Resolving power of grating is
+A) n/N
+B) N/n
+C) nN
+D) N − n
+
+35. Angular dispersion of grating increases with
+A) Decreasing order
+B) Increasing wavelength
+C) Increasing order
+D) Decreasing slit width
+
+36. Central fringe in YDSE is
+A) Always dark
+B) Always bright
+C) Depends on phase
+D) Depends on distance
+
+37. Coherence length is given by
+A) c/τ
+B) cτ
+C) λτ
+D) λ/c
+
+38. Sky light is polarized due to
+A) Reflection
+B) Refraction
+C) Scattering
+D) Diffraction
+
+39. Maximum polarization of scattered light occurs at angle
+A) 0°
+B) 45°
+C) 60°
+D) 90°
+
+40. Secondary maxima in diffraction are
+A) Brighter than central
+B) Equal to central
+C) Weaker than central
+D) Absent
+
+🔴 HARD / JEE ADVANCED (41–60)
+
+41. In YDSE, if slit separation is doubled, fringe width becomes
+A) Half
+B) Double
+C) Same
+D) Four times
+
+42. If wavelength is halved, fringe width becomes
+A) Same
+B) Double
+C) Half
+D) Zero
+
+43. Two waves of intensities 4I and I interfere. Imax is
+A) 5I
+B) 9I
+C) 6I
+D) 4I
+
+44. Minimum intensity in Q43 is
+A) Zero
+B) I
+C) 3I
+D) 9I
+
+45. Visibility for intensities I₁ and I₂ is
+A) √(I₁/I₂)
+B) (I₁ − I₂)/(I₁ + I₂)
+C) 2√(I₁I₂)/(I₁ + I₂)
+D) (I₁ + I₂)/2
+
+46. Condition for overlapping orders in grating is
+A) nλ = d
+B) (n+1)λmin > nλmax
+C) d sinθ = nλ
+D) λ ≪ d
+
+47. Resolving power of grating depends on
+A) Width only
+B) Wavelength only
+C) Total number of lines
+D) Slit separation only
+
+48. Central maximum width in diffraction is independent of
+A) λ
+B) a
+C) D
+D) Intensity
+
+49. In diffraction, missing orders occur when
+A) d = a
+B) d/a is integer
+C) λ is small
+D) N is large
+
+50. Which has highest resolving power?
+A) Prism
+B) Single slit
+C) Diffraction grating
+D) Mirror
+
+51. Degree of polarization is zero for
+A) Plane polarized light
+B) Circularly polarized light
+C) Unpolarized light
+D) Elliptically polarized
+
+52. A polarizer reduces intensity to
+A) I₀
+B) I₀/2
+C) I₀/4
+D) Zero
+
+53. In Malus’ law, if θ = 60°, intensity is
+A) I₀
+B) I₀/2
+C) I₀/4
+D) I₀/8
+
+54. For Fresnel diffraction, source and screen are
+A) At infinity
+B) At finite distance
+C) Coincident
+D) Absent
+
+55. Fraunhofer diffraction requires
+A) Convex lens
+B) Monochromatic light
+C) Parallel rays
+D) All of these
+
+56. Width of central maximum is proportional to
+A) a
+B) 1/a
+C) a²
+D) Independent of a
+
+57. Which is NOT electromagnetic wave behavior?
+A) Interference
+B) Polarization
+C) Diffraction
+D) Doppler effect
+
+58. Interference fringes disappear if
+A) Sources are coherent
+B) Wavelength increases
+C) Sources are incoherent
+D) Distance increases
+
+59. If refractive index increases, fringe width
+A) Increases
+B) Decreases
+C) Becomes zero
+D) Remains same
+
+60. Wave optics fails to explain
+A) Diffraction
+B) Interference
+C) Polarization
+D) Photoelectric effect
+
+✅ ANSWER KEY
+
+1-D, 2-C, 3-C, 4-B, 5-C, 6-B, 7-C, 8-B, 9-B, 10-C
+11-B, 12-C, 13-C, 14-D, 15-B, 16-A, 17-C, 18-B, 19-C, 20-C
+21-B, 22-B, 23-B, 24-D, 25-C, 26-B, 27-C, 28-C, 29-C, 30-B
+31-B, 32-D, 33-B, 34-C, 35-C, 36-B, 37-B, 38-C, 39-D, 40-C
+41-A, 42-C, 43-B, 44-A, 45-C, 46-B, 47-C, 48-D, 49-B, 50-C
+51-C, 52-B, 53-C, 54-B, 55-D, 56-B, 57-D, 58-C, 59-B, 60-D

@@ -1,0 +1,438 @@
+SECTION A: Basic Concepts & Assumptions (1–10)
+
+1. Which of the following is NOT an assumption of kinetic theory of gases?
+A. Gas molecules are in random motion
+B. Intermolecular forces are negligible
+C. Collisions are perfectly elastic
+D. Molecules have large volume
+
+2. Ideal gas behavior is most closely obeyed at:
+A. High pressure, low temperature
+B. Low pressure, high temperature
+C. High pressure, high temperature
+D. Low pressure, low temperature
+
+3. Brownian motion provides experimental evidence for:
+A. Elastic collisions
+B. Random molecular motion
+C. Ideal gas law
+D. Equipartition theorem
+
+4. The time of collision between gas molecules compared to time between collisions is:
+A. Much larger
+B. Equal
+C. Negligible
+D. Infinite
+
+5. Which quantity remains same for all ideal gases at the same temperature?
+A. RMS speed
+B. Average speed
+C. Most probable speed
+D. Average kinetic energy
+
+6. Which of the following is a real gas correction in van der Waals equation?
+A. Pressure only
+B. Volume only
+C. Both pressure and volume
+D. Temperature
+
+7. The ‘a’ constant in van der Waals equation represents:
+A. Molecular volume
+B. Intermolecular attraction
+C. Molecular mass
+D. Compressibility
+
+8. Avogadro’s number gives:
+A. Mass of 1 mole
+B. Volume of 1 mole
+C. Number of molecules in 1 mole
+D. Charge of 1 mole
+
+9. An ideal gas has internal energy dependent only on:
+A. Pressure
+B. Volume
+C. Temperature
+D. Pressure and volume
+
+10. Which assumption fails at high pressure?
+A. Elastic collisions
+B. Random motion
+C. Negligible molecular volume
+D. Newton’s laws
+
+SECTION B: Pressure & Kinetic Interpretation (11–20)
+
+11. Pressure of an ideal gas is proportional to:
+A. Mean speed
+B. Square of mean speed
+C. Mean square speed
+D. Cube of RMS speed
+
+12. Expression for pressure of an ideal gas is:
+A. P = ρv
+B. P = ½ρv²
+C. P = (1/3)ρ⟨v²⟩
+D. P = ρ⟨v²⟩
+
+13. Average kinetic energy per molecule is:
+A. kBT
+B. (1/2)kBT
+C. (3/2)kBT
+D. 3kBT
+
+14. At same temperature, which gas molecule has maximum RMS speed?
+A. O₂
+B. N₂
+C. CO₂
+D. H₂
+
+15. If temperature is doubled, RMS speed becomes:
+A. Doubled
+B. Halved
+C. √2 times
+D. 2√2 times
+
+16. Pressure of a gas depends on:
+A. Mean velocity
+B. Mean square velocity
+C. Average velocity
+D. Most probable velocity
+
+17. Which quantity is independent of nature of gas?
+A. RMS speed
+B. Mean speed
+C. Most probable speed
+D. Average kinetic energy
+
+18. Relation between pressure and KE per unit volume is:
+A. P = KE
+B. P = 2KE
+C. P = (2/3) KE
+D. P = (3/2) KE
+
+19. If molecular speed increases, pressure will:
+A. Decrease
+B. Remain constant
+C. Increase
+D. Become zero
+
+20. Temperature is a measure of:
+A. Total kinetic energy
+B. Potential energy
+C. Average kinetic energy
+D. Total energy
+
+SECTION C: Molecular Speeds (21–30)
+
+21. Correct order of molecular speeds is:
+A. vrms < v̄ < vp
+B. v̄ < vrms < vp
+C. vp < v̄ < vrms
+D. vp < vrms < v̄
+
+22. RMS speed depends on:
+A. Pressure only
+B. Volume only
+C. Temperature and molar mass
+D. Density only
+
+23. For same gas, ratio of RMS speeds at temperatures T and 4T is:
+A. 1:2
+B. 1:4
+C. 2:1
+D. 4:1
+
+24. Average speed is proportional to:
+A. √T
+B. T
+C. 1/√T
+D. 1/T
+
+25. Molecular speed decreases when:
+A. Temperature increases
+B. Molar mass increases
+C. Pressure decreases
+D. Volume increases
+
+26. Unit of RMS speed is:
+A. m/s
+B. m²/s²
+C. kg/s
+D. N
+
+27. For same temperature, lighter gas molecules move:
+A. Slower
+B. Faster
+C. Same speed
+D. Randomly
+
+28. RMS speed is maximum for:
+A. He at 300 K
+B. N₂ at 600 K
+C. O₂ at 900 K
+D. H₂ at 300 K
+
+29. Ratio vp : vrms is approximately:
+A. 1 : 1
+B. 1 : 1.12
+C. 1 : 1.22
+D. 1 : 1.5
+
+30. Molecular speed distribution depends on:
+A. Pressure only
+B. Volume only
+C. Temperature
+D. Density only
+
+SECTION D: Degrees of Freedom & Equipartition (31–45)
+
+31. Degrees of freedom of monatomic gas are:
+A. 1
+B. 2
+C. 3
+D. 6
+
+32. Degrees of freedom of diatomic gas at room temperature are:
+A. 3
+B. 4
+C. 5
+D. 6
+
+33. Each degree of freedom contributes energy equal to:
+A. kBT
+B. (1/2)kBT
+C. (3/2)kBT
+D. 2kBT
+
+34. Internal energy per mole of monatomic gas is:
+A. RT
+B. (3/2)RT
+C. (5/2)RT
+D. 3RT
+
+35. Equipartition theorem fails at:
+A. High temperature
+B. Room temperature
+C. Very low temperature
+D. High pressure only
+
+36. Specific heat at constant volume for diatomic gas is:
+A. R
+B. (3/2)R
+C. (5/2)R
+D. (7/2)R
+
+37. Relation between Cp and Cv is:
+A. Cp = Cv
+B. Cp > Cv
+C. Cp < Cv
+D. Cp = 2Cv
+
+38. Value of γ for monatomic gas is:
+A. 1.33
+B. 1.4
+C. 1.5
+D. 1.67
+
+39. As degrees of freedom increase, γ:
+A. Increases
+B. Decreases
+C. Remains same
+D. Becomes zero
+
+40. Internal energy of ideal gas depends on:
+A. P and V
+B. P only
+C. V only
+D. T only
+
+41. Vibrational modes become active at:
+A. Low temperature
+B. Room temperature
+C. High temperature
+D. Zero temperature
+
+42. Cp − Cv equals:
+A. kB
+B. R
+C. 2R
+D. γR
+
+43. Internal energy is a:
+A. Path function
+B. State function
+C. Vector quantity
+D. Intensive quantity
+
+44. Unit of specific heat capacity is:
+A. J/K
+B. J/mol
+C. J/mol·K
+D. J/kg
+
+45. For a gas with f degrees of freedom, γ equals:
+A. f/2
+B. 1 + 2/f
+C. 2/f
+D. f − 1
+
+SECTION E: Mean Free Path (46–60)
+
+46. Mean free path is maximum at:
+A. High pressure
+B. Low temperature
+C. Low pressure
+D. High density
+
+47. Mean free path depends on:
+A. Molecular diameter
+B. Pressure
+C. Temperature
+D. All of these
+
+48. Unit of mean free path is:
+A. m
+B. m²
+C. m/s
+D. s
+
+49. Mean free path is inversely proportional to:
+A. Temperature
+B. Pressure
+C. Volume
+D. Speed
+
+50. As pressure increases, mean free path:
+A. Increases
+B. Decreases
+C. Remains same
+D. Becomes zero
+
+51. Mean free path is shortest for gas at:
+A. Low pressure, high temperature
+B. High pressure, low temperature
+C. Low pressure, low temperature
+D. High temperature only
+
+52. Expression for mean free path contains factor √2 due to:
+A. Random motion
+B. Elastic collisions
+C. Relative velocity
+D. Volume correction
+
+53. Mean free path increases when:
+A. Density increases
+B. Temperature decreases
+C. Pressure decreases
+D. Molecular size increases
+
+54. Mean free path is largest for:
+A. Dense gas
+B. Liquid
+C. Solid
+D. Rarefied gas
+
+55. Mean free path is important in study of:
+A. Thermodynamics
+B. Optics
+C. Transport phenomena
+D. Electrostatics
+
+56. Mean free path is directly proportional to:
+A. Pressure
+B. Temperature
+C. Density
+D. Molecular diameter
+
+57. Number density is number of molecules per:
+A. Mole
+B. Unit mass
+C. Unit volume
+D. Unit area
+
+58. Mean free path becomes infinite when:
+A. Pressure → ∞
+B. Temperature → 0
+C. Pressure → 0
+D. Density → ∞
+
+59. Mean free path concept is NOT applicable to:
+A. Gases
+B. Liquids
+C. Rarefied gases
+D. Ideal gases
+
+60. Mean free path decreases if:
+A. Temperature increases
+B. Molecular diameter decreases
+C. Pressure increases
+D. Volume increases
+
+✅ ANSWER KEY
+
+1-D
+2-B
+3-B
+4-C
+5-D
+6-C
+7-B
+8-C
+9-C
+10-C
+
+11-C
+12-C
+13-C
+14-D
+15-C
+16-B
+17-D
+18-C
+19-C
+20-C
+
+21-C
+22-C
+23-A
+24-A
+25-B
+26-A
+27-B
+28-D
+29-C
+30-C
+
+31-C
+32-C
+33-B
+34-B
+35-C
+36-C
+37-B
+38-D
+39-B
+40-D
+
+41-C
+42-B
+43-B
+44-C
+45-B
+
+46-C
+47-D
+48-A
+49-B
+50-B
+51-B
+52-C
+53-C
+54-D
+55-C
+
+56-B
+57-C
+58-C
+59-B
+60-C

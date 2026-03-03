@@ -1,0 +1,249 @@
+60 MCQs: Semiconductor Electronics
+
+(Easy → Medium → JEE Main → JEE Adv)
+
+🟢 EASY (1–20)
+
+1. Semiconductor band gap lies approximately between
+A. 0–0.01 eV
+B. 0.1–3 eV
+C. 3–6 eV
+D. > 6 eV
+
+2. Example of intrinsic semiconductor is
+A. Doped Si
+B. Doped Ge
+C. Pure Si
+D. Silicon carbide
+
+3. Majority carriers in n-type semiconductor are
+A. Holes
+B. Electrons
+C. Protons
+D. Ions
+
+4. Doping with boron produces
+A. n-type
+B. p-type
+C. intrinsic
+D. insulator
+
+5. In p-type semiconductor, minority carriers are
+A. Holes
+B. Electrons
+C. Neutrons
+D. Ions
+
+6. Depletion region contains
+A. Free electrons
+B. Free holes
+C. Immobile ions
+D. Current carriers
+
+7. Barrier potential for silicon diode is
+A. 0.3 V
+B. 0.5 V
+C. 0.7 V
+D. 1.1 V
+
+8. Diode conducts easily in
+A. Reverse bias
+B. Forward bias
+C. Zero bias
+D. Breakdown
+
+9. Output frequency of full-wave rectifier is
+A. f
+B. f/2
+C. 2f
+D. 4f
+
+10. Zener diode works in
+A. Forward region
+B. Reverse breakdown
+C. Cutoff
+D. Active region
+
+🟡 MEDIUM (21–40)
+
+21. Fermi level in intrinsic semiconductor lies
+A. Near valence band
+B. Near conduction band
+C. Midway between bands
+D. Outside band gap
+
+22. With increase in temperature, conductivity of semiconductor
+A. Decreases
+B. Remains same
+C. Increases
+D. Becomes zero
+
+23. Reverse saturation current increases with
+A. Voltage
+B. Temperature
+C. Doping
+D. Resistance
+
+24. In CE configuration, phase difference between input & output is
+A. 0°
+B. 90°
+C. 180°
+D. 270°
+
+25. Relation between α and β is
+A. β = α/(1−α)
+B. α = β/(1−β)
+C. β = 1−α
+D. α = 1/β
+
+26. Photodiode is operated in
+A. Forward bias
+B. Reverse bias
+C. Zero bias
+D. Saturation
+
+27. LED emits light due to
+A. Heating
+B. Recombination
+C. Breakdown
+D. Diffusion
+
+28. Solar cell works on
+A. Thermionic emission
+B. Photoelectric effect
+C. Photovoltaic effect
+D. Hall effect
+
+29. Ripple factor is minimum for
+A. Half-wave rectifier
+B. Full-wave rectifier
+C. No rectifier
+D. Zener
+
+30. Universal logic gates are
+A. AND, OR
+B. NOT, OR
+C. NAND, NOR
+D. XOR, XNOR
+
+🔴 JEE MAIN → JEE ADV (41–60)
+
+41. At 0 K, intrinsic semiconductor behaves as
+A. Conductor
+B. Semiconductor
+C. Insulator
+D. Superconductor
+
+42. Fermi level shifts toward conduction band in
+A. p-type
+B. intrinsic
+C. n-type
+D. insulator
+
+43. Maximum current gain occurs in
+A. CB
+B. CE
+C. CC
+D. All same
+
+44. In saturation region, transistor acts as
+A. Amplifier
+B. Switch ON
+C. Switch OFF
+D. Rectifier
+
+45. Zener regulation fails when
+A. Load current too large
+B. Voltage increases
+C. Zener is reverse biased
+D. Temperature decreases
+
+46. Energy gap of Ge is approximately
+A. 0.3 eV
+B. 0.7 eV
+C. 1.1 eV
+D. 3 eV
+
+47. In NAND gate output is LOW when
+A. Any input is LOW
+B. All inputs are HIGH
+C. Any input is HIGH
+D. All inputs are LOW
+
+48. CE amplifier provides
+A. Voltage gain only
+B. Current gain only
+C. Power gain
+D. No gain
+
+49. Breakdown in Zener diode occurs due to
+A. Heating
+B. Impact ionization
+C. Strong electric field
+D. Diffusion
+
+50. Collector current is approximately
+A. I_B
+B. I_E
+C. βI_B
+D. αI_B
+
+51. Logic gate that gives 1 only when inputs differ is
+A. AND
+B. OR
+C. XOR
+D. NAND
+
+52. Rectifier converts
+A. DC to AC
+B. AC to DC
+C. AC to AC
+D. DC to DC
+
+53. Minority carriers in n-type are
+A. Electrons
+B. Holes
+C. Ions
+D. Protons
+
+54. LED efficiency depends on
+A. Color
+B. Material
+C. Wavelength
+D. All
+
+55. Higher band gap means
+A. Higher conductivity
+B. Lower conductivity
+C. No effect
+D. Superconductivity
+
+56. Silicon is preferred over germanium because
+A. Cheaper
+B. Higher band gap
+C. Lower reverse current
+D. All
+
+57. Amplification occurs when transistor is in
+A. Cutoff
+B. Active region
+C. Saturation
+D. Breakdown
+
+58. NOT gate output is HIGH when input is
+A. HIGH
+B. LOW
+C. Zero
+D. Both
+
+59. Majority carriers carry current mainly by
+A. Drift
+B. Diffusion
+C. Recombination
+D. Tunneling
+
+60. Best material for IC fabrication is
+A. Copper
+B. Aluminium
+C. Silicon
+D. Germanium

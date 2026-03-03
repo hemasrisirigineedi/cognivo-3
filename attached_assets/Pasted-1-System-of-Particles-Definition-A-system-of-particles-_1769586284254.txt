@@ -1,0 +1,404 @@
+1️⃣ System of Particles
+🔹 Definition
+
+A system of particles is a collection of two or more particles considered together for studying motion.
+
+🔹 Example
+
+A moving car (made of many particles)
+
+A rotating fan
+
+Earth–Moon system
+
+2️⃣ Centre of Mass (COM)
+🔹 Definition
+
+The centre of mass is the point where the entire mass of a system can be assumed to be concentrated for studying translational motion.
+
+🔹 Formula (1D)
+𝑥
+𝑐
+𝑚
+=
+∑
+𝑚
+𝑖
+𝑥
+𝑖
+∑
+𝑚
+𝑖
+x
+cm
+	​
+
+=
+∑m
+i
+	​
+
+∑m
+i
+	​
+
+x
+i
+	​
+
+	​
+
+🔹 Example
+
+For a uniform rod, COM is at its midpoint
+
+In a see-saw, balance point is COM
+
+3️⃣ Motion of Centre of Mass
+🔹 Concept
+
+The motion of the centre of mass depends only on external forces.
+
+🔹 Key Result
+𝐹
+𝑒
+𝑥
+𝑡
+=
+𝑀
+𝑎
+𝑐
+𝑚
+F
+ext
+	​
+
+=Ma
+cm
+	​
+
+🔹 Example
+
+When a gun fires a bullet, both recoil such that COM remains unchanged if no external force acts.
+
+4️⃣ Linear Momentum
+🔹 Definition
+
+Momentum is the product of mass and velocity.
+
+🔹 Formula
+𝑝
+⃗
+=
+𝑚
+𝑣
+⃗
+p
+	​
+
+=m
+v
+🔹 SI Unit
+
+kg·m/s
+
+🔹 Example
+
+A fast-moving truck has more momentum than a bicycle.
+
+5️⃣ Conservation of Linear Momentum
+🔹 Statement
+
+If the net external force is zero, total momentum of a system remains constant.
+
+🔹 Mathematical Form
+𝑝
+𝑖
+𝑛
+𝑖
+𝑡
+𝑖
+𝑎
+𝑙
+=
+𝑝
+𝑓
+𝑖
+𝑛
+𝑎
+𝑙
+p
+initial
+	​
+
+=p
+final
+	​
+
+🔹 Example
+
+Explosion of a bomb: fragments fly apart but total momentum remains conserved.
+
+6️⃣ Angular Displacement
+🔹 Definition
+
+The angle through which a particle rotates about a fixed axis.
+
+🔹 Unit
+
+Radian (rad)
+
+🔹 Example
+
+Rotation of hands of a clock
+
+7️⃣ Angular Velocity
+🔹 Definition
+
+Rate of change of angular displacement.
+
+🔹 Formula
+𝜔
+=
+𝑑
+𝜃
+𝑑
+𝑡
+ω=
+dt
+dθ
+	​
+
+🔹 Unit
+
+rad/s
+
+🔹 Example
+
+Ceiling fan rotating at constant speed
+
+8️⃣ Angular Acceleration
+🔹 Definition
+
+Rate of change of angular velocity.
+
+🔹 Formula
+𝛼
+=
+𝑑
+𝜔
+𝑑
+𝑡
+α=
+dt
+dω
+	​
+
+🔹 Unit
+
+rad/s²
+
+🔹 Example
+
+Fan speeding up after being switched on
+
+9️⃣ Relation Between Linear and Angular Quantities
+𝑣
+=
+𝑟
+𝜔
+v=rω
+𝑎
+𝑡
+=
+𝑟
+𝛼
+a
+t
+	​
+
+=rα
+𝑎
+𝑐
+=
+𝑟
+𝜔
+2
+a
+c
+	​
+
+=rω
+2
+🔹 Example
+
+Outer edge of a rotating disc moves faster than inner points
+
+🔟 Torque (Moment of Force)
+🔹 Definition
+
+Torque is the turning effect of a force.
+
+🔹 Formula
+𝜏
+⃗
+=
+𝑟
+⃗
+×
+𝐹
+⃗
+τ
+=
+r
+×
+F
+🔹 Unit
+
+N·m
+
+🔹 Example
+
+Opening a door by pushing far from the hinge is easier
+
+1️⃣1️⃣ Angular Momentum
+🔹 Definition
+
+Angular momentum is the moment of linear momentum.
+
+🔹 Formula
+𝐿
+⃗
+=
+𝑟
+⃗
+×
+𝑝
+⃗
+L
+=
+r
+×
+p
+	​
+
+🔹 Unit
+
+kg·m²/s
+
+🔹 Example
+
+A spinning skater pulling arms inward spins faster
+
+1️⃣2️⃣ Conservation of Angular Momentum
+🔹 Statement
+
+If no external torque acts, angular momentum remains constant.
+
+🔹 Example
+
+Planetary motion
+
+Ice skater rotation
+
+1️⃣3️⃣ Moment of Inertia (MI)
+🔹 Definition
+
+Moment of inertia is the rotational inertia of a body.
+
+🔹 Formula
+𝐼
+=
+∑
+𝑚
+𝑟
+2
+I=∑mr
+2
+🔹 Unit
+
+kg·m²
+
+🔹 Example
+
+Solid disc harder to rotate than a ring of same mass and radius
+
+1️⃣4️⃣ Radius of Gyration
+🔹 Definition
+
+Distance from axis where entire mass can be assumed concentrated.
+
+🔹 Formula
+𝐼
+=
+𝑀
+𝑘
+2
+I=Mk
+2
+🔹 Example
+
+Used to compare rotational distribution of mass
+
+1️⃣5️⃣ Rotational Kinetic Energy
+🔹 Formula
+𝐾
+𝐸
+𝑟
+𝑜
+𝑡
+=
+1
+2
+𝐼
+𝜔
+2
+KE
+rot
+	​
+
+=
+2
+1
+	​
+
+Iω
+2
+🔹 Example
+
+Rotating flywheel stores energy
+
+1️⃣6️⃣ Rolling Motion
+🔹 Condition
+𝑣
+=
+𝑟
+𝜔
+v=rω
+🔹 Example
+
+Rolling wheel without slipping
+
+1️⃣7️⃣ Work–Energy in Rotation
+🔹 Work done by torque:
+𝑊
+=
+𝜏
+𝜃
+W=τθ
+🔹 Power in rotation:
+𝑃
+=
+𝜏
+𝜔
+P=τω
+🔹 Example
+
+Motor rotating a shaft
+
+1️⃣8️⃣ Comparison: Translation vs Rotation
+Quantity	Translation	Rotation
+Mass	m	I
+Force	F	Torque
+Velocity	v	ω
+Acceleration	a	α

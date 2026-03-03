@@ -1,0 +1,365 @@
+1. Work
+Definition
+
+Work is said to be done when a force produces displacement in the direction of the force.
+
+Formula
+𝑊
+=
+𝐹
+×
+𝑠
+×
+cos
+⁡
+𝜃
+W=F×s×cosθ
+
+Where:
+
+𝐹
+F = force
+
+𝑠
+s = displacement
+
+𝜃
+θ = angle between force and displacement
+
+SI Unit
+
+Joule (J)
+
+Examples
+
+Pushing a box on the floor → Work is done (force + displacement).
+
+Pushing a wall → No work done (no displacement).
+
+Lifting a bag upward → Work is done.
+
+Carrying a bag horizontally → No work (force is vertical, displacement is horizontal).
+
+Types of Work
+Situation	Type
+Force & displacement same direction	Positive work
+Force opposite to displacement	Negative work
+Force ⟂ displacement	Zero work
+2. Kinetic Energy (KE)
+Definition
+
+Energy possessed by an object due to its motion.
+
+Formula
+𝐾
+𝐸
+=
+1
+2
+𝑚
+𝑣
+2
+KE=
+2
+1
+	​
+
+mv
+2
+SI Unit
+
+Joule (J)
+
+Examples
+
+Moving car → has kinetic energy
+
+Flying cricket ball → has kinetic energy
+
+Stationary stone → no kinetic energy
+
+More speed = more KE
+More mass = more KE
+
+3. Work–Energy Theorem
+Statement
+
+The work done by a force on a body is equal to the change in its kinetic energy.
+
+Formula
+𝑊
+=
+𝐾
+𝐸
+𝑓
+−
+𝐾
+𝐸
+𝑖
+W=KE
+f
+	​
+
+−KE
+i
+	​
+
+Example
+
+A football kicked harder moves faster because work done increases its kinetic energy.
+
+4. Potential Energy (PE)
+Definition
+
+Energy possessed by an object due to its position or shape.
+
+Gravitational Potential Energy
+𝑃
+𝐸
+=
+𝑚
+𝑔
+ℎ
+PE=mgh
+
+Where:
+
+𝑚
+m = mass
+
+𝑔
+g = acceleration due to gravity
+
+ℎ
+h = height
+
+Examples
+
+Book kept on a shelf
+
+Water stored in a dam
+
+Stone held at height
+
+5. Elastic Potential Energy (Spring)
+Definition
+
+Energy stored in a stretched or compressed spring.
+
+Formula
+𝑃
+𝐸
+=
+1
+2
+𝑘
+𝑥
+2
+PE=
+2
+1
+	​
+
+kx
+2
+
+Where:
+
+𝑘
+k = spring constant
+
+𝑥
+x = extension/compression
+
+Examples
+
+Stretched bow
+
+Compressed spring
+
+Toy spring gun
+
+6. Conservative and Non-Conservative Forces
+Conservative Force
+
+Work done depends only on initial and final position
+
+PE can be defined
+
+Examples:
+✔ Gravitational force
+✔ Spring force
+
+Non-Conservative Force
+
+Work depends on path
+
+PE cannot be defined
+
+Examples:
+✖ Friction
+✖ Air resistance
+
+7. Law of Conservation of Mechanical Energy
+Statement
+
+If only conservative forces act, total mechanical energy remains constant.
+
+Formula
+𝐾
+𝐸
++
+𝑃
+𝐸
+=
+constant
+KE+PE=constant
+Example
+
+A ball falling from height:
+
+Top → PE max, KE zero
+
+Middle → PE + KE
+
+Bottom → KE max, PE zero
+
+Total energy remains same.
+
+8. Power
+Definition
+
+Rate of doing work or rate of transfer of energy.
+
+Average Power
+𝑃
+=
+𝑊
+𝑡
+P=
+t
+W
+	​
+
+Instantaneous Power
+𝑃
+=
+𝐹
+𝑣
+P=Fv
+SI Unit
+
+Watt (W)
+
+Examples
+
+Lift motor lifting people fast → high power
+
+Two people climb stairs: faster one has more power
+
+Commercial Unit
+1
+ kWh 
+=
+3.6
+×
+10
+6
+ J
+1 kWh =3.6×10
+6
+ J
+
+(Used in electricity bills)
+
+9. Collisions
+Definition
+
+When two bodies interact for a short time and exchange momentum.
+
+Types of Collisions
+Elastic Collision
+
+Momentum conserved
+
+Kinetic energy conserved
+
+Example:
+✔ Billiard balls
+
+Inelastic Collision
+
+Momentum conserved
+
+Kinetic energy NOT conserved
+
+Example:
+✔ Car accident
+
+Completely Inelastic Collision
+
+Bodies stick together after collision
+
+10. Momentum Conservation (in collisions)
+Law
+
+Total momentum before collision = total momentum after collision
+
+Example
+
+Gun recoil:
+
+Bullet moves forward
+
+Gun moves backward
+Total momentum remains zero.
+
+Quick Exam Table
+Quantity	Formula
+Work	
+𝐹
+𝑠
+cos
+⁡
+𝜃
+Fscosθ
+Kinetic Energy	
+1
+2
+𝑚
+𝑣
+2
+2
+1
+	​
+
+mv
+2
+
+Potential Energy	
+𝑚
+𝑔
+ℎ
+mgh
+Spring PE	
+1
+2
+𝑘
+𝑥
+2
+2
+1
+	​
+
+kx
+2
+
+Power	
+𝑊
+/
+𝑡
+W/t
+Instant Power	
+𝐹
+𝑣
+Fv

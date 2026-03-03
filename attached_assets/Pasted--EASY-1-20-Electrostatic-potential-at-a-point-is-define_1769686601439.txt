@@ -1,0 +1,367 @@
+)
+
+🟢 EASY (1–20)
+
+Electrostatic potential at a point is defined as
+A. Force per unit charge
+B. Work done per unit charge
+C. Energy per unit mass
+D. Charge per unit work
+
+SI unit of electric potential is
+A. Joule
+B. Coulomb
+C. Volt
+D. Newton
+
+Electric potential is a
+A. Vector quantity
+B. Scalar quantity
+C. Tensor quantity
+D. Pseudovector
+
+Potential due to a point charge varies with distance r as
+A. r
+B. r²
+C. 1/r
+D. 1/r²
+
+Potential due to a positive charge is
+A. Always negative
+B. Always zero
+C. Always positive
+D. Depends on direction
+
+Electric potential at infinity is taken as
+A. 1 V
+B. Maximum
+C. Zero
+D. Undefined
+
+For multiple point charges, electric potential is found using
+A. Vector addition
+B. Superposition (scalar)
+C. Parallelogram law
+D. Cross product
+
+Electric potential due to a dipole at equatorial point is
+A. Maximum
+B. Minimum
+C. Zero
+D. Infinite
+
+Unit of dipole moment is
+A. C/m
+B. C·m
+C. N·m
+D. J/C
+
+Equipotential surfaces intersect each other at
+A. Right angles
+B. Acute angles
+C. Obtuse angles
+D. Never
+
+Work done in moving a charge along an equipotential surface is
+A. Maximum
+B. Minimum
+C. Zero
+D. Infinite
+
+Electric field is always ______ to equipotential surface
+A. Parallel
+B. Tangential
+C. Perpendicular
+D. Inclined
+
+Electric field is related to potential by
+A. E = V/r
+B. E = −dV/dr
+C. E = V·r
+D. E = dV/dt
+
+Inside a conductor in electrostatic equilibrium, electric field is
+A. Maximum
+B. Minimum
+C. Zero
+D. Infinite
+
+Capacitance depends on
+A. Charge stored
+B. Potential applied
+C. Geometry of conductor
+D. Current
+
+SI unit of capacitance is
+A. Volt
+B. Coulomb
+C. Farad
+D. Joule
+
+Capacitance of parallel plate capacitor increases when
+A. Plate separation increases
+B. Plate area decreases
+C. Dielectric is inserted
+D. Voltage increases
+
+Dielectric constant K is defined as
+A. ε₀/ε
+B. ε/ε₀
+C. Q/V
+D. E/V
+
+Energy stored in a capacitor depends on
+A. Electric field only
+B. Charge only
+C. Capacitance and voltage
+D. Current
+
+Energy stored in capacitor is present in
+A. Plates
+B. Charges
+C. Electric field
+D. Battery
+
+🟡 MEDIUM (21–40) — JEE Main level
+
+Potential at the center of a uniformly charged spherical shell is
+A. Zero
+B. kQ/R
+C. kQ/r
+D. Infinite
+
+Potential inside a charged conducting sphere is
+A. Zero everywhere
+B. Constant
+C. Proportional to r
+D. Inversely proportional to r
+
+Potential energy of two charges q and −q separated by distance r is
+A. Positive
+B. Negative
+C. Zero
+D. Infinite
+
+Electric field inside a hollow conductor is
+A. kQ/r²
+B. Constant
+C. Zero
+D. Infinite
+
+Potential difference between two equipotential surfaces is
+A. Zero
+B. Infinite
+C. Undefined
+D. Depends on path
+
+Capacitance of an isolated sphere of radius R is
+A. ε₀R
+B. 4πε₀R
+C. ε₀/R
+D. 1/(4πε₀R)
+
+When a dielectric slab is inserted at constant charge, the potential
+A. Increases
+B. Decreases
+C. Remains same
+D. Becomes zero
+
+When capacitors are connected in series, which remains same?
+A. Voltage
+B. Energy
+C. Charge
+D. Capacitance
+
+Equivalent capacitance of capacitors in parallel is
+A. Minimum
+B. Maximum
+C. Zero
+D. Infinity
+
+Energy density of electric field is given by
+A. ε₀E
+B. ε₀E²
+C. ½ε₀E²
+D. E²/ε₀
+
+Potential due to dipole varies with distance as
+A. 1/r
+B. 1/r²
+C. 1/r³
+D. r²
+
+Field just outside a conductor is
+A. Zero
+B. σ/ε₀
+C. ε₀/σ
+D. kσ²
+
+Sharper edges of conductor have
+A. Less charge density
+B. Same charge density
+C. More charge density
+D. Zero charge density
+
+A capacitor stores energy when it is
+A. Short-circuited
+B. Discharged
+C. Charged
+D. Earthed
+
+Potential energy stored in capacitor increases if
+A. Capacitance decreases
+B. Voltage increases
+C. Plate area decreases
+D. Distance increases
+
+Electric field points from
+A. Low to high potential
+B. High to low potential
+C. Positive to negative only
+D. Negative to positive only
+
+A dielectric reduces electric field because
+A. Charges vanish
+B. Polarization produces opposing field
+C. ε₀ changes
+D. Voltage increases
+
+Work done in bringing charge from infinity to point P depends on
+A. Path
+B. Speed
+C. Potential at P
+D. Time
+
+Potential is zero at a point implies
+A. Field is zero
+B. No charge exists
+C. Energy reference point
+D. Force is zero
+
+Van de Graaff generator is used to produce
+A. High current
+B. High voltage
+C. AC supply
+D. Magnetic field
+
+🔴 HARD (41–60) — JEE Advanced level
+
+Electric field is zero at a point but potential is non-zero. This is possible in
+A. Uniform field
+B. Charged shell center
+C. Infinite line charge
+D. Plane sheet
+
+Potential inside a uniformly charged solid sphere varies as
+A. 1/r
+B. r
+C. r²
+D. Constant
+
+Force between plates of a charged capacitor depends on
+A. Voltage only
+B. Charge only
+C. Electric field
+D. Resistance
+
+Energy lost when two identical capacitors (one charged, one uncharged) are connected is
+A. Zero
+B. Half initial energy
+C. Full energy
+D. Double energy
+
+Electric field is discontinuous across
+A. Dielectric surface
+B. Vacuum
+C. Conducting surface
+D. Equipotential surface
+
+Potential gradient gives
+A. Force
+B. Charge
+C. Electric field
+D. Energy
+
+If dielectric constant is K, energy stored at constant voltage becomes
+A. K times
+B. 1/K times
+C. K² times
+D. Same
+
+If dielectric constant is K, energy stored at constant charge becomes
+A. K times
+B. 1/K times
+C. K² times
+D. Same
+
+Capacitance depends on
+A. Charge stored
+B. Potential applied
+C. Medium between plates
+D. Energy stored
+
+Potential energy of a dipole in uniform field is minimum when
+A. p ⟂ E
+B. p opposite E
+C. p parallel E
+D. p = 0
+
+Field lines originate from
+A. Negative charges
+B. Positive charges
+C. Equipotential surface
+D. Infinity only
+
+Potential inside conductor is
+A. Zero
+B. Infinite
+C. Same everywhere
+D. Varies linearly
+
+Electric potential is independent of
+A. Charge
+B. Distance
+C. Path
+D. Medium
+
+Which quantity remains conserved when dielectric is inserted at constant charge?
+A. Electric field
+B. Potential
+C. Charge
+D. Energy
+
+Potential difference between two points depends on
+A. Path taken
+B. Electric field only
+C. Reference point
+D. Charge magnitude
+
+Energy density in electric field exists in
+A. Plates
+B. Charges
+C. Space
+D. Battery
+
+Capacitance of Earth is approximately
+A. 1 F
+B. 10⁻⁶ F
+C. 7×10⁻⁴ F
+D. 10³ F
+
+Potential due to infinite line charge at distance r varies as
+A. r
+B. 1/r
+C. ln r
+D. r²
+
+Equipotential surfaces are closer where
+A. Field is weak
+B. Field is zero
+C. Field is strong
+D. Charge is zero
+
+Which statement is FALSE?
+A. Potential can be zero while field is non-zero
+B. Field can be zero while potential is non-zero
+C. Equipotential surfaces intersect
+D. Potential is scalar

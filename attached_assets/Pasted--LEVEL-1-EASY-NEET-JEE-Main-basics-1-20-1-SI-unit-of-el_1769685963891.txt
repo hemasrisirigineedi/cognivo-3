@@ -1,0 +1,365 @@
+🔹 LEVEL 1: EASY (NEET + JEE Main basics) [1–20]
+
+1. SI unit of electric charge is
+A. Coulomb
+B. Ampere
+C. Volt
+D. Joule
+
+2. Charge on an electron is
+A. +1.6 × 10⁻¹⁹ C
+B. −1.6 × 10⁻¹⁹ C
+C. −9.1 × 10⁻³¹ C
+D. +9.1 × 10⁻³¹ C
+
+3. Which of the following is a scalar quantity?
+A. Electric field
+B. Force
+C. Charge
+D. Displacement
+
+4. Like charges
+A. attract
+B. repel
+C. sometimes attract
+D. sometimes repel
+
+5. Coulomb’s law is valid for
+A. moving charges
+B. point charges at rest
+C. large charged bodies
+D. magnetic poles
+
+6. Electric field is defined as
+A. Force × charge
+B. Force / charge
+C. Charge / force
+D. Energy / charge
+
+7. Direction of electric field is defined as direction of force on
+A. electron
+B. proton
+C. unit positive test charge
+D. unit negative test charge
+
+8. Electric field lines never intersect because
+A. charge is conserved
+B. force is conservative
+C. field has unique direction
+D. energy is conserved
+
+9. Unit of electric field is
+A. N/C
+B. C/N
+C. J/C
+D. V·s
+
+10. Electric field inside a conductor in electrostatic equilibrium is
+A. maximum
+B. minimum
+C. zero
+D. infinite
+
+11. Electric dipole moment direction is from
+A. +q to −q
+B. −q to +q
+C. center to charge
+D. perpendicular to axis
+
+12. SI unit of dipole moment is
+A. C/m
+B. C·m
+C. N·m
+D. J
+
+13. Electric flux is a
+A. scalar
+B. vector
+C. tensor
+D. pseudo-vector
+
+14. Flux through surface is maximum when θ =
+A. 0°
+B. 30°
+C. 60°
+D. 90°
+
+15. Gauss’s law relates electric flux to
+A. total charge
+B. enclosed charge
+C. external charge
+D. surface area
+
+16. Electric field outside charged sphere behaves like
+A. plane sheet
+B. point charge
+C. line charge
+D. dipole
+
+17. Field inside hollow charged conductor is
+A. maximum
+B. uniform
+C. zero
+D. infinite
+
+18. Electric field due to infinite plane sheet is
+A. inversely proportional to r
+B. inversely proportional to r²
+C. constant
+D. zero
+
+19. If charge is doubled, electric field becomes
+A. half
+B. double
+C. four times
+D. unchanged
+
+20. Number of electric field lines represents
+A. energy
+B. force
+C. charge magnitude
+D. potential
+
+🔹 LEVEL 2: MEDIUM (JEE Main) [21–40]
+
+21. Two equal charges are placed at distance r. If distance becomes 2r, force becomes
+A. F
+B. F/2
+C. F/4
+D. 4F
+
+22. Electric field at midpoint of equal like charges is
+A. zero
+B. maximum
+C. infinite
+D. depends on medium
+
+23. Dipole placed in uniform electric field experiences
+A. force only
+B. torque only
+C. force and torque
+D. neither
+
+24. Potential energy of dipole is minimum when
+A. θ = 180°
+B. θ = 90°
+C. θ = 0°
+D. θ = 45°
+
+25. Electric field on axial line of dipole varies as
+A. 1/r
+B. 1/r²
+C. 1/r³
+D. constant
+
+26. SI unit of electric flux is
+A. N/C
+B. N·m²/C
+C. J/C
+D. V
+
+27. Gauss law is most useful when charge distribution has
+A. random symmetry
+B. spherical symmetry
+C. no symmetry
+D. time dependence
+
+28. Electric field inside uniformly charged solid sphere varies as
+A. r
+B. 1/r
+C. r²
+D. constant
+
+29. Field due to infinite line charge depends on
+A. r²
+B. r
+C. 1/r
+D. constant
+
+30. Which quantity does NOT depend on medium?
+A. Charge
+B. Electric field
+C. Force
+D. Permittivity
+
+31. If test charge is doubled, electric field becomes
+A. half
+B. double
+C. unchanged
+D. zero
+
+32. Net flux through closed surface containing no charge is
+A. positive
+B. negative
+C. zero
+D. infinite
+
+33. In electrostatic equilibrium, charge resides
+A. throughout volume
+B. at center
+C. on surface
+D. uniformly everywhere
+
+34. Field just outside charged conductor is
+A. zero
+B. σ/ε₀
+C. σ/2ε₀
+D. kQ/r²
+
+35. Two charges +q and −q separated by d form
+A. monopole
+B. quadrupole
+C. dipole
+D. conductor
+
+36. Torque on dipole is maximum when
+A. θ = 0°
+B. θ = 30°
+C. θ = 90°
+D. θ = 180°
+
+37. Work done in moving charge in electrostatic field depends on
+A. path
+B. speed
+C. endpoints
+D. time
+
+38. Electric field lines terminate
+A. only on positive charges
+B. only on negative charges
+C. on charges or infinity
+D. nowhere
+
+39. Field inside spherical shell is zero because
+A. no charge inside
+B. cancellation by symmetry
+C. conductor property
+D. Newton’s law
+
+40. Which law leads to inverse square nature of force?
+A. Gauss law
+B. Coulomb law
+C. Newton’s law
+D. Conservation law
+
+🔹 LEVEL 3: JEE ADVANCED [41–60]
+
+41. Two charges +q and +4q are separated by distance d. Neutral point lies
+A. between charges closer to +q
+B. between charges closer to +4q
+C. outside nearer +q
+D. outside nearer +4q
+
+42. Electric field at center of uniformly charged ring is
+A. maximum
+B. zero
+C. infinite
+D. depends on radius
+
+43. Dipole in non-uniform field experiences
+A. force only
+B. torque only
+C. force and torque
+D. neither
+
+44. A charged conductor with cavity containing charge +q will have induced charge on cavity
+A. +q
+B. −q
+C. zero
+D. depends on shape
+
+45. Net flux through surface enclosing dipole is
+A. q/ε₀
+B. −q/ε₀
+C. zero
+D. infinite
+
+46. Electric field at a point due to two perpendicular equal fields E is
+A. E
+B. √2E
+C. 2E
+D. E/√2
+
+47. If Gaussian surface encloses multiple charges, flux depends on
+A. total charge only
+B. charge distribution
+C. shape of surface
+D. external charges
+
+48. Which configuration gives zero electric field but non-zero potential?
+A. single charge
+B. dipole at midpoint
+C. two equal like charges midpoint
+D. conductor
+
+49. For r ≫ d, electric dipole behaves like
+A. point charge
+B. monopole
+C. quadrupole
+D. higher order source
+
+50. Electric field due to arc of charge at center depends on
+A. length
+B. angle
+C. radius
+D. all of these
+
+51. In a conductor with sharp edge, surface charge density is
+A. uniform
+B. zero
+C. maximum
+D. minimum
+
+52. Which law breaks if force is not inverse square?
+A. Coulomb
+B. Gauss
+C. Newton
+D. Faraday
+
+53. Electric field at origin due to symmetric charge distribution is zero due to
+A. zero charge
+B. Gauss law
+C. vector cancellation
+D. scalar nature
+
+54. A dipole oscillates in uniform field. Motion is
+A. circular
+B. SHM
+C. UCM
+D. random
+
+55. Field inside cavity of conductor (no charge inside) is
+A. zero
+B. uniform
+C. infinite
+D. non-zero
+
+56. If ε₀ increases, Coulomb force
+A. increases
+B. decreases
+C. unchanged
+D. becomes zero
+
+57. Electric field due to finite rod on perpendicular bisector is
+A. zero
+B. along rod
+C. perpendicular to rod
+D. random
+
+58. Two Gaussian surfaces enclosing same charge give
+A. same flux
+B. different flux
+C. zero flux
+D. infinite flux
+
+59. Electric field at surface of charged conductor is
+A. tangential
+B. zero
+C. perpendicular
+D. parallel
+
+60. Which topic is MOST tested in JEE Advanced?
+A. Definitions
+B. Numerical values
+C. Symmetry + Gauss law
+D. Memorization

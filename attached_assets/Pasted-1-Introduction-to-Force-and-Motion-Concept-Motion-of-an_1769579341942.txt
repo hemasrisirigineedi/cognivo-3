@@ -1,0 +1,450 @@
+1️⃣ Introduction to Force and Motion
+Concept
+
+Motion of an object changes only when a force acts on it.
+
+Force can:
+
+Change speed
+
+Change direction
+
+Change shape
+
+Start or stop motion
+
+Example
+
+Kicking a football makes it move
+
+Applying brakes stops a moving car
+
+2️⃣ Force
+Definition
+
+A force is a push or a pull that can change the state of motion or shape of an object.
+
+SI Unit
+
+Newton (N)
+
+Example
+
+Pushing a door to open it
+
+Pulling a drawer
+
+3️⃣ Balanced and Unbalanced Forces
+Balanced Forces
+
+Forces that cancel each other → no change in motion
+
+Unbalanced Forces
+
+Forces that do not cancel → motion changes
+
+Example
+
+Tug of war with equal force → rope doesn’t move (balanced)
+
+One team stronger → rope moves (unbalanced)
+
+4️⃣ Newton’s First Law of Motion (Law of Inertia)
+Statement
+
+An object remains at rest or in uniform motion unless acted upon by an external unbalanced force.
+
+Inertia
+
+The tendency of an object to resist change in its state of motion.
+
+Types of inertia:
+
+Inertia of rest
+
+Inertia of motion
+
+Inertia of direction
+
+Example
+
+Passengers jerk backward when a bus starts suddenly
+
+Passengers jerk forward when a bus stops suddenly
+
+5️⃣ Momentum
+Definition
+
+Momentum is the quantity of motion of a body.
+
+Momentum (p)
+=
+𝑚
+×
+𝑣
+Momentum (p)=m×v
+
+Where:
+
+m = mass
+
+v = velocity
+
+SI Unit
+
+kg·m/s
+
+Example
+
+A moving truck has more momentum than a moving bicycle at same speed
+
+6️⃣ Newton’s Second Law of Motion
+Statement
+
+The rate of change of momentum of a body is directly proportional to the applied force and takes place in the direction of the force.
+
+Mathematical Form
+𝐹
+=
+𝑚
+𝑎
+F=ma
+
+Where:
+
+F = force
+
+m = mass
+
+a = acceleration
+
+Example
+
+Kicking a light ball → large acceleration
+
+Kicking a heavy ball → small acceleration
+
+7️⃣ Impulse
+Definition
+
+Impulse is the product of force and time.
+
+Impulse
+=
+𝐹
+×
+𝑡
+Impulse=F×t
+
+Impulse = Change in momentum
+
+Example
+
+A batsman moves hands backward while catching the ball to increase time and reduce force
+
+8️⃣ Newton’s Third Law of Motion
+Statement
+
+For every action, there is an equal and opposite reaction.
+
+Important Points
+
+Action and reaction act on different bodies
+
+They are equal in magnitude and opposite in direction
+
+Example
+
+Walking: foot pushes ground backward, ground pushes foot forward
+
+Rocket propulsion
+
+9️⃣ Conservation of Momentum
+Principle
+
+If no external force acts on a system, total momentum remains constant.
+
+𝑚
+1
+𝑢
+1
++
+𝑚
+2
+𝑢
+2
+=
+𝑚
+1
+𝑣
+1
++
+𝑚
+2
+𝑣
+2
+m
+1
+	​
+
+u
+1
+	​
+
++m
+2
+	​
+
+u
+2
+	​
+
+=m
+1
+	​
+
+v
+1
+	​
+
++m
+2
+	​
+
+v
+2
+	​
+
+Example
+
+Gun recoils backward when bullet is fired
+
+Explosion of a bomb at rest
+
+🔟 Equilibrium of a Particle
+Concept
+
+When net force on an object is zero, it is in equilibrium.
+
+Conditions:
+
+At rest
+
+Or moving with constant velocity
+
+Example
+
+A book resting on a table:
+
+Gravity downward
+
+Normal force upward
+
+Net force = 0
+
+1️⃣1️⃣ Common Forces in Mechanics
+(a) Gravitational Force
+
+Force due to Earth’s gravity.
+
+𝐹
+=
+𝑚
+𝑔
+F=mg
+Example
+
+Apple falling from a tree
+
+(b) Normal Force
+
+Force exerted by a surface perpendicular to contact.
+
+Example
+
+Table pushing upward on a book
+
+(c) Tension
+
+Force transmitted through a string or rope.
+
+Example
+
+Pulling a bucket from a well
+
+(d) Friction
+Definition
+
+Friction is the force that opposes relative motion between surfaces in contact.
+
+Types:
+
+Static friction
+
+Kinetic friction
+
+Rolling friction
+
+Example
+
+Walking possible due to friction
+
+Brakes work due to friction
+
+1️⃣2️⃣ Static and Kinetic Friction
+Static Friction
+
+Acts when body is at rest.
+
+𝑓
+𝑠
+≤
+𝜇
+𝑠
+𝑁
+f
+s
+	​
+
+≤μ
+s
+	​
+
+N
+Kinetic Friction
+
+Acts when body is moving.
+
+𝑓
+𝑘
+=
+𝜇
+𝑘
+𝑁
+f
+k
+	​
+
+=μ
+k
+	​
+
+N
+
+Where:
+
+μ = coefficient of friction
+
+N = normal force
+
+Example
+
+Pushing a heavy box:
+
+First difficult → static friction
+
+Once moving → kinetic friction
+
+1️⃣3️⃣ Rolling Friction
+Concept
+
+Friction when an object rolls over a surface.
+
+📌 Much smaller than sliding friction.
+
+Example
+
+Using wheels to move luggage
+
+1️⃣4️⃣ Circular Motion and Centripetal Force
+Concept
+
+An object moving in a circle needs a force towards the centre.
+
+𝐹
+𝑐
+=
+𝑚
+𝑣
+2
+𝑟
+F
+c
+	​
+
+=
+r
+mv
+2
+	​
+
+Example
+
+Stone tied to a string in circular motion
+
+Car taking a curved turn
+
+1️⃣5️⃣ Pseudo Force (Non-Inertial Frame)
+Concept
+
+When observed from an accelerating frame, an imaginary force appears.
+
+Example
+
+When a bus accelerates forward, passengers feel pushed backward.
+
+1️⃣6️⃣ Free Body Diagram (FBD)
+Definition
+
+A diagram showing all forces acting on a body.
+
+Example
+
+Book on table:
+
+Weight downward
+
+Normal force upward
+
+✅ Formula Summary (Quick Revision)
+
+Momentum: 
+𝑝
+=
+𝑚
+𝑣
+p=mv
+
+Newton’s Second Law: 
+𝐹
+=
+𝑚
+𝑎
+F=ma
+
+Impulse: 
+𝐽
+=
+𝐹
+𝑡
+J=Ft
+
+Friction: 
+𝑓
+=
+𝜇
+𝑁
+f=μN
+
+Centripetal force: 
+𝐹
+=
+𝑚
+𝑣
+2
+𝑟
+F=
+r
+mv
+2
+	​

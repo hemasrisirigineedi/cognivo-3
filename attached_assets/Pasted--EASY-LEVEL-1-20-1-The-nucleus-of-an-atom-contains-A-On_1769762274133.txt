@@ -1,0 +1,367 @@
+.
+
+🟢 EASY LEVEL (1–20)
+
+1. The nucleus of an atom contains
+A. Only electrons
+B. Protons and electrons
+C. Protons and neutrons
+D. Neutrons and electrons
+
+2. Atomic number represents the number of
+A. Neutrons
+B. Nucleons
+C. Protons
+D. Electrons + protons
+
+3. Mass number of a nucleus is
+A. Z
+B. N
+C. Z − N
+D. Z + N
+
+4. Nuclear radius varies with mass number as
+A. A
+B. A²
+C. A¹ᐟ³
+D. A⁻¹ᐟ³
+
+5. Unit of nuclear radius is
+A. nm
+B. Å
+C. fm
+D. mm
+
+6. Nuclear density is
+A. Different for each nucleus
+B. Maximum for heavy nuclei
+C. Nearly constant for all nuclei
+D. Zero for light nuclei
+
+7. Binding energy is due to
+A. Coulomb force
+B. Gravitational force
+C. Strong nuclear force
+D. Weak force
+
+8. Binding energy per nucleon is maximum for
+A. Hydrogen
+B. Helium
+C. Iron
+D. Uranium
+
+9. Most stable nucleus is
+A. Uranium-238
+B. Carbon-12
+C. Iron-56
+D. Hydrogen-1
+
+10. Mass defect is
+A. Actual mass of nucleus
+B. Difference between atomic and nuclear mass
+C. Difference between sum of nucleon masses and nucleus mass
+D. Zero for stable nuclei
+
+11. Energy equivalent of mass defect is
+A. Δm/c²
+B. Δmc²
+C. mc²
+D. Δm
+
+12. SI unit of binding energy is
+A. Joule
+B. eV
+C. MeV
+D. Both A and C
+
+13. Alpha particle is
+A. Electron
+B. Proton
+C. Helium nucleus
+D. Photon
+
+14. In alpha decay, mass number decreases by
+A. 1
+B. 2
+C. 3
+D. 4
+
+15. In alpha decay, atomic number decreases by
+A. 1
+B. 2
+C. 3
+D. 4
+
+16. Gamma rays are
+A. Charged particles
+B. Neutrons
+C. High-energy photons
+D. Helium nuclei
+
+17. Gamma decay changes
+A. Only Z
+B. Only A
+C. Both A and Z
+D. Neither A nor Z
+
+18. Radioactivity is a
+A. Chemical process
+B. Induced process
+C. Random process
+D. Controlled process
+
+19. SI unit of activity is
+A. Curie
+B. Becquerel
+C. Gray
+D. Sievert
+
+20. One becquerel equals
+A. 1 decay/sec
+B. 1 decay/min
+C. 1 decay/hour
+D. 1 decay/day
+
+🟡 MEDIUM LEVEL (21–40)
+
+21. Half-life of a radioactive substance depends on
+A. Temperature
+B. Pressure
+C. Decay constant
+D. Chemical state
+
+22. Mean life τ is given by
+A. 1/λ
+B. 0.693/λ
+C. λ
+D. lnλ
+
+23. Relation between mean life and half-life is
+A. τ = T₁/₂
+B. τ = 2T₁/₂
+C. τ = T₁/₂ / 0.693
+D. τ = 0.693T₁/₂
+
+24. Decay law is
+A. Linear
+B. Quadratic
+C. Exponential
+D. Logarithmic
+
+25. Number of undecayed nuclei after time t is
+A. N₀ + λt
+B. N₀e⁻λt
+C. N₀t
+D. λN₀
+
+26. In β⁻ decay, a neutron converts into
+A. Proton only
+B. Proton + electron
+C. Proton + electron + antineutrino
+D. Proton + positron
+
+27. In β⁻ decay, atomic number
+A. Decreases by 1
+B. Increases by 1
+C. Remains same
+D. Becomes zero
+
+28. In β⁺ decay, a proton converts into
+A. Neutron + positron + neutrino
+B. Neutron + electron
+C. Proton + photon
+D. Neutron only
+
+29. Continuous beta spectrum proves existence of
+A. Proton
+B. Neutron
+C. Neutrino
+D. Photon
+
+30. Nuclear force is
+A. Long range
+B. Repulsive only
+C. Charge independent
+D. Weak
+
+31. Nuclear force is strongest among
+A. Gravitational
+B. Electromagnetic
+C. Weak
+D. Strong nuclear
+
+32. Nuclear force is effective up to
+A. Atomic distances
+B. Few femtometres
+C. Macroscopic distances
+D. Infinite range
+
+33. Isotopes have same
+A. Mass number
+B. Neutron number
+C. Atomic number
+D. Nuclear radius
+
+34. Isobars have same
+A. Z
+B. N
+C. A
+D. Radius
+
+35. Isotones have same
+A. Protons
+B. Neutrons
+C. Electrons
+D. Mass
+
+36. Energy released in nuclear fission is mainly due to
+A. Loss of electrons
+B. Decrease in binding energy
+C. Increase in binding energy per nucleon
+D. Increase in mass
+
+37. Heavy nuclei undergo fission because
+A. Coulomb force dominates
+B. Nuclear force dominates
+C. Binding energy per nucleon decreases
+D. Mass is high
+
+38. Light nuclei undergo fusion because
+A. Binding energy per nucleon increases
+B. Temperature is low
+C. Mass increases
+D. Density decreases
+
+39. Energy source of stars is
+A. Fission
+B. Fusion
+C. Radioactivity
+D. Chemical reaction
+
+40. Fusion requires high temperature because
+A. To increase neutron speed
+B. To overcome Coulomb repulsion
+C. To ionize atoms
+D. To emit gamma rays
+
+🔴 JEE MAIN → JEE ADV LEVEL (41–60)
+
+41. Q-value of nuclear reaction is
+A. Final energy
+B. Initial energy
+C. Difference between initial and final mass-energy
+D. Binding energy
+
+42. Reaction is exothermic if
+A. Q < 0
+B. Q = 0
+C. Q > 0
+D. Q = ∞
+
+43. Nuclear fission chain reaction is controlled using
+A. Moderator
+B. Control rods
+C. Coolant
+D. Shield
+
+44. Control rods are made of
+A. Graphite
+B. Heavy water
+C. Cadmium or boron
+D. Uranium
+
+45. Moderator slows down neutrons by
+A. Absorbing them
+B. Increasing their mass
+C. Elastic collisions
+D. Heating them
+
+46. Critical mass is
+A. Maximum mass
+B. Minimum mass for sustained reaction
+C. Mass of moderator
+D. Mass of control rod
+
+47. In a nuclear reactor, value of multiplication factor k is
+A. < 1
+B. = 1
+C. > 1
+D. Infinite
+
+48. In atomic bomb, k is
+A. < 1
+B. = 1
+C. > 1
+D. = 0
+
+49. Free neutron is unstable because
+A. It emits alpha particles
+B. It undergoes beta decay
+C. It fissions
+D. It emits gamma rays
+
+50. Decay of free neutron produces
+A. Proton only
+B. Proton + electron + antineutrino
+C. Proton + positron
+D. Neutron + photon
+
+51. Nuclear density depends on
+A. Mass number
+B. Atomic number
+C. Type of nucleus
+D. None of these
+
+52. Energy released per nucleon is higher in
+A. Fission
+B. Fusion
+C. Both equal
+D. Chemical reactions
+
+53. Binding energy per nucleon curve explains
+A. Alpha decay only
+B. Beta decay only
+C. Fission and fusion
+D. Gamma decay
+
+54. Most penetrating radiation is
+A. Alpha
+B. Beta
+C. Gamma
+D. Neutron
+
+55. Most ionizing radiation is
+A. Alpha
+B. Beta
+C. Gamma
+D. X-ray
+
+56. Curie is equal to
+A. 1 decay/sec
+B. 10⁶ decays/sec
+C. 3.7 × 10¹⁰ decays/sec
+D. 10¹⁰ decays/sec
+
+57. Half-life of a sample is independent of
+A. Number of nuclei
+B. Temperature
+C. Pressure
+D. All of these
+
+58. Fusion of hydrogen into helium releases energy because
+A. Mass increases
+B. Binding energy per nucleon decreases
+C. Binding energy per nucleon increases
+D. Density decreases
+
+59. Nuclear force is saturated means
+A. Acts over long range
+B. Each nucleon interacts with all others
+C. Each nucleon interacts with nearest neighbors
+D. Depends on charge
+
+60. Correct statement is
+A. Nuclear forces are repulsive
+B. Nuclear density varies with A
+C. Fusion releases energy in stars
+D. Gamma rays are charged

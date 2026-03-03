@@ -1,0 +1,609 @@
+Q1–Q20
+
+Mechanical properties of solids deal with:
+
+A) Electrical behavior
+
+B) Magnetic behavior
+
+C) Response to applied forces
+
+D) Chemical composition
+
+Deformation means:
+
+A) Change in mass
+
+B) Change in shape or size
+
+C) Change in temperature
+
+D) Change in color
+
+Stress is defined as:
+
+A) Force × area
+
+B) Force / area
+
+C) Area / force
+
+D) Force × displacement
+
+SI unit of stress is:
+
+A) N
+
+B) J
+
+C) N/m²
+
+D) kg
+
+Stress is a:
+
+A) Scalar
+
+B) Vector
+
+C) Tensor
+
+D) Dimensionless
+
+Which of the following is NOT a type of stress?
+
+A) Tensile
+
+B) Compressive
+
+C) Shear
+
+D) Thermal
+
+Strain is:
+
+A) Force per unit area
+
+B) Change in volume
+
+C) Ratio of change in dimension
+
+D) Work done
+
+SI unit of strain is:
+
+A) m
+
+B) N/m²
+
+C) No unit
+
+D) rad
+
+Longitudinal strain is given by:
+
+A) ΔV/V
+
+B) ΔL/L
+
+C) x/L
+
+D) F/A
+
+Shear strain is approximately equal to:
+
+A) sinθ
+
+B) cosθ
+
+C) tanθ
+
+D) θ (for small angles)
+
+Hooke’s law is valid:
+
+A) Always
+
+B) Up to elastic limit
+
+C) Only at yield point
+
+D) After fracture
+
+Stress is proportional to strain within:
+
+A) Yield region
+
+B) Plastic region
+
+C) Elastic limit
+
+D) Fracture point
+
+Young’s modulus is the ratio of:
+
+A) Stress/strain
+
+B) Strain/stress
+
+C) Force/area
+
+D) Area/force
+
+SI unit of Young’s modulus is:
+
+A) J
+
+B) N
+
+C) N/m²
+
+D) kg/m³
+
+A material with high Young’s modulus is:
+
+A) Easily stretchable
+
+B) Very elastic
+
+C) Very stiff
+
+D) Plastic
+
+Shear modulus is also called:
+
+A) Bulk modulus
+
+B) Young’s modulus
+
+C) Modulus of rigidity
+
+D) Modulus of elasticity
+
+Bulk modulus relates:
+
+A) Length change
+
+B) Shape change
+
+C) Volume change
+
+D) Area change
+
+Compressibility is the inverse of:
+
+A) Stress
+
+B) Strain
+
+C) Bulk modulus
+
+D) Young’s modulus
+
+Poisson’s ratio is:
+
+A) Longitudinal/lateral strain
+
+B) Lateral/longitudinal strain
+
+C) Stress/strain
+
+D) Volume/area
+
+Theoretical limits of Poisson’s ratio are:
+
+A) 0 to 1
+
+B) −1 to +1
+
+C) −1 to 0.5
+
+D) 0 to 0.5
+
+🟡 LEVEL 2: MEDIUM (Application-Based)
+
+Q21–Q40
+
+Stress is called internal because:
+
+A) Acts inside body
+
+B) Produced by external force
+
+C) Independent of force
+
+D) Always compressive
+
+A wire is stretched. Its volume:
+
+A) Increases
+
+B) Decreases
+
+C) Remains same
+
+D) Becomes zero
+
+Hooke’s law graph is valid till:
+
+A) Yield point
+
+B) Proportional limit
+
+C) Breaking point
+
+D) Plastic region
+
+Rubber has:
+
+A) High Young’s modulus
+
+B) Low Young’s modulus
+
+C) Zero elasticity
+
+D) No strain
+
+Which material is brittle?
+
+A) Steel
+
+B) Copper
+
+C) Rubber
+
+D) Glass
+
+A larger plastic region indicates:
+
+A) Brittle material
+
+B) Ductile material
+
+C) Elastic material
+
+D) Weak material
+
+Bulk modulus of gases is:
+
+A) Very high
+
+B) Very low
+
+C) Zero
+
+D) Infinite
+
+Poisson’s ratio of cork is nearly:
+
+A) 0
+
+B) 0.25
+
+C) 0.5
+
+D) 1
+
+Elastic potential energy stored in a wire is proportional to:
+
+A) Stress
+
+B) Strain
+
+C) Volume
+
+D) Stress × strain
+
+Energy stored per unit volume is called:
+
+A) Work
+
+B) Power
+
+C) Energy density
+
+D) Elasticity
+
+Relation between elastic constants is:
+
+A) Y = 2G(1 + σ)
+
+B) Y = G/σ
+
+C) Y = Bσ
+
+D) Y = σ/G
+
+A material obeys Hooke’s law if:
+
+A) Stress constant
+
+B) Strain constant
+
+C) Stress ∝ strain
+
+D) Force constant
+
+Which factor does NOT affect stress?
+
+A) Force
+
+B) Area
+
+C) Shape
+
+D) Direction of force
+
+Thermal stress is produced when:
+
+A) Body expands freely
+
+B) Expansion is prevented
+
+C) Temperature constant
+
+D) Force removed
+
+SI unit of bulk modulus is:
+
+A) kg/m³
+
+B) J
+
+C) N/m²
+
+D) m/s²
+
+A steel wire is stretched. Which increases?
+
+A) Length
+
+B) Diameter
+
+C) Volume only
+
+D) Mass
+
+Yield point represents:
+
+A) Elastic behavior
+
+B) Maximum stress
+
+C) Start of plastic deformation
+
+D) Fracture
+
+A beam is designed I-shaped to:
+
+A) Increase mass
+
+B) Reduce cost
+
+C) Increase bending resistance
+
+D) Reduce length
+
+Which material shows maximum elasticity?
+
+A) Rubber
+
+B) Steel
+
+C) Glass
+
+D) Clay
+
+Bulk modulus is highest for:
+
+A) Gases
+
+B) Liquids
+
+C) Solids
+
+D) Plasma
+
+🔴 LEVEL 3: TOUGH (JEE / NEET Oriented)
+
+Q41–Q60
+
+Stress-strain curve area represents:
+
+A) Power
+
+B) Work done
+
+C) Energy stored
+
+D) Strain energy per unit volume
+
+The slope of stress-strain curve in elastic region gives:
+
+A) Bulk modulus
+
+B) Shear modulus
+
+C) Young’s modulus
+
+D) Poisson’s ratio
+
+Which material has Poisson’s ratio ≈ 0.5?
+
+A) Steel
+
+B) Cork
+
+C) Rubber
+
+D) Glass
+
+A material breaks suddenly with little deformation is:
+
+A) Ductile
+
+B) Brittle
+
+C) Elastic
+
+D) Plastic
+
+When a wire is stretched, lateral strain is:
+
+A) Positive
+
+B) Negative
+
+C) Zero
+
+D) Infinite
+
+Young’s modulus depends on:
+
+A) Length
+
+B) Area
+
+C) Material
+
+D) Shape
+
+Energy stored in a stretched wire equals:
+
+A) FΔL
+
+B) ½FΔL
+
+C) FL
+
+D) F/L
+
+If stress doubles, strain becomes:
+
+A) Same
+
+B) Half
+
+C) Double
+
+D) Zero
+
+Thermal stress formula is:
+
+A) σ = YαΔT
+
+B) σ = αΔT
+
+C) σ = Y/αΔT
+
+D) σ = ΔT/Y
+
+Poisson’s ratio is negative because:
+
+A) Volume decreases
+
+B) Length increases
+
+C) Lateral strain opposite to longitudinal
+
+D) Stress decreases
+
+Elastic limit is:
+
+A) Same as proportional limit
+
+B) Greater than proportional limit
+
+C) Less than proportional limit
+
+D) Zero
+
+Which has minimum compressibility?
+
+A) Gas
+
+B) Liquid
+
+C) Solid
+
+D) Vacuum
+
+Breaking stress is:
+
+A) Stress at yield point
+
+B) Maximum stress
+
+C) Stress at fracture
+
+D) Stress in elastic region
+
+If Y increases, extension of wire:
+
+A) Increases
+
+B) Decreases
+
+C) Constant
+
+D) Becomes zero
+
+The SI unit of energy density is:
+
+A) J
+
+B) J/m³
+
+C) N
+
+D) N/m
+
+A wire obeys Hooke’s law if:
+
+A) Stress constant
+
+B) Strain constant
+
+C) Stress ∝ strain
+
+D) Force constant
+
+Which curve shows elastic behavior?
+
+A) Non-linear
+
+B) Straight line
+
+C) Zig-zag
+
+D) Circular
+
+Maximum stress on stress-strain curve is:
+
+A) Yield stress
+
+B) Elastic limit
+
+C) Ultimate tensile stress
+
+D) Breaking stress
+
+Volume strain is produced by:
+
+A) Tensile stress
+
+B) Shear stress
+
+C) Hydrostatic stress
+
+D) Bending stress
+
+Which constant relates lateral and longitudinal strain?
+
+A) Young’s modulus
+
+B) Shear modulus
+
+C) Poisson’s ratio
+
+D) Bulk modulus

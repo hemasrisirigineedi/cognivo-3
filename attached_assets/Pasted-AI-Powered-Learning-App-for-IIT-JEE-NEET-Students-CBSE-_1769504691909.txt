@@ -1,0 +1,326 @@
+AI-Powered Learning App for IIT-JEE & NEET Students
+(CBSE + NCERT Based, Chapter-wise Smart Learning Platform)
+1. Product Overview
+
+Build a full-stack AI-powered learning app for IIT-JEE (Main & Advanced) and NEET aspirants, based entirely on the official CBSE / NCERT syllabus.
+
+The app should function like NotebookLM, but instead of users uploading PDFs, all NCERT content is preloaded, structured, and continuously updated.
+
+The platform must provide:
+
+Chapter-wise NCERT content
+
+Key exam-focused highlights
+
+Video explanations
+
+Audio/podcast-style summaries
+
+Quizzes & flashcards
+
+AI chat support for doubt solving
+
+2. Target Users
+
+Class 11 & 12 students preparing for:
+
+JEE Main
+
+JEE Advanced
+
+NEET
+
+Students who want structured, exam-oriented learning, not random videos.
+
+3. Subjects & Exams Supported
+Exams
+
+IIT-JEE (Main & Advanced)
+
+NEET
+
+Subjects
+
+Physics
+
+Chemistry
+
+Mathematics (for JEE)
+
+Biology (for NEET)
+
+4. App Structure & Navigation
+4.1 Home Page (First Screen)
+
+The home page should display Subject-wise sections:
+
+Physics
+
+Chemistry
+
+Mathematics / Biology
+
+Each subject card should show:
+
+Progress percentage
+
+Number of chapters completed
+
+Quick access button
+
+4.2 Subject Page
+
+When a subject is opened, show:
+
+Complete chapter list based on NCERT syllabus
+
+Chapters grouped by:
+
+Class 11
+
+Class 12
+
+Chapter tags:
+
+High weightage
+
+Medium weightage
+
+Low weightage
+
+4.3 Chapter Page (Core Feature)
+
+Each chapter page must contain five main learning modules:
+
+5. Chapter-Level Features (MANDATORY)
+5.1 📖 NCERT Content (Preloaded)
+
+Full NCERT textbook content stored in the database
+
+Structured into:
+
+Concepts
+
+Definitions
+
+Formulas
+
+Diagrams (optional placeholders)
+
+Text must be:
+
+Accurate
+
+Updated
+
+Same wording as NCERT where required
+
+5.2 ⭐ Key Exam-Focused Highlights
+
+AI-generated important points
+
+High-frequency JEE/NEET exam concepts
+
+Formula sheets
+
+Common traps & mistakes
+
+NCERT line references (optional)
+
+5.3 🎥 Video Overview Section
+
+One short video overview per chapter
+
+Explains:
+
+Core concepts
+
+Exam relevance
+
+Typical question patterns
+
+Videos can be:
+
+Embedded (YouTube / hosted)
+
+Or AI-generated later
+
+Should be replaceable/editable from admin panel
+
+5.4 🧠 Quiz Module (MISSING — MUST BUILD)
+
+For each chapter, create a quiz system:
+
+Question types:
+
+MCQs
+
+Numerical-based
+
+Assertion–Reason (optional)
+
+Difficulty levels:
+
+Easy
+
+Medium
+
+Advanced
+
+Features:
+
+Timer
+
+Instant feedback
+
+Explanation after answer
+
+Score tracking
+
+Quiz content should be AI-generated based on NCERT + exam trends
+
+5.5 🃏 Flashcards (Already Implemented)
+
+Chapter-wise flashcards
+
+Includes:
+
+Definitions
+
+Formulas
+
+Reactions (Chemistry)
+
+Diagrams (text-based initially)
+
+Spaced repetition ready
+
+Editable and updatable
+
+5.6 🎧 Audio / Podcast Overview (MISSING — MUST BUILD)
+
+For each chapter:
+
+AI-generated audio explanation
+
+Style:
+
+Podcast-like
+
+Clear & conversational
+
+Duration:
+
+5–10 minutes
+
+Purpose:
+
+Revision
+
+Passive learning
+
+Can be generated using:
+
+Text-to-Speech from chapter summary
+
+5.7 🤖 AI Chat Support (Doubt Solver)
+
+Chapter-aware AI chatbot
+
+The AI must:
+
+Answer questions only from NCERT + stored content
+
+Explain step-by-step
+
+Give examples
+
+Chat context should be:
+
+Subject-specific
+
+Chapter-specific
+
+No hallucination or out-of-syllabus answers
+
+6. Content Management System (Admin Side)
+
+Admin should be able to:
+
+Add/update:
+
+Chapters
+
+NCERT content
+
+Videos
+
+Quiz questions
+
+Flashcards
+
+Mark chapters as:
+
+High priority
+
+Recently updated
+
+Update syllabus yearly (2026, 2027, etc.)
+
+7. AI Responsibilities
+
+AI should be used for:
+
+Generating:
+
+Chapter summaries
+
+Key exam points
+
+Quiz questions & explanations
+
+Flashcards
+
+Audio scripts
+
+AI chat for doubts (RAG-based using stored content)
+
+8. Technical Expectations (High-Level)
+
+Frontend:
+
+Mobile-first (React / React Native / Flutter)
+
+Backend:
+
+Structured content database (chapter → modules)
+
+AI:
+
+Retrieval-Augmented Generation (RAG)
+
+Chapter-level embeddings
+
+Scalable & modular architecture
+
+9. Core Goal
+
+Create a single trusted learning app where:
+
+Students don’t need PDFs
+
+Everything is NCERT-aligned
+
+Learning is:
+
+Structured
+
+Exam-oriented
+
+AI-assisted
+
+Multi-format (text, video, audio, quiz)
+
+10. Summary (One-Line)
+
+Build an AI-powered NCERT-based learning platform for JEE & NEET that provides chapter-wise content, videos, quizzes, flashcards, podcasts, and AI doubt-solving — all structured exactly as per the official syllabus.

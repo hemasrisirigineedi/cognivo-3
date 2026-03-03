@@ -1,0 +1,193 @@
+)
+
+🟢 EASY (1–20)
+
+1. SI unit of acceleration is
+A) m/s
+B) m/s²
+C) km/h²
+D) N
+
+2. Which of the following is a fundamental quantity?
+A) Force
+B) Velocity
+C) Mass
+D) Energy
+
+3. The SI unit of force is
+A) dyne
+B) joule
+C) newton
+D) watt
+
+4. Which of the following has the same unit as pressure?
+A) Force/area
+B) Energy/volume
+C) Both A and B
+D) Energy/area
+
+5. 1 nanometre equals
+A) 10⁻³ m
+B) 10⁻⁶ m
+C) 10⁻⁹ m
+D) 10⁻¹² m
+
+6. Which prefix represents 10⁶?
+A) kilo
+B) mega
+C) giga
+D) tera
+
+7. Significant figures in 0.00450 are
+A) 2
+B) 3
+C) 4
+D) 5
+
+8. Least count of a metre scale is
+A) 1 cm
+B) 1 mm
+C) 0.1 mm
+D) 0.01 mm
+
+9. Which quantity has unit kg m² s⁻²?
+A) Power
+B) Force
+C) Energy
+D) Pressure
+
+10. Which is NOT an SI base unit?
+A) Ampere
+B) Kelvin
+C) Joule
+D) Mole
+
+🟡 MEDIUM (21–40)
+
+21. Dimensions of velocity are
+A) [LT⁻¹]
+B) [LT⁻²]
+C) [MLT⁻¹]
+D) [M⁰L⁰T⁰]
+
+22. Which of the following is dimensionless?
+A) Strain
+B) Stress
+C) Pressure
+D) Force
+
+23. Dimensional formula of force is
+A) [MLT⁻¹]
+B) [ML²T⁻²]
+C) [MLT⁻²]
+D) [M⁰LT⁻²]
+
+24. Relative error in a measurement is
+A) Absolute error / true value
+B) Mean absolute error / mean value
+C) True value / measured value
+D) Measured value / true value
+
+25. Percentage error equals
+A) Relative error × 100
+B) Absolute error × 100
+C) Mean value × 100
+D) Error²
+
+26. Dimensions of Planck’s constant are
+A) [ML²T⁻¹]
+B) [ML²T⁻²]
+C) [MLT⁻¹]
+D) [M⁰L⁰T⁰]
+
+27. Which pair has same dimensions?
+A) Work and torque
+B) Force and pressure
+C) Power and energy
+D) Momentum and force
+
+28. Dimensional analysis CANNOT be used to
+A) Check correctness of equation
+B) Convert units
+C) Find numerical constants
+D) Deduce relations
+
+29. Order of magnitude of 6.2 × 10³ is
+A) 10³
+B) 10⁴
+C) 10²
+D) 10⁵
+
+30. Accuracy is related to
+A) Random error
+B) Systematic error
+C) Precision
+D) Least count
+
+🔴 HARD (JEE MAIN / ADV) (41–60)
+
+41. Dimensions of gravitational constant G are
+A) [M⁻¹L³T⁻²]
+B) [ML³T⁻²]
+C) [M⁻²L³T⁻²]
+D) [MLT⁻²]
+
+42. If Z = A²B³/C, then relative error in Z is
+A) ΔA/A + ΔB/B + ΔC/C
+B) 2ΔA/A + 3ΔB/B − ΔC/C
+C) 2ΔA/A + 3ΔB/B + ΔC/C
+D) ΔA/A + 3ΔB/B − 2ΔC/C
+
+43. Which quantity has same dimensions as angular momentum?
+A) Torque
+B) Work
+C) Planck’s constant
+D) Power
+
+44. Dimensional formula of pressure is
+A) [ML⁻¹T⁻²]
+B) [MLT⁻²]
+C) [M⁰LT⁻²]
+D) [M⁻¹L⁻¹T⁻²]
+
+45. The quantity measured most accurately is
+A) Length
+B) Time
+C) Mass
+D) Current
+
+46. Which has infinite significant figures?
+A) 2π
+B) 3.14
+C) 100
+D) 1.00
+
+47. If x = at² + bt, dimensions of a are
+A) [LT⁻¹]
+B) [LT⁻²]
+C) [T⁻¹]
+D) [L]
+
+48. Which one cannot be found using dimensional analysis?
+A) T ∝ √(l/g)
+B) T = 2π√(l/g)
+C) Relation between variables
+D) Checking equation
+
+49. Which instrument has the smallest least count?
+A) Metre scale
+B) Vernier calipers
+C) Screw gauge
+D) Measuring tape
+
+50. Dimensions of surface tension are
+A) [MT⁻²]
+B) [MLT⁻²]
+C) [ML²T⁻²]
+D) [M⁰T⁻²]
+
+✅ ANSWER KEY
+
+1-B, 2-C, 3-C, 4-C, 5-C, 6-B, 7-C, 8-B, 9-C, 10-C
+21-A, 22-A, 23-C, 24-B, 25-A, 26-A, 27-A, 28-C, 29-B, 30-B
+41-A, 42-B, 43-C, 44-A, 45-B, 46-A, 47-B, 48-B, 49-C, 50-A

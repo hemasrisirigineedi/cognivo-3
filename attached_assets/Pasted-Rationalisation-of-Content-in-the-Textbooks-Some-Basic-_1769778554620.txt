@@ -1,0 +1,136 @@
+Rationalisation of Content in the Textbooks 
+Some Basic Concepts of Chemistry 
+1.1 Importance of Chemistry 
+1.2 Nature of Matter 
+1.3 Properties of Matter and their Measurement 
+1.4 Uncertainty in Measurement 
+1.5 Laws of Chemical Combinations 
+1.6 Dalton’s Atomic Theory 
+1.7 Atomic and Molecular Masses 
+1.8 Mole Concept and Molar Masses 
+1.9 Percentage Composition 
+1.10 Stoichiometry and Stoichiometric Calculations 
+Structure of Atom 
+2.1 Discovery of Sub-atomic Particles 
+2.2 Atomic Models 
+2.3 Developments Leading to the Bohr’s Model of Atom 
+2.4 Bohr’s Model for Hydrogen Atom 
+2.5 Towards Quantum Mechanical Model of the Atom 
+2.6 Quantum Mechanical Model of Atom 
+Classification of Elements and Periodicity in Properties 
+3.1 Why do we Need to Classify Elements ? 
+3.2 Genesis of Periodic Classification 
+3.3 Modern Periodic Law and the Present Form of the Periodic Table 
+3.4 Nomenclature of Elements with Atomic Numbers > 100 
+3.5 Electronic Configurations of Elements and the Periodic Table 
+iii
+v
+1
+4
+4
+6
+10
+14
+16
+16
+18
+18
+20
+29
+30
+32
+37
+46
+49
+53
+74
+74
+75
+78
+78
+81
+Reprint 2025-26
+10
+Unit 4 
+Unit 5 
+Unit 6 
+(x)
+3.6 Electronic Configurations and Types of Elements: 
+s-, p-, d-, f- Blocks
+3.7 Periodic Trends in Properties of Elements 
+Chemical Bonding and Molecular Structure 
+4.1 Kössel-Lewis Approach to Chemical Bonding  
+4.2 Ionic or Electrovalent Bond  
+4.3 Bond Parameters 
+4.4 The Valence Shell Electron Pair Repulsion (VSEPR) Theory 
+4.5 Valence Bond Theory 
+4.6 Hybridisation  
+4.7 Molecular Orbital Theory  
+4.8 Bonding in Some Homonuclear Diatomic Molecules 
+4.9 Hydrogen Bonding  
+Thermodynamics 
+5.1 Thermodynamic Terms 
+5.2 Applications 
+5.3 Measurement of ∆U and ∆H: Calorimetry 
+5.4 Enthalpy Change, ∆rH of a Reaction – Reaction Enthalpy 
+5.5 Enthalpies for Different Types of Reactions 
+5.6 Spontaneity 
+5.7 Gibbs Energy Change and Equilibrium 
+Equilibrium 
+6.1 Equilibrium in Physical Processes 
+6.2 Equilibrium in Chemical Processes – Dynamic Equilibrium 
+6.3 Law of Chemical Equilibrium and Equilibrium Constant 
+6.4 Homogeneous Equilibria 
+6.5 Heterogeneous Equilibria 
+6.6 Applications of Equilibrium Constants 
+6.7 Relationship between Equilibrium Constant K,  
+Reaction Quotient Q and Gibbs Energy G
+chemistry
+82
+85
+100
+101
+106
+107
+112
+117
+120
+125
+129
+131
+136
+137
+140
+145
+146
+152
+157
+162
+168
+169
+172
+174
+177
+179
+181
+184
+Reprint 2025-26
+answers
+(xi)
+6.8 Factors Affecting Equilibria 
+6.9 Ionic Equilibrium in Solution 
+6.10 Acids, Bases and Salts 
+6.11 Ionization of Acids and Bases 
+6.12 Buffer Solutions 
+6.13 Solubility Equilibria of Sparingly Soluble Salts 
+Appendices 
+Answer to Some Selected Problems 
+11
+184
+188
+189
+192
+202
+204
+215
+229

@@ -1,0 +1,488 @@
+60 MCQs (JEE Main → JEE Advanced)
+A. Easy / Foundation (1–20)
+
+Carbon forms long chains mainly due to
+A) high electronegativity
+B) catenation
+C) large size
+D) ionic bonding
+
+Hybridization of carbon in CH₄ is
+A) sp
+B) sp²
+C) sp³
+D) dsp²
+
+Number of σ and π bonds in C₂H₄ are
+A) 5σ, 1π
+B) 4σ, 2π
+C) 6σ, 1π
+D) 5σ, 2π
+
+Bond angle in sp² hybridized carbon is
+A) 180°
+B) 120°
+C) 109.5°
+D) 90°
+
+Which has maximum C–C bond strength?
+A) C–C
+B) C=C
+C) C≡C
+D) All equal
+
+Functional group of aldehyde is
+A) –CO–
+B) –CHO
+C) –COOH
+D) –OH
+
+General formula of alkanes is
+A) CₙH₂ₙ
+B) CₙH₂ₙ₊₂
+C) CₙH₂ₙ₋₂
+D) CₙHₙ
+
+Number of isomers of C₄H₁₀ is
+A) 1
+B) 2
+C) 3
+D) 4
+
+Which is NOT an electrophile?
+A) NO₂⁺
+B) BF₃
+C) OH⁻
+D) R⁺
+
+Which effect is permanent?
+A) Resonance
+B) Inductive
+C) Electromeric
+D) Hyperconjugation
+
+Strongest −I group is
+A) −Cl
+B) −CN
+C) −NO₂
+D) −OH
+
+Which is nucleophilic but weakly basic?
+A) OH⁻
+B) NH₃
+C) I⁻
+D) RO⁻
+
+Which compound shows metamerism?
+A) Alcohol
+B) Ether
+C) Aldehyde
+D) Alkane
+
+Free radicals are formed by
+A) heterolysis
+B) homolysis
+C) resonance
+D) induction
+
+Which carbon is chiral?
+A) CH₄
+B) CH₃Cl
+C) CHClBrI
+D) C₂H₄
+
+Bond-line formula does NOT show
+A) carbon atoms
+B) heteroatoms
+C) hydrogen atoms on carbon
+D) functional groups
+
+Which has maximum resonance energy?
+A) cyclohexane
+B) benzene
+C) cyclobutadiene
+D) ethene
+
+Optical activity requires
+A) plane of symmetry
+B) center of symmetry
+C) chirality
+D) conjugation
+
+Which is NOT a purification method?
+A) Sublimation
+B) Distillation
+C) Chromatography
+D) Neutralization
+
+Which gives white ppt soluble in NH₃?
+A) AgBr
+B) AgI
+C) AgCl
+D) AgF
+
+B. Medium / JEE Main (21–40)
+
+Correct order of carbocation stability is
+A) 1° > 2° > 3°
+B) 3° > 2° > 1°
+C) CH₃⁺ > 1° > 2°
+D) Allyl < 3°
+
+Carbanion stability increases with
+A) +I effect
+B) −I effect
+C) hyperconjugation
+D) alkyl substitution
+
+Number of π bonds in benzene is
+A) 3
+B) 6
+C) 9
+D) 12
+
+Which group shows +R effect?
+A) −NO₂
+B) −CN
+C) −OH
+D) −CHO
+
+Degree of unsaturation of C₆H₆ is
+A) 2
+B) 3
+C) 4
+D) 5
+
+Which solvent increases nucleophilicity of F⁻?
+A) water
+B) alcohol
+C) DMSO
+D) acetic acid
+
+Which is optically inactive?
+A) enantiomer
+B) diastereomer
+C) meso compound
+D) chiral compound
+
+Which effect stabilizes free radicals?
+A) −I
+B) +I
+C) hyperconjugation
+D) steric hindrance
+
+Keto–enol tautomerism is an example of
+A) structural isomerism
+B) stereoisomerism
+C) functional isomerism
+D) dynamic equilibrium
+
+Which is strongest base in aqueous medium?
+A) NH₃
+B) CH₃NH₂
+C) (CH₃)₂NH
+D) (CH₃)₃N
+
+Which reaction intermediate is planar?
+A) carbanion
+B) carbocation
+C) alkoxide
+D) amide ion
+
+Which bond is shortest?
+A) C–C
+B) C=C
+C) C≡C
+D) all equal
+
+Rf value is used in
+A) distillation
+B) crystallization
+C) chromatography
+D) sublimation
+
+Which rearrangement is fastest?
+A) methyl shift
+B) hydride shift
+C) phenyl shift
+D) ethyl shift
+
+Which increases acidity most?
+A) +I
+B) +R
+C) −I
+D) steric effect
+
+Number of stereoisomers of 2,3-dibromobutane is
+A) 2
+B) 3
+C) 4
+D) 5
+
+Which compound shows E–Z isomerism?
+A) propene
+B) but-1-ene
+C) but-2-ene
+D) ethene
+
+Which is NOT aromatic?
+A) benzene
+B) cyclopropenyl cation
+C) cyclobutadiene
+D) tropylium ion
+
+Which intermediate is most reactive?
+A) carbocation
+B) free radical
+C) carbanion
+D) carbene
+
+Which test detects nitrogen?
+A) AgNO₃
+B) Lassaigne’s
+C) Beilstein
+D) Tollens
+
+C. Tough / JEE Advanced (41–60)
+
+Which is more stable?
+A) 3° carbocation
+B) benzyl carbocation
+C) allyl carbocation
+D) methyl carbocation
+
+Which effect dominates acidity in benzoic acid?
+A) +I
+B) −I
+C) +R
+D) −R
+
+Which carbon is sp hybridized?
+A) CH₄
+B) C₂H₄
+C) C₂H₂
+D) C₆H₆
+
+Maximum hyperconjugative structures in
+A) CH₃⁺
+B) C₂H₅⁺
+C) (CH₃)₂CH⁺
+D) (CH₃)₃C⁺
+
+Which is least basic?
+A) aniline
+B) NH₃
+C) CH₃NH₂
+D) (CH₃)₂NH
+
+Which reaction shows disproportionation?
+A) alkane combustion
+B) ozonolysis
+C) peroxide decomposition
+D) hydrogenation
+
+Which pair are enantiomers?
+A) cis–trans
+B) mirror images (non-superimposable)
+C) positional isomers
+D) functional isomers
+
+Which increases nucleophilicity but not basicity?
+A) steric bulk
+B) resonance
+C) solvent polarity
+D) temperature
+
+Which has zero dipole moment?
+A) NH₃
+B) CO₂
+C) CH₃Cl
+D) H₂O
+
+Which is NOT a carbocation stabilizer?
+A) hyperconjugation
+B) +I effect
+C) resonance
+D) −I effect
+
+Which bond breaks in SN1 first?
+A) C–H
+B) C–X
+C) C–C
+D) X–H
+
+Which species has vacant p-orbital?
+A) carbanion
+B) free radical
+C) carbocation
+D) alkoxide
+
+Number of structural isomers of C₅H₁₂ is
+A) 2
+B) 3
+C) 4
+D) 5
+
+Which group withdraws electrons by resonance?
+A) −OH
+B) −OR
+C) −NH₂
+D) −NO₂
+
+Which is more acidic?
+A) phenol
+B) ethanol
+C) methanol
+D) tert-butanol
+
+Which is least stable?
+A) CH₃⁺
+B) CH₃•
+C) CH₃⁻
+D) all equal
+
+Which carbon shows maximum s-character?
+A) sp³
+B) sp²
+C) sp
+D) dsp²
+
+Which is NOT true about resonance?
+A) lowers energy
+B) actual structure is hybrid
+C) atoms move
+D) electrons delocalize
+
+Which reaction involves carbene?
+A) Wurtz
+B) Reimer–Tiemann
+C) Kolbe
+D) Sandmeyer
+
+Which factor does NOT affect nucleophilicity?
+A) solvent
+B) steric hindrance
+C) charge
+D) bond angle
+
+2️⃣ Mechanism-Based MCQs (Arrow-Pushing Focus)
+
+First step of SN1 is
+A) nucleophile attack
+B) carbocation formation
+C) proton transfer
+D) rearrangement
+
+Curved arrow always shows movement of
+A) atoms
+B) protons
+C) electrons
+D) molecules
+
+In electrophilic addition, π bond acts as
+A) electrophile
+B) nucleophile
+C) radical
+D) base
+
+Rearrangement occurs to form
+A) less stable ion
+B) more stable ion
+C) neutral molecule
+D) radical
+
+Carbocation rearrangement occurs via
+A) bond fission
+B) hydride/methyl shift
+C) elimination
+D) oxidation
+
+SN2 reaction is
+A) one-step
+B) two-step
+C) radical
+D) rearranged
+
+Backside attack leads to
+A) retention
+B) inversion
+C) racemization
+D) elimination
+
+Carbene has
+A) + charge
+B) − charge
+C) two nonbonded electrons
+D) octet
+
+Free radical chain reaction starts with
+A) propagation
+B) initiation
+C) termination
+D) rearrangement
+
+Rate of SN1 depends on
+A) nucleophile
+B) solvent only
+C) substrate only
+D) base
+
+3️⃣ Assertion–Reason (JEE Style)
+
+For each:
+A = both true, R explains
+B = both true, R not explanation
+C = A true, R false
+D = A false, R true
+
+A: Benzyl carbocation is more stable than 3°
+R: It is resonance stabilized
+
+A: Carbanions are stabilized by −I groups
+R: Electron withdrawal reduces negative charge
+
+A: SN1 reactions show racemization
+R: Carbocation is planar
+
+A: Hyperconjugation requires C–H bond
+R: σ electrons donate to vacant orbital
+
+A: Resonance lowers energy
+R: Actual molecule is hybrid
+
+A: F⁻ is strongest nucleophile in protic solvent
+R: Small size increases solvation
+
+A: Meso compounds are optically inactive
+R: They have plane of symmetry
+
+A: Carbocations are sp² hybridized
+R: They have empty p-orbital
+
+A: More substituted alkene is more stable
+R: Hyperconjugation stabilizes
+
+A: Bond length decreases with bond order
+R: Electron density increases
+
+5️⃣ Trap-Based JEE Questions (VERY IMPORTANT)
+
+Strong base ≠ strong nucleophile → WHY?
+
+Allyl carbocation > 3° carbocation → WHY?
+
+Why tertiary amine is weaker base than secondary in water?
+
+Why −NO₂ increases acidity more than −Cl?
+
+Why carbanion stability order is reverse of carbocation?
+
+Why resonance dominates over inductive?
+
+Why SN1 favored in polar protic solvent?
+
+Why benzene does NOT show addition reactions?
+
+Why hyperconjugation called “no-bond resonance”?
+
+Why optical inactivity doesn’t mean achiral always?

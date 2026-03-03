@@ -1,0 +1,564 @@
+ADD-ONS YOU MUST ADD (Very Important)
+1️⃣ Bar Magnet as Equivalent Solenoid ⭐
+
+Add this explicitly:
+
+A bar magnet behaves like a short solenoid
+
+Magnetic moment of solenoid:
+
+𝑀
+=
+𝑁
+𝐼
+𝐴
+M=NIA
+
+Field at axial point of solenoid ≈ field of bar magnet
+
+Helps in:
+
+Conceptual questions
+
+Assertion–Reason
+
+JEE numericals
+
+👉 VERY frequently asked
+
+2️⃣ Magnetic Moment of Earth 🌍 (Numerical form)
+
+Add:
+
+Earth’s magnetic moment:
+
+𝑀
+𝐸
+≈
+8
+×
+10
+22
+ 
+A
+\cdotp
+m
+2
+M
+E
+	​
+
+≈8×10
+22
+A\cdotpm
+2
+
+Earth’s field strength:
+
+𝐵
+≈
+4
+×
+10
+−
+5
+ 
+T
+B≈4×10
+−5
+T
+3️⃣ Neutral Points (Board favorite) ⭐⭐
+
+Add:
+
+Neutral point: Point where net magnetic field = 0
+
+Occur due to:
+
+Bar magnet + Earth’s field
+
+Types:
+
+End-on position
+
+Broad-side position
+
+Asked in:
+
+Diagrams
+
+2–3 mark theory questions
+
+4️⃣ Magnetic Field Inside Material (IMPORTANT relation)
+
+Add clearly:
+
+𝐵
+⃗
+=
+𝜇
+0
+(
+𝐻
+⃗
++
+𝑀
+⃗
+)
+B
+=μ
+0
+	​
+
+(
+H
++
+M
+)
+
+Special cases:
+
+Vacuum: 
+𝐵
+=
+𝜇
+0
+𝐻
+B=μ
+0
+	​
+
+H
+
+Linear material: 
+𝑀
+=
+𝜒
+𝐻
+M=χH
+
+Hence:
+
+𝐵
+=
+𝜇
+0
+(
+1
++
+𝜒
+)
+𝐻
+=
+𝜇
+0
+𝜇
+𝑟
+𝐻
+B=μ
+0
+	​
+
+(1+χ)H=μ
+0
+	​
+
+μ
+r
+	​
+
+H
+5️⃣ Temperature Effect on Magnetic Materials
+
+Add:
+
+Diamagnetic: χ independent of T
+
+Paramagnetic: χ ∝ 1/T (Curie’s law)
+
+Ferromagnetic:
+
+Loses ferromagnetism above Curie temperature
+
+Becomes paramagnetic
+
+6️⃣ Permanent vs Temporary Magnets (Hysteresis application)
+
+Add table idea:
+
+Property	Soft Iron	Steel
+Retentivity	Low	High
+Coercivity	Low	High
+Use	Transformers	Permanent magnets
+🔥 FINAL VERDICT ON CONTENT
+
+✔ Theory: 85% complete
+✔ With add-ons: 100% exam-ready
+✔ Suitable for Boards + JEE Main + JEE Adv (theory)
+
+✅ PART 2: 60 MCQs (Easy → JEE Advanced)
+🟢 EASY (1–20)
+
+1. Magnetic field lines always form
+A) Open curves
+B) Closed loops
+C) Straight lines
+D) Parallel lines
+
+2. Like magnetic poles
+A) Attract
+B) Repel
+C) Rotate
+D) Neutralize
+
+3. Magnetic monopoles
+A) Exist
+B) Can be isolated
+C) Do not exist
+D) Exist only in theory
+
+4. Direction of magnetic field is given by
+A) Tangent to field line
+B) Normal to surface
+C) Radius vector
+D) Curl
+
+5. SI unit of magnetic dipole moment is
+A) A/m
+B) A·m
+C) A·m²
+D) T·m
+
+6. Magnetic dipole moment of bar magnet is
+A) m/l
+B) m × 2l
+C) 2m/l
+D) ml
+
+7. Axial field of dipole varies as
+A) 1/r
+B) 1/r²
+C) 1/r³
+D) r³
+
+8. Equatorial field is ____ axial field
+A) Same as
+B) Double
+C) Half
+D) Zero
+
+9. Torque on magnetic dipole is zero when
+A) θ = 90°
+B) θ = 45°
+C) θ = 0°
+D) θ = 30°
+
+10. Stable equilibrium of dipole occurs when
+A) M ⟂ B
+B) M ∥ B
+C) M antiparallel B
+D) Random
+
+11. Earth’s magnetic field is strongest at
+A) Equator
+B) Poles
+C) Tropics
+D) Everywhere same
+
+12. Angle of dip at magnetic equator is
+A) 90°
+B) 45°
+C) 0°
+D) 60°
+
+13. Horizontal component of Earth’s field is
+A) B sin I
+B) B cos I
+C) B tan I
+D) B/I
+
+14. Diamagnetic materials have susceptibility
+A) Large positive
+B) Small positive
+C) Small negative
+D) Zero
+
+15. Example of diamagnetic substance
+A) Iron
+B) Aluminium
+C) Copper
+D) Nickel
+
+16. Paramagnetic substances are
+A) Strongly repelled
+B) Weakly attracted
+C) Strongly attracted
+D) Not affected
+
+17. χ for ferromagnetic materials is
+A) Negative
+B) Zero
+C) Small positive
+D) Very large positive
+
+18. Curie temperature is related to
+A) Diamagnetism
+B) Paramagnetism
+C) Ferromagnetism
+D) Superconductivity
+
+19. B-H curve shows
+A) Polarization
+B) Hysteresis
+C) Induction
+D) Reflection
+
+20. Area of hysteresis loop represents
+A) Magnetization
+B) Flux
+C) Energy loss
+D) Field strength
+
+🟡 MEDIUM (21–40)
+
+21. Magnetic field at equatorial point is directed
+A) Along dipole
+B) Opposite to dipole
+C) Perpendicular
+D) Zero
+
+22. Ratio of axial to equatorial field is
+A) 1:1
+B) 2:1
+C) 1:2
+D) 3:1
+
+23. Unit of magnetic field intensity H is
+A) Tesla
+B) A/m
+C) Weber
+D) N/A
+
+24. Relation between B, H and M is
+A) B = μ₀H
+B) B = μ₀M
+C) B = μ₀(H + M)
+D) B = H + M
+
+25. Relative permeability μᵣ is
+A) χ
+B) 1 + χ
+C) μ₀χ
+D) 1/χ
+
+26. Neutral points are formed due to
+A) Two magnets
+B) Magnet and Earth’s field
+C) Two currents
+D) Electric field
+
+27. At magnetic equator, dip angle is
+A) 90°
+B) 45°
+C) 0°
+D) 60°
+
+28. In paramagnetic materials, susceptibility
+A) Independent of T
+B) ∝ T
+C) ∝ 1/T
+D) ∝ T²
+
+29. Ferromagnet becomes paramagnetic above
+A) Retentivity
+B) Coercivity
+C) Curie temperature
+D) Saturation
+
+30. Which has highest coercivity?
+A) Soft iron
+B) Steel
+C) Copper
+D) Aluminium
+
+31. Magnetic moment per unit volume is
+A) H
+B) B
+C) M
+D) χ
+
+32. A good permanent magnet has
+A) Low coercivity
+B) High retentivity
+C) Low hysteresis loss
+D) Small loop
+
+33. Soft iron is used in transformers because of
+A) High retentivity
+B) Low hysteresis loss
+C) High coercivity
+D) High resistance
+
+34. Susceptibility of diamagnetic material is
+A) >1
+B) <0
+C) =0
+D) Infinite
+
+35. Earth’s magnetic field lines are
+A) Open
+B) Closed
+C) Parallel
+D) Straight
+
+36. Magnetic field at poles is
+A) Horizontal
+B) Vertical
+C) Zero
+D) Inclined
+
+37. SI unit of magnetization is
+A) Tesla
+B) A/m
+C) Weber
+D) A·m²
+
+38. Retentivity is
+A) Residual B at H=0
+B) H at B=0
+C) Maximum B
+D) Area of loop
+
+39. Coercivity is
+A) B at H=0
+B) H required to demagnetize
+C) Max flux
+D) Loop area
+
+40. Permeability of vacuum is
+A) 4π×10⁻⁷
+B) 10⁻⁷
+C) π×10⁻⁷
+D) 1
+
+🔴 HARD (41–60)
+
+41. A magnetic dipole in uniform field has
+A) Force only
+B) Torque only
+C) Both force and torque
+D) Neither
+
+42. Magnetic field inside material depends on
+A) H only
+B) M only
+C) H and M
+D) χ only
+
+43. For diamagnetic material, μᵣ is
+A) >1
+B) <1
+C) =1
+D) Infinite
+
+44. Earth’s magnetic moment is of order
+A) 10¹⁸
+B) 10²⁰
+C) 10²²
+D) 10²⁴
+
+45. Magnetization exists even without field in
+A) Diamagnetic
+B) Paramagnetic
+C) Ferromagnetic
+D) Non-magnetic
+
+46. Magnetic susceptibility of ferromagnets
+A) Constant
+B) Very large
+C) Negative
+D) Zero
+
+47. Which curve is closed?
+A) B vs T
+B) M vs H
+C) B vs H
+D) χ vs T
+
+48. Energy loss per cycle is measured by
+A) Height of loop
+B) Width of loop
+C) Area of loop
+D) Slope of loop
+
+49. Magnetic field at axial point of short magnet varies as
+A) 1/r²
+B) 1/r³
+C) r
+D) r²
+
+50. For permanent magnet, we need
+A) Small loop
+B) Large loop
+C) Zero loop
+D) No loop
+
+51. Which is temperature independent?
+A) Paramagnetism
+B) Ferromagnetism
+C) Diamagnetism
+D) Superconductivity
+
+52. In ferromagnets, magnetism is due to
+A) Free electrons
+B) Domains
+C) Nuclei
+D) Orbits only
+
+53. Magnetic field lines inside magnet go from
+A) N to S
+B) S to N
+C) Both
+D) Random
+
+54. Horizontal component is zero at
+A) Equator
+B) Poles
+C) Tropics
+D) Everywhere
+
+55. Dip angle at poles is
+A) 0°
+B) 30°
+C) 45°
+D) 90°
+
+56. Which has smallest χ?
+A) Iron
+B) Aluminium
+C) Copper
+D) Nickel
+
+57. B/H gives
+A) χ
+B) μ
+C) μᵣ
+D) M
+
+58. Neutral points are used to find
+A) Current
+B) Magnetic moment
+C) Earth’s field
+D) Flux
+
+59. Domain theory explains
+A) Diamagnetism
+B) Paramagnetism
+C) Ferromagnetism
+D) Superconductivity
+
+60. Hysteresis loss is minimum for
+A) Steel
+B) Soft iron
+C) Nickel
+D) Cobalt

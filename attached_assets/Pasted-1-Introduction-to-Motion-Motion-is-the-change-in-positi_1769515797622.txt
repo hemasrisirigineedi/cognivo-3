@@ -1,0 +1,420 @@
+1️⃣ Introduction to Motion
+
+Motion is the change in position of an object with time relative to a reference point.
+
+If position changes → object is in motion
+
+If position does not change → object is at rest
+
+📌 In this chapter, we study rectilinear motion (motion along a straight line).
+📌 Objects are treated as point objects when their size is very small compared to distance travelled.
+📌 Kinematics describes motion without discussing the causes (forces).
+
+🔹 Example
+
+A car moving from 0 m to 50 m in 5 s is in motion because its position changes with time.
+
+2️⃣ Position, Path Length & Displacement
+✔ Position
+
+Location of an object with respect to a chosen origin.
+
+✔ Path Length (Distance)
+
+Total length of actual path travelled
+
+Scalar quantity (only magnitude)
+
+✔ Displacement
+
+Change in position
+
+Vector quantity
+
+Formula:
+
+Δ
+𝑥
+=
+𝑥
+2
+−
+𝑥
+1
+Δx=x
+2
+	​
+
+−x
+1
+	​
+
+
+Can be positive, negative, or zero
+
+🔹 Example
+
+A person walks 10 m east and then 10 m west:
+
+Distance = 20 m
+
+Displacement = 0 m
+
+3️⃣ Average Velocity & Average Speed
+✔ Average Velocity
+𝑣
+avg
+=
+Displacement
+Time interval
+v
+avg
+	​
+
+=
+Time interval
+Displacement
+	​
+
+
+Vector quantity
+
+Depends on direction
+
+✔ Average Speed
+Average speed
+=
+Total distance
+Total time
+Average speed=
+Total time
+Total distance
+	​
+
+
+Scalar quantity
+
+Always ≥ |average velocity|
+
+🔹 Example
+
+Walk 4 m forward, then 4 m backward in 4 s:
+
+Distance = 8 m → speed = 2 m/s
+
+Displacement = 0 → average velocity = 0
+
+4️⃣ Instantaneous Velocity & Speed
+✔ Instantaneous Velocity
+
+Velocity at a particular instant of time.
+
+𝑣
+=
+lim
+⁡
+Δ
+𝑡
+→
+0
+Δ
+𝑥
+Δ
+𝑡
+=
+𝑑
+𝑥
+𝑑
+𝑡
+v=
+Δt→0
+lim
+	​
+
+Δt
+Δx
+	​
+
+=
+dt
+dx
+	​
+
+
+Rate of change of position
+
+Vector quantity
+
+📌 On position–time (x–t) graph:
+
+Velocity = slope of tangent
+
+✔ Instantaneous Speed
+
+Magnitude of instantaneous velocity
+
+Always positive
+
+🔹 Example
+
+If position equation is:
+
+𝑥
+=
+5
+𝑡
+2
+x=5t
+2
+
+Then:
+
+𝑣
+=
+𝑑
+𝑥
+𝑑
+𝑡
+=
+10
+𝑡
+v=
+dt
+dx
+	​
+
+=10t
+5️⃣ Acceleration
+✔ Average Acceleration
+𝑎
+avg
+=
+Δ
+𝑣
+Δ
+𝑡
+a
+avg
+	​
+
+=
+Δt
+Δv
+	​
+
+✔ Instantaneous Acceleration
+𝑎
+=
+𝑑
+𝑣
+𝑑
+𝑡
+=
+𝑑
+2
+𝑥
+𝑑
+𝑡
+2
+a=
+dt
+dv
+	​
+
+=
+dt
+2
+d
+2
+x
+	​
+
+
+Rate of change of velocity
+
+Vector quantity
+
+SI unit: m/s²
+
+🔹 Very Important Ideas
+
+Velocity can be zero but acceleration non-zero
+
+Acceleration can be negative even when speed increases (depends on direction choice)
+
+🔹 Example
+
+A ball thrown upward:
+
+At highest point → velocity = 0
+
+Acceleration = −g (non-zero)
+
+6️⃣ Motion Graphs (VERY IMPORTANT)
+✔ Position–Time (x–t) Graph
+
+Slope → velocity
+
+Straight line → uniform velocity
+
+Curve → acceleration present
+
+✔ Velocity–Time (v–t) Graph
+
+Slope → acceleration
+
+Area under curve → displacement
+
+✔ Acceleration–Time (a–t) Graph
+
+Area → change in velocity
+
+🔹 Example
+
+If v–t graph is horizontal → acceleration = 0
+
+7️⃣ Kinematic Equations (Constant Acceleration ONLY)
+
+Valid only when acceleration is constant:
+
+𝑣
+=
+𝑢
++
+𝑎
+𝑡
+v=u+at
+
+𝑥
+=
+𝑢
+𝑡
++
+1
+2
+𝑎
+𝑡
+2
+x=ut+
+2
+1
+	​
+
+at
+2
+
+𝑣
+2
+=
+𝑢
+2
++
+2
+𝑎
+𝑥
+v
+2
+=u
+2
++2ax
+
+📌 Cannot be used if acceleration varies with time.
+
+🔹 Example
+
+Object starts from rest (u = 0), a = 2 m/s², t = 5 s:
+
+𝑣
+=
+0
++
+2
+(
+5
+)
+=
+10
+ m/s
+v=0+2(5)=10 m/s
+8️⃣ Sign Convention (EXAM TRAP ZONE ⚠️)
+
+Direction chosen as positive decides signs
+
+Same acceleration can increase or decrease speed
+
+🔹 Example
+
+Upward direction positive:
+
+Gravity → acceleration = −9.8 m/s²
+
+Falling object → speed increases even though acceleration is negative
+
+9️⃣ Free Fall (Special Case)
+
+Motion under gravity only
+
+Acceleration = g ≈ 9.8 m/s² (downward)
+
+Uniform acceleration
+
+Equations:
+
+𝑣
+=
+𝑔
+𝑡
+,
+𝑦
+=
+1
+2
+𝑔
+𝑡
+2
+,
+𝑣
+2
+=
+2
+𝑔
+𝑦
+v=gt,y=
+2
+1
+	​
+
+gt
+2
+,v
+2
+=2gy
+🔟 Relative Velocity (1D)
+
+Velocity of A relative to B:
+
+𝑣
+𝐴
+𝐵
+=
+𝑣
+𝐴
+−
+𝑣
+𝐵
+v
+AB
+	​
+
+=v
+A
+	​
+
+−v
+B
+	​
+
+🔹 Example
+
+Car A: 20 m/s, Car B: 15 m/s
+Velocity of A relative to B = 5 m/s
